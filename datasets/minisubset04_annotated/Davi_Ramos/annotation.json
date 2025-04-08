@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Davi_Ramos/title_images/Davi_Ramos_before_ACA_JJ_14.png",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "5",
+        "birth_month": "11",
+        "birth_year": "1986",
+        "estimated_year_creation_left": "2018",
+        "estimated_year_creation_right": "2018",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

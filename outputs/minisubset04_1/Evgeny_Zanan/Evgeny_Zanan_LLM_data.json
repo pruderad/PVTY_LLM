@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Evgeny Zanan",
+        "birthday": "5 February 1998",
+        "year_of_photo": "Some year from caption: 2017",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": "Zanan at the 2017 Andorra open",
+        "path": "datasets/minisubset04_annotated/Evgeny_Zanan/title_images/Evgeny_Zanan_at_2017_Andorra_open_(cropped).jpg"
+    }
+]

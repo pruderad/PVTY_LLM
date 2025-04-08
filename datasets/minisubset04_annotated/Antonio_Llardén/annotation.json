@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Antonio_Llard\u00e9n/images/El_mat\u00ed_de_Catalunya_R\u00e0dio_26_(cropped).jpg",
+        "fully_annotated": false,
+        "birthday_annotated": false,
+        "figure_year_annotated": false,
+        "face_found": false,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1951",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "No year of the photo\nNo bounding box\nNo exact birth date\n",
+        "bounding_box_index": null
+    }
+]

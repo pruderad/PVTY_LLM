@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Alem\u00e3o_(footballer,_born_November_1982)/title_images/Everson_Arantes_de_Oliveira.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "29",
+        "birth_month": "11",
+        "birth_year": "1982",
+        "estimated_year_creation_left": "2008",
+        "estimated_year_creation_right": "2008",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

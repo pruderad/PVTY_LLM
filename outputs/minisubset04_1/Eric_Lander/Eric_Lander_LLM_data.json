@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Eric Steven Lander",
+        "birthday": "February 3, 1957",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "Lander in 2023",
+        "path": "datasets/minisubset04_annotated/Eric_Lander/title_images/Eric_Lander_in_2023_A_01.jpg"
+    }
+]

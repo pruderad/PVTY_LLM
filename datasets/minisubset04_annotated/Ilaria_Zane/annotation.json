@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Ilaria_Zane/images/2022-08-12_European_Championships_2022_\u2013_Triathlon_Elite_Women_by_Sandro_Halank\u2013125.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "10",
+        "birth_month": "2",
+        "birth_year": "1992",
+        "estimated_year_creation_left": "2022",
+        "estimated_year_creation_right": "2022",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

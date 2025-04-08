@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Joanne_Stepaniak/title_images/Jo_Stepaniak_(Author_of_The_Ultimate_Uncheese_Cookbook)_with_husband_at_Vegan_Wedding_at_NAVS_Summerfest.jpg",
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "birth_day": "7",
+        "birth_month": "1",
+        "birth_year": "1954",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "No photo year\n",
+        "bounding_box_index": 5
+    }
+]

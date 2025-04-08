@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jane Lindskold",
+        "birthday": "September 15, 1962",
+        "year_of_photo": "Some year in caption but not clear if it is a year when was photo taken or something else so taking as 2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "Jane Lindskold in 2015",
+        "path": "./minisubset04_annotated/Jane_Lindskold/title_images/Jane_lindskold_8428.jpg"
+    }
+]

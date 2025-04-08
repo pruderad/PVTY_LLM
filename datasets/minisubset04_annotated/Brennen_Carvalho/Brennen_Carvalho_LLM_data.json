@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Brennen Michael-Kapono Carvalho",
+        "birthday": "December 31, 1985",
+        "year_of_photo": "Some year in 2017",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": "Carvalho in 2017",
+        "path": "./minisubset04_annotated/Brennen_Carvalho/title_images/Brennen_Carvalho.jpg"
+    }
+]

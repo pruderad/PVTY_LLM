@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Benjamin Leroy",
+        "birthday": "7 April 1989",
+        "year_of_photo": "Some year in 2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Leroy with [[AC Ajaccio|Ajaccio]] in 2018",
+        "path": "./minisubset04_annotated/Benjamin_Leroy/title_images/RC_Lens_-_AC_Ajaccio_(22-12-2018)_26.jpg"
+    }
+]

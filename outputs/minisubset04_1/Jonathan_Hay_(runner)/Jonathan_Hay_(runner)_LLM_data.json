@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jonathan 'Jonny' Hay",
+        "birthday": "12 February 1992",
+        "year_of_photo": "2016",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": "Hay in 2016",
+        "path": "datasets/minisubset04_annotated/Jonathan_Hay_(runner)/title_images/Jonathan_Hay_-_London_Marathon_-_2016_(cropped).jpg"
+    }
+]

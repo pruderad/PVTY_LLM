@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Luisa_Schulze/title_images/2022-05-28_Handball_Frauen,_OLYMP_Final4_2022,_Th\u00fcringer_HC_-_SG_BBM_Bietigheim_1DX_2956_by_Stepro.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "14",
+        "birth_month": "9",
+        "birth_year": "1990",
+        "estimated_year_creation_left": "2022",
+        "estimated_year_creation_right": "2022",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1
+    }
+]

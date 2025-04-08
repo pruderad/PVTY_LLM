@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jean-Marcellin Buttin",
+        "birthday": "16 December 1991",
+        "year_of_photo": "None",
+        "year_of_photo_int": 0,
+        "can_determine": false,
+        "caption": null,
+        "path": "datasets/minisubset04_annotated/Jean-Marcellin_Buttin/title_images/Jean-Marcellin_Buttin.JPG"
+    }
+]

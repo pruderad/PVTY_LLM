@@ -1,0 +1,30 @@
+[
+    {
+        "path": "./minisubset04/Mike_Holmgren/images/Bill_Clinton_with_Green_Bay_Packers_team_at_White_House.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "15",
+        "birth_month": "6",
+        "birth_year": "1948",
+        "estimated_year_creation_left": "1997",
+        "estimated_year_creation_right": "1997",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 11
+    },
+    {
+        "path": "./minisubset04/Mike_Holmgren/images/19981213_24_Mike_Holmgren,_Lambeau_Field,.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "15",
+        "birth_month": "6",
+        "birth_year": "1948",
+        "estimated_year_creation_left": "1998",
+        "estimated_year_creation_right": "1998",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jang Ye-won",
+        "birthday": "July 14, 1990",
+        "year_of_photo": "Some year in the past",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "Jang in 2014",
+        "path": "./minisubset04_annotated/Jang_Ye-won/title_images/Team_Korea_Russia_WorldCup_04-2_(cropped).jpg"
+    }
+]

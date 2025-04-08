@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/David_Uosikkinen/title_images/2022_Lieder_am_See_-_The_Hooters_-_David_Uosikkinen_-_by_2eight_-_9SC5280.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "11",
+        "birth_month": "2",
+        "birth_year": "1956",
+        "estimated_year_creation_left": "2022",
+        "estimated_year_creation_right": "2022",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

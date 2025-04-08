@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Tatyana_Devyatova/title_images/Tatyana_Devyatova_1966.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "19",
+        "birth_month": "9",
+        "birth_year": "1948",
+        "estimated_year_creation_left": "1966",
+        "estimated_year_creation_right": "1966",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

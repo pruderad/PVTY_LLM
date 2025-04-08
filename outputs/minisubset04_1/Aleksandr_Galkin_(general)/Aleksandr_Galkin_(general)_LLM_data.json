@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Aleksandr Viktorovich Galkin",
+        "birthday": "22 March 1958",
+        "year_of_photo": "Some year in caption, lets use it as int: ",
+        "year_of_photo_int": 2009,
+        "can_determine": true,
+        "caption": "Galkin in 2009",
+        "path": "datasets/minisubset04_annotated/Aleksandr_Galkin_(general)/title_images/Alexander_Galkin.jpg"
+    }
+]

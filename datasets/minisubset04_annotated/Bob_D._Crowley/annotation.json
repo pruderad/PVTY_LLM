@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Bob_D._Crowley/images/Bob_D._Crowley.jpg",
+        "fully_annotated": false,
+        "birthday_annotated": false,
+        "figure_year_annotated": false,
+        "face_found": false,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Impossible to anotate\nPerhaps wrong picture given the article\n",
+        "bounding_box_index": 0
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ashnoor Kaur",
+        "birthday": "3 May 2004",
+        "year_of_photo": "Some year in caption, but we can determine it exactly as: ",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Kaur during an interview in 2019",
+        "path": "datasets/minisubset04_annotated/Ashnoor_Kaur/images/Ashnoor_Kaur.jpg"
+    },
+    {
+        "name": "Ashnoor Kaur",
+        "birthday": "3 May 2004",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "Kaur in 2023",
+        "path": "datasets/minisubset04_annotated/Ashnoor_Kaur/title_images/Ashnoor_Kaur_at_Boogle_Bollywood_Ballistic_Awards_2023_(cropped_2).jpg"
+    }
+]

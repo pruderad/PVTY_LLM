@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Brad Alexander",
+        "birthday": "February 2, 1971",
+        "year_of_photo": "None",
+        "year_of_photo_int": 0,
+        "can_determine": false,
+        "caption": null,
+        "path": "datasets/minisubset04_annotated/Brad_Alexander/title_images/Brad-304.jpg"
+    }
+]

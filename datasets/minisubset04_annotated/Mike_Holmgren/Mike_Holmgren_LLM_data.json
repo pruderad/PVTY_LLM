@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Michael George Holmgren",
+        "birthday": "June 15, 1948",
+        "year_of_photo": "1997",
+        "year_of_photo_int": 1997,
+        "can_determine": true,
+        "caption": "left|Holmgren in 1997",
+        "path": "./minisubset04_annotated/Mike_Holmgren/images/Bill_Clinton_with_Green_Bay_Packers_team_at_White_House.jpg"
+    },
+    {
+        "name": "Michael George Holmgren",
+        "birthday": "June 15, 1948",
+        "year_of_photo": "1998",
+        "year_of_photo_int": 1998,
+        "can_determine": true,
+        "caption": "right|Holmgren in a 1998 game",
+        "path": "./minisubset04_annotated/Mike_Holmgren/images/19981213_24_Mike_Holmgren,_Lambeau_Field,.jpg"
+    }
+]

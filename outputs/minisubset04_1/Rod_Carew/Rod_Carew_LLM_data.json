@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Rodney Cline Carew",
+        "birthday": "October 1, 1945",
+        "year_of_photo": "Some year in 1975 or before",
+        "year_of_photo_int": 1975,
+        "can_determine": true,
+        "caption": "left|Carew with the Minnesota Twins warming up before a game in Cleveland in 1975",
+        "path": "datasets/minisubset04_annotated/Rod_Carew/images/Rod-carew_cleveland_08-31-1975.jpg"
+    },
+    {
+        "name": "Rodney Cline Carew",
+        "birthday": "October 1, 1945",
+        "year_of_photo": "None",
+        "year_of_photo_int": 1977,
+        "can_determine": false,
+        "caption": "upright|Carew with the Angels.",
+        "path": "datasets/minisubset04_annotated/Rod_Carew/images/Rod_Carew_Angelscard.png"
+    },
+    {
+        "name": "Rodney Cline Carew",
+        "birthday": "October 1, 1945",
+        "year_of_photo": "1979",
+        "year_of_photo_int": 1979,
+        "can_determine": true,
+        "caption": "right|255px|Carew bats at Yankee Stadium in 1979.",
+        "path": "datasets/minisubset04_annotated/Rod_Carew/images/Rod_Carew_at_Yankee_Stadium.jpg"
+    },
+    {
+        "name": "Rodney Cline Carew",
+        "birthday": "October 1, 1945",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "Carew (''left'') talks to a fan in May 2014.",
+        "path": "datasets/minisubset04_annotated/Rod_Carew/images/Rod_Carew_talks_to_fan_in_May_2014.jpg"
+    },
+    {
+        "name": "Rodney Cline Carew",
+        "birthday": "October 1, 1945",
+        "year_of_photo": "1978",
+        "year_of_photo_int": 1978,
+        "can_determine": true,
+        "caption": "Carew with the Minnesota Twins in 1978",
+        "path": "datasets/minisubset04_annotated/Rod_Carew/title_images/1978_Minnesota_Twins_Postcards_Rod_Carew.jpg"
+    }
+]

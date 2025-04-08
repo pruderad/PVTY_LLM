@@ -1,0 +1,30 @@
+[
+    {
+        "path": "./minisubset04/Virgil_Moorefield/images/Virgil-moorefield.jpg",
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "birth_day": "9",
+        "birth_month": "8",
+        "birth_year": "1956",
+        "estimated_year_creation_left": "2011",
+        "estimated_year_creation_right": "2011",
+        "annotation_shortcommings": "No bbox\n",
+        "bounding_box_index": null
+    },
+    {
+        "path": "./minisubset04/Virgil_Moorefield/title_images/Virgl_moorefield_guitar.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "9",
+        "birth_month": "8",
+        "birth_year": "1956",
+        "estimated_year_creation_left": "2014",
+        "estimated_year_creation_right": "2014",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

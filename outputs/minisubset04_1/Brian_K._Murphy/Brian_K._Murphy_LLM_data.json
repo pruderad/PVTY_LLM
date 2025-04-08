@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Brian Kevin Patrick Murphy",
+        "birthday": "October 3, 1985",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "Murphy on 30 October 2023",
+        "path": "datasets/minisubset04_annotated/Brian_K._Murphy/title_images/Brian_K._Murphy_outside_NADPOD_performance_in_Portland_Oregon_on_30_October_2023.jpg"
+    }
+]

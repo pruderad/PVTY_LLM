@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/David_Gaider/title_images/David-Gaider-SummerfallStudios_copy.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "25",
+        "birth_month": "10",
+        "birth_year": "1971",
+        "estimated_year_creation_left": "2019",
+        "estimated_year_creation_right": "2020",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "path": "./minisubset04/Shelley_Duncan/images/Shelley_Duncan_on_June_30,_2012.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "29",
+        "birth_month": "9",
+        "birth_year": "1979",
+        "estimated_year_creation_left": "2012",
+        "estimated_year_creation_right": "2012",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 3
+    },
+    {
+        "path": "./minisubset04/Shelley_Duncan/title_images/Shelley_Duncan_on_April_17,_2013.jpg",
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "birth_day": "29",
+        "birth_month": "9",
+        "birth_year": "1979",
+        "estimated_year_creation_left": "2013",
+        "estimated_year_creation_right": "2013",
+        "annotation_shortcommings": "No bbox\n",
+        "bounding_box_index": null
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Sarah_Olney/title_images/Official_portrait_of_Sarah_Olney_MP_crop_2,_2024.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "11",
+        "birth_month": "1",
+        "birth_year": "1977",
+        "estimated_year_creation_left": "2024",
+        "estimated_year_creation_right": "2024",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Gregory Keyes",
+        "birthday": "April 11, 1963",
+        "year_of_photo": "2010",
+        "year_of_photo_int": 2010,
+        "can_determine": true,
+        "caption": "Keyes in 2010",
+        "path": "./minisubset04_annotated/Gregory_Keyes/title_images/Greg_Keyes-Imaginales_2010.jpg"
+    }
+]

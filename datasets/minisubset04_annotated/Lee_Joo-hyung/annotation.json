@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Lee_Joo-hyung/title_images/\uc81c6\ud68c_\ucf54\uce74-\ucf5c\ub77c_\uccb4\uc721\ub300\uc0c1_\ucd5c\uc6b0\uc218\uc120\uc218\uc0c1_\uc218\uc0c1\uc790_\uc774\uc8fc\ud615.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "5",
+        "birth_month": "3",
+        "birth_year": "1973",
+        "estimated_year_creation_left": "2015",
+        "estimated_year_creation_right": "2015",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

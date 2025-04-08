@@ -1,0 +1,60 @@
+William A  Gardner (born Allen William Mclean, November 4, 1942) is a theoretically inclined electrical engineer who specializes in the advancement of the theory of statistical time-series analysis and statistical inference with emphasis on signal processing algorithm design and performance analysis. He is also an entrepreneur, a professor emeritus with the University of California, Davis, founder of the R&D firm Statistical Signal Processing, Inc. (SSPI), and former president, CEO, and chief scientist of this firm for 25 years (1986 to 2011) prior to sale of its IP to Lockheed Martin.
+
+Gardner has authored four advanced-level engineering books on statistical signal processing theory including Statistical Spectral Analysis: A Nonprobabilistic Theory, 1987, which has been cited over 1200 times in peer-reviewed journal articles. Gardner's approach in this book is considered to be in keeping with the work of Norbert Wiener in his classic treatise Generalized Harmonic Analysis first published in 1930.
+
+In the literature, Gardner is referred to as an influential pioneer of cyclostationarity theory and methodology, on the basis of his being a contributor of seminal advances. Gardner has written more than 100 peer-reviewed original-research articles. His research papers and books have been cited in seventeen thousand peer-reviewed journal articles.
+
+ Biography 
+Gardner married Nancy Susan Lenhart in June 1966 and the following year completed his M.S. in Electrical Engineering from Stanford University, attended Massachusetts Institute of Technology while employed as a member of technical staff at Bell Telephone Laboratories from 1967 to 1969, and completed his Ph.D. in Electrical Engineering from University of Massachusetts under the supervision of Lewis E. Franks in 1972, at which time he joined the University of California, Davis as an Assistant Professor.
+
+Gardner performed research and teaching there for nearly 30 years, becoming Professor Emeritus in 2001 and returning as Research Professor in 2023. In 1982, while at University of California, Gardner founded the R&D firm Statistical Signal Processing, Inc. (SSPI), an engineering research services company working primarily with the national security sector but also the cellular RF communications industry. He served as the president, CEO, and chief scientist of SSPI for 25 years. He also founded several entrepreneurial ventures during the latter 15 years of that period, including Gardner Technologies in 2001 for which he served as IP inventor and chief technology officer for five years.
+
+ Work 
+After completing his Ph.D. dissertation entitled "Representation and Estimation of Cyclostationary Processes," in 1972, Gardner began working on developing a new theory for the class of cyclostationary and polycyclostationary random processes.
+
+In 1985, he wrote his first book, Introduction to Random Processes with Applications to Signals and Systems, which focused on the duality between the stochastic theory based on mathematical expectation and the nonstochastic (non-population) theory based on time averaging, which theory he was developing. Amir Atiya wrote "The book is an excellent introduction to the theory of random processes... I recommend everyone working in the areas of signal processing and communications to own a copy." Lawrence Marple wrote "The depth of coverage and the ease of readability can be compared to classic texts such as [A Papoulis's book which emphasizes theory and J Bendat & A Piersol's book which emphasizes estimation in practice]. The two chapters on stochastic calculus and the theory of duality and ergodicity are two of the most accessible and easy to understand presentations of these topics in a textbook... The book covers all key aspects of second order statistics of random processes using many examples and without the theoretical trappings of other introductory texts on this subject."
+
+Gardner completed the fundamentals of his nonstochastic theory for stationary processes in 1984 and then reformulated all his research progress to date on cyclostationary stochastic processes within a nonstochastic framework: he developed the novel non-population theory of Fraction-of-Time (FOT) Probability for Poly-Cyclostationary time-series data.
+
+Gardner's 1987 book Statistical Spectral Analysis: A Non-probabilistic Theory presented his FOT theory of both stationary and poly-cyclostationary processes and/or time-series in Part I and Part II, respectively.
+
+Reviewing the book Statistical Spectral Analysis, Enders A Robinson wrote "In this work Professor Gardner has made a significant contribution to statistical spectral analysis, one that would please the early pioneers of spectral theory and especially Norbert Wiener." James Massey wrote "I admire the scholarship of this book and its radical departure from the stochastic process bandwagon of the past 40 years." Akiva Yaglom wrote "It is important . . . that until Gardner's . . . book was published there was no attempt to present the modern spectral analysis of random processes consistently in language that uses only time-averaging rather than averaging over the statistical ensemble (population) of realizations [of a stochastic process] . . . Professor Gardner's book is a valuable addition to the literature".
+
+Gardner's contributions throughout the literature of the last 50 years are identified by Antonio Napolitano in Cyclostationary Processes and Time Series. In the book, Gardner's work has been cited over 500 times. Gardner provided the original definition and mathematical characterization of almost cyclostationary (ACS) stochastic processes, including poly-CS stochastic processes. He further gave the original definition and mathematical characterization of non-stochastic fraction-of-time (FOT) probabilistic models of CS, ACS, and poly-CS time-series. He also originated the extensions and generalizations of the core theorems and relations comprising the second order and higher-order theories of stationary stochastic processes and stationary non-stochastic time-series to CS, poly-CS, and ACS processes and times-series.
+
+In 1987, Gardner was invited by the Editor of IEEE Signal Processing Magazine to write an introduction, for the signal processing community, to the recently discovered 1914 contribution of Albert Einstein to time-series analysis.  This introduction reveals the central role played by Professor Gardner's just-published time-average theory in understanding the relationship between Einstein's and Norbert Wiener's (1930) contributions to statistical spectral analysis.
+
+Gardner won the international IEEE Stephen O. Rice Prize Paper award in communication theory in 1988 and the International EURASIP Best Paper of the Year Award in 1987; both papers treated his theory of cyclostationarity. Gardner and his students went on to further prove the uses of his theory of cyclostationarity in applications in communications and signals intelligence. Together with his doctoral student Chi Kang Chen, he wrote the book of mathematical problem solving, The Random Processes Tutor: A Comprehensive Solutions Manual for Independent Study in 1989.
+
+Gardner, with the assistance of his doctoral student Chad Spooner, also generalized his theory from second-order to higher-order cyclostationarity in the early 1990s, and provided new insight into the statistical quantity called the cumulant. Later, he worked on cyclostationarity exploitation in the areas of enhanced radio reception for wireless communications and, more extensively, advanced RF signals intelligence. He was the editor and contributing author of the 1994 book, Cyclostationarity in Communications and Signal Processing. Douglas Cochran wrote "this book is a timely contribution that should be a valuable reference for academic and industrial R&D engineers in signal processing and communication systems." This book was an outgrowth of the first international Workshop on Cyclostationary Signals in 1992, which was funded jointly by the National Science Foundation and the Offices of Research of the US Army, Navy, and Air Force. Gardner served, by invitation of the NSF, as organizer and chair. His 2006 review paper, "Cyclostationarity: Half a Century of Research" received the Elsevier Most Cited Paper Award for multiple years.
+
+Applications of Gardner's theory include his discovery and development of the fundamental operational principles of cyclostationarity—Insensitivity to Noise and Interference, and Selectivity/Separability of spectral correlation measurements and the signals themselves—as well as demonstration of applicability to design and analysis of signal processing methods and algorithms for communications, telemetry, and radar systems. This body of work has demonstrated that substantial improvements in system performance can be obtained in various signal processing applications, such as detection, estimation, and classification of signals, by exploiting cyclostationarity—that is, by recognizing and modeling the properties CS and ACS instead of using the stationary-process models which were the standard before Gardner. Major applications include cellular telephone, spectrum sensing—for cognitive radio—and signals intelligence for national security. Chapters 9 and 10 of the book survey fields of application of the cyclostationarity paradigm and identify on the order of 100 distinct areas of application and cite about 500 published papers addressing these applications. Gardner in 2016 developed the ad hoc concept of time de-warping into the basic theory of converting irregular cyclostationarity into regular cyclostationarity as a means for rendering the extensive and powerful tools of cyclostationary signal processing technology applicable to natural data exhibiting irregular cyclicity, which pervades essentially all fields of science as well as engineering.
+
+ Other work 
+Gardner founded Gardner Technologies, Inc. and served as president and chief technical officer until 2006. Through Gardner Technologies, he ventured into more functional wine-packaging with patented wine bottle openers and closures. Upon terminating his brief cellular-telephone-technology venture with partner Stephen Schell, PureWave Technologies in 2001, he sold the IP to Apple.
+
+ Awards and honors 
+1986 - International Best-Paper-of-the-Year award from the European Association for Signal Processing
+1987 - Distinguished Engineering Alumnus Award from the University of Massachusetts
+1988 - International Stephen O. Rice Prize Paper Award in the Field of Communication Theory from the IEEE Communications Society.
+1991 - Life Fellow, Institute of Electrical and Electronics Engineers
+2005 - International DuPont Award for Innovation in Food Packaging Technology
+2005 - National Frost & Sullivan 2005 Annual Award for Consumer-Product-Design Excellence-in-Technology.
+2008 – International Most Cited Paper Award for the period 2005 – 2007 from Elsevier
+
+ Books 
+Introduction to Random Processes with Applications to Signals and Systems (1985); 2nd ed. (1990)
+Statistical Spectral Analysis: A Non-Probabilistic Theory (1987)
+The Random Process Tutor: A Comprehensive Solutions Manual for Independent Study (1990) re-release with errata, (2014)
+Cyclostationarity In Communications and Signal Processing (Editor and Contributor) (1994)
+
+ References 
+
+ External links 
+Cyclostationarity
+
+Category:Stanford University School of Engineering alumni
+Category:University of Massachusetts Amherst College of Engineering alumni
+Category:University of California, Davis faculty
+Category:Living people
+Category:1942 births

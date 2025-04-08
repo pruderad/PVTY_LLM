@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Ashatu_Kijaji/title_images/Ashatu_Kijaji_(born_1976)_at_WEF_Special_Meeting_on_Global_Collaboration,_Growth_and_Energy_for_Development,_2024.png",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "26",
+        "birth_month": "4",
+        "birth_year": "1976",
+        "estimated_year_creation_left": "2024",
+        "estimated_year_creation_right": "2024",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1
+    }
+]

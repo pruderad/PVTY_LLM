@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Kaj_Arn\u00f6/title_images/Kaj_Arn\u00f6_at_FOSDEM_2019_in_Brussels_03.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "29",
+        "birth_month": "6",
+        "birth_year": "1963",
+        "estimated_year_creation_left": "2019",
+        "estimated_year_creation_right": "2019",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "path": "./minisubset04/Hamadi_Jebali/images/Hamadi_Jebali_-_World_Economic_Forum_Annual_Meeting_2012-2.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "12",
+        "birth_month": "1",
+        "birth_year": "1949",
+        "estimated_year_creation_left": "2012",
+        "estimated_year_creation_right": "2012",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    },
+    {
+        "path": "./minisubset04/Hamadi_Jebali/title_images/Hamadi_Jebali_-_World_Economic_Forum_Annual_Meeting_2012-1_(cropped).jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "12",
+        "birth_month": "1",
+        "birth_year": "1949",
+        "estimated_year_creation_left": "2012",
+        "estimated_year_creation_right": "2012",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

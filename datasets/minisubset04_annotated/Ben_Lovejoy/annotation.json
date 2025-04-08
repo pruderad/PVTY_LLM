@@ -1,0 +1,30 @@
+[
+    {
+        "path": "./minisubset04/Ben_Lovejoy/images/2011-10-15_Ben_Lovejoy.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "20",
+        "birth_month": "2",
+        "birth_year": "1984",
+        "estimated_year_creation_left": "2011",
+        "estimated_year_creation_right": "2011",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    },
+    {
+        "path": "./minisubset04/Ben_Lovejoy/title_images/Ben_Lovejoy_2016-04-28_2.JPG",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "20",
+        "birth_month": "2",
+        "birth_year": "1984",
+        "estimated_year_creation_left": "2016",
+        "estimated_year_creation_right": "2016",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

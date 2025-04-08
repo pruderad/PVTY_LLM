@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Nathan_Williamson/title_images/Nathan_Williamson_Ball-up_2018_West_Coast_v_Essendon.jpg",
+        "fully_annotated": false,
+        "birthday_annotated": false,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "",
+        "estimated_year_creation_left": "2018",
+        "estimated_year_creation_right": "2018",
+        "annotation_shortcommings": "No face\nno birth date\n",
+        "bounding_box_index": 2
+    }
+]

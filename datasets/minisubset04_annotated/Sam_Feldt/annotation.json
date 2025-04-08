@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Sam_Feldt/title_images/SamFeldt2020_2_srgb_crop.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "1",
+        "birth_month": "8",
+        "birth_year": "1993",
+        "estimated_year_creation_left": "2021",
+        "estimated_year_creation_right": "2021",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Hologram_(wrestler)/title_images/Aramis_Coacalco_(cropped).jpg",
+        "fully_annotated": false,
+        "birthday_annotated": false,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "",
+        "estimated_year_creation_left": "2020",
+        "estimated_year_creation_right": "2020",
+        "annotation_shortcommings": "No face\nno bbox\nno birth date\n",
+        "bounding_box_index": null
+    }
+]

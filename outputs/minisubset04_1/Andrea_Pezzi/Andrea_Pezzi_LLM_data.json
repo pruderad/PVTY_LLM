@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Andrea Pezzi",
+        "birthday": "November 21, 1973",
+        "year_of_photo": "Some year in caption",
+        "year_of_photo_int": 2012,
+        "can_determine": true,
+        "caption": "Pezzi in 2012",
+        "path": "datasets/minisubset04_annotated/Andrea_Pezzi/title_images/Andrea_Pezzi_(cropped).jpg"
+    }
+]

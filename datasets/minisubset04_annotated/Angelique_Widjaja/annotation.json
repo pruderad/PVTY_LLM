@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Angelique_Widjaja/title_images/Angelique_Widjaja.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "12",
+        "birth_month": "12",
+        "birth_year": "1984",
+        "estimated_year_creation_left": "2006",
+        "estimated_year_creation_right": "2006",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

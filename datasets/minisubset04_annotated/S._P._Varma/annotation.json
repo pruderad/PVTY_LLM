@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/S._P._Varma/title_images/S_p_Varma_receiving_Padmashree_award.jpg",
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "birth_day": "25",
+        "birth_month": "2",
+        "birth_year": "1954",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "No photo year\n",
+        "bounding_box_index": 2
+    }
+]

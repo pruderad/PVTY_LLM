@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Rodolfo_Cota/title_images/M\u00e9xico_vs_Bosnia_2018_1_(cropped).png",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "3",
+        "birth_month": "7",
+        "birth_year": "1987",
+        "estimated_year_creation_left": "2018",
+        "estimated_year_creation_right": "2018",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

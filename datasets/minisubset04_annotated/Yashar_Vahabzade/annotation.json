@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Yashar_Vahabzade/title_images/Ya\u015far_Vahabzad\u0259.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "8",
+        "birth_month": "4",
+        "birth_year": "1960",
+        "estimated_year_creation_left": "2019",
+        "estimated_year_creation_right": "2019",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

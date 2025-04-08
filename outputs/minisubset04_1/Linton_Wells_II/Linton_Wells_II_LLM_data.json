@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Linton Wells II",
+        "birthday": "1946",
+        "year_of_photo": "2020",
+        "year_of_photo_int": 2020,
+        "can_determine": true,
+        "caption": "Wells in 2020",
+        "path": "datasets/minisubset04_annotated/Linton_Wells_II/title_images/Linton_Wells_II_in_2020.jpg"
+    }
+]

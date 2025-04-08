@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Brian_K._Murphy/title_images/Brian_K._Murphy_outside_NADPOD_performance_in_Portland_Oregon_on_30_October_2023.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "3",
+        "birth_month": "10",
+        "birth_year": "1985",
+        "estimated_year_creation_left": "2023",
+        "estimated_year_creation_right": "2023",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

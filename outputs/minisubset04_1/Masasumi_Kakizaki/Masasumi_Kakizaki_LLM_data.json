@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Kakizaki",
+        "birthday": "1978",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "Kakizaki at [[Lucca Comics & Games]] in 2014",
+        "path": "datasets/minisubset04_annotated/Masasumi_Kakizaki/title_images/Masasumi_Kakizaki_-_Lucca_Comics_&_Games_2014.JPG"
+    }
+]

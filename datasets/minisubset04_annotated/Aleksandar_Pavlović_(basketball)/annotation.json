@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Aleksandar_Pavlovi\u0107_(basketball)/title_images/Sasha_Pavlovic_Celtics.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "15",
+        "birth_month": "11",
+        "birth_year": "1983",
+        "estimated_year_creation_left": "2011",
+        "estimated_year_creation_right": "2011",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1
+    }
+]

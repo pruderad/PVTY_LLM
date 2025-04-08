@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Peter Anton",
+        "birthday": "1963",
+        "year_of_photo": "None",
+        "year_of_photo_int": 0,
+        "can_determine": false,
+        "caption": "250px|Peter Anton in his studio with completed sculptures",
+        "path": "datasets/minisubset04_annotated/Peter_Anton/images/Anton_studio_with_artist.jpg"
+    },
+    {
+        "name": "Peter Anton",
+        "birthday": "1963",
+        "year_of_photo": "2012",
+        "year_of_photo_int": 2012,
+        "can_determine": true,
+        "caption": "Peter Anton's ''Sugar & Gomorrah'' ride-installation during Art Basel Miami in December 2012",
+        "path": "datasets/minisubset04_annotated/Peter_Anton/images/Peter_Anton's_Sugar_&_Gomorrah_ride-installation_during_Art_Basel_Miami_in_December_2012.jpg"
+    },
+    {
+        "name": "Peter Anton",
+        "birthday": "1963",
+        "year_of_photo": "None",
+        "year_of_photo_int": 0,
+        "can_determine": false,
+        "caption": null,
+        "path": "datasets/minisubset04_annotated/Peter_Anton/title_images/Peter_anton_with_pop-tart.jpg"
+    }
+]

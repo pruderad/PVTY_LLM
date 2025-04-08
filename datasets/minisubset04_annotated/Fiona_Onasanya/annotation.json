@@ -1,0 +1,30 @@
+[
+    {
+        "path": "./minisubset04/Fiona_Onasanya/images/Fiona_Onasanya_leaving_RCJ.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "23",
+        "birth_month": "8",
+        "birth_year": "1983",
+        "estimated_year_creation_left": "2018",
+        "estimated_year_creation_right": "2025",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1
+    },
+    {
+        "path": "./minisubset04/Fiona_Onasanya/title_images/Official_portrait_of_Fiona_Onasanya_crop_2.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "23",
+        "birth_month": "8",
+        "birth_year": "1983",
+        "estimated_year_creation_left": "2017",
+        "estimated_year_creation_right": "2017",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

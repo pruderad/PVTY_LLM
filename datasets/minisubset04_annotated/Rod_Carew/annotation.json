@@ -1,0 +1,72 @@
+[
+    {
+        "path": "./minisubset04/Rod_Carew/images/Rod-carew_cleveland_08-31-1975.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "1",
+        "birth_month": "10",
+        "birth_year": "1945",
+        "estimated_year_creation_left": "1975",
+        "estimated_year_creation_right": "1975",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    },
+    {
+        "path": "./minisubset04/Rod_Carew/images/Rod_Carew_Angelscard.png",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "1",
+        "birth_month": "10",
+        "birth_year": "1945",
+        "estimated_year_creation_left": "1979",
+        "estimated_year_creation_right": "1979",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    },
+    {
+        "path": "./minisubset04/Rod_Carew/images/Rod_Carew_at_Yankee_Stadium.jpg",
+        "fully_annotated": false,
+        "birthday_annotated": false,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "birth_day": "1",
+        "birth_month": "10",
+        "birth_year": "1945",
+        "estimated_year_creation_left": "1979",
+        "estimated_year_creation_right": "1979",
+        "annotation_shortcommings": "Not a face\n",
+        "bounding_box_index": null
+    },
+    {
+        "path": "./minisubset04/Rod_Carew/images/Rod_Carew_talks_to_fan_in_May_2014.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "1",
+        "birth_month": "10",
+        "birth_year": "1945",
+        "estimated_year_creation_left": "2014",
+        "estimated_year_creation_right": "2014",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    },
+    {
+        "path": "./minisubset04/Rod_Carew/title_images/1978_Minnesota_Twins_Postcards_Rod_Carew.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "1",
+        "birth_month": "10",
+        "birth_year": "1945",
+        "estimated_year_creation_left": "1978",
+        "estimated_year_creation_right": "1978",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

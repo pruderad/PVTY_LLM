@@ -1,0 +1,44 @@
+[
+    {
+        "path": "./minisubset04/Roman_Kreuziger/images/Roman_Kreuziger_2011_Tour_de_France.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "6",
+        "birth_month": "5",
+        "birth_year": "1986",
+        "estimated_year_creation_left": "2011",
+        "estimated_year_creation_right": "2011",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    },
+    {
+        "path": "./minisubset04/Roman_Kreuziger/images/Tour_de_France_2013,_kreuziger_(14683110170).jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "6",
+        "birth_month": "5",
+        "birth_year": "1986",
+        "estimated_year_creation_left": "2013",
+        "estimated_year_creation_right": "2013",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1
+    },
+    {
+        "path": "./minisubset04/Roman_Kreuziger/title_images/Roman_Kreuziger_(Tour_de_France_2009_-_Stage_17).jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "6",
+        "birth_month": "5",
+        "birth_year": "1986",
+        "estimated_year_creation_left": "2009",
+        "estimated_year_creation_right": "2009",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

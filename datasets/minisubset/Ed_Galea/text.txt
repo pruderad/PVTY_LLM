@@ -1,0 +1,49 @@
+Edwin Richard Galea is a British academic specialising in fire safety engineering and evacuation dynamics. He is the founding director of the Fire Safety Engineering Group (FSEG) at the University of Greenwich, where he has conducted pioneering research in fire modelling, human behaviour in emergencies, and evacuation simulation since 1986.
+
+Galea has served in several major public inquiries such as the Paddington Rail Crash, the Swiss Air MD11 crash, the Admiral Duncan pub bombing, and the Grenfell Tower Fire. Further, he is part of the editorial board of Safety Science and an Associate Editor for the Aeronautical Journal of the Royal Aeronautical Society.
+
+Early life and education
+Galea was born in Melbourne, Australia, and developed an early interest in science and engineering. He pursued a bachelor's degree in Science, majoring in Physics and Mathematics at Monash University (1976 – 1980), followed by a Diploma in Education Monash University (1980–1981)  and a Ph.D. in astrophysics, with a focus on magnetohydrodynamics from Newcastle University, New South Wales (1981–1984).
+ 
+Early career
+Upon graduating Galea secured a position as an industrial mathematician at the Melbourne research laboratory for BHP (1984 – 1985). In 1985 Galea was offered a one-year post-doctoral position at St.Andrews University in Scotland to work on the mathematical modelling of magnetic flux tubes in the solar atmosphere.  Galea moved to the UK in October 1985, took up the position at St. Andrews but remained there for only a few months (1985 – 1986).
+ 
+Academic career
+Galea's academic career in fire safety research began at Thames Polytechnic in London (1986) with a three-year post-doctoral position  focused on Computational Fluid Dynamics (CFD) modelling of fire.  His project was concerned with utilising the ‘new’ technique of CFD fire modelling to explore the fire dynamics of the fatal Manchester Airport B737 fire of 1985 that claimed the lives of 55 people.  As such, it was one of the first applications of CFD fire modelling to the study of fatal post-crash aircraft fire.  Thames Polytechnic became the University of Greenwich in 1992, and Galea was appointed as Senior Lecturer in 1988, Reader (Associate Professor) in 1991 and full Professor in 1992.  At the age of 34, he was the youngest Professor appointed by the university.  He established the Fire Safety Engineering Group (FSEG) at the University of Greenwich in 1992. Today, FSEG in a world-leading research group in fire safety engineering.
+ 
+Research contributions
+Ed Galea's research has significantly advanced the field of fire safety engineering. He has developed several computational tools for fire and evacuation modeling, SMARTFIRE for CFD fire modelling, and the EXODUS suite of agent-based evacuation models including.
+ 
+Galea's work encompasses various aspects of fire safety, from the detailed simulation of fire spread to the analysis of human behaviour during evacuations. Galea has conducted extensive studies on the evacuation of high-rise buildings, ships, aircraft and urban environments, contributing to improved safety standards and practices in these environments.
+ 
+Awards and honours
+Throughout his career, Ed Galea has received numerous awards and honours for his contributions to fire safety engineering. These include:
+
+2001 British Computer Society Gold Medal for IT;
+
+2002 Queen's Anniversary Prize;
+
+2006 and 2017 Royal Aeronautical Society's Gold Award;
+
+2013 Royal Institution of Naval Architecture Medal of Distinction;
+
+Galea has also been recognized by professional organisations such as the Institution of Fire Engineers and the Society of Fire Protection Engineers.
+ 
+Publications and divulgation
+Galea has authored or co-authored over 350 peer-reviewed journal articles, conference papers, and book chapters. His publications are widely cited and have influenced both academic research and practical applications in fire safety engineering. Galea has been interviewed in many news articles and six documentaries focusing on fire and evacuation disasters.
+ 
+Professional involvement
+Galea is actively involved in several professional organizations and committees related to fire safety and evacuation. He frequently serves as a consultant to government agencies, regulatory bodies, and industry, providing expert advice on fire safety standards and policies.  He is a charted fire safety engineer, a charted mathematician and a fellow of the IFE and IMA.
+ 
+Personal life
+Galea resides in London and is known for his dedication to education and mentoring the next generation of fire safety engineers – he has supervised to completion 35 PhD students. He has been married since 1992. He enjoys photography, astronomy, driving performance cars and the cinema in his spare time.
+
+ References 
+
+External links
+ FSEG website
+ FSEG YouTube
+
+Category:Living people
+Category:British academics
+Category:Year of birth missing (living people)

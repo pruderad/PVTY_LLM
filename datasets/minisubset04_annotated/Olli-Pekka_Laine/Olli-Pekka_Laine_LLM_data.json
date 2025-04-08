@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Olli-Pekka Laine",
+        "birthday": "Some time in 1973",
+        "year_of_photo": "Some time in 2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Laine with Amorphis in 2018",
+        "path": "./minisubset04_annotated/Olli-Pekka_Laine/title_images/Amorphis_-_South_Park_Festival_2018_-_06.jpg"
+    }
+]

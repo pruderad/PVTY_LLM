@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Osmo_Tapio_R\u00e4ih\u00e4l\u00e4/images/Osmo_Tapio_Raihala.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "15",
+        "birth_month": "1",
+        "birth_year": "1964",
+        "estimated_year_creation_left": "2013",
+        "estimated_year_creation_right": "2013",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

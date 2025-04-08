@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Kate Smurthwaite",
+        "birthday": "Some time in 1975",
+        "year_of_photo": "Some time in 2010",
+        "year_of_photo_int": 2010,
+        "can_determine": false,
+        "caption": "Smurthwaite in 2010",
+        "path": "datasets/minisubset04_annotated/Kate_Smurthwaite/title_images/Kate_Smurthwaite,_2010.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Emma Molin",
+        "birthday": "1979-05-16",
+        "year_of_photo": "Some year in caption, lets use it",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "Emma Molin in 2014",
+        "path": "datasets/minisubset04_annotated/Emma_Molin/title_images/Emma_Molin_(cropped).jpg"
+    }
+]

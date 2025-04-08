@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Anna_Maria_Uusitalo/title_images/Anna_Maria_Nilsson_Ostersund_2008.jpg",
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "birth_day": "13",
+        "birth_month": "5",
+        "birth_year": "1983",
+        "estimated_year_creation_left": "2008",
+        "estimated_year_creation_right": "2008",
+        "annotation_shortcommings": "Not a specific bounding box\n",
+        "bounding_box_index": null
+    }
+]

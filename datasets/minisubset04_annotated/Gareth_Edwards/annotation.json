@@ -1,0 +1,44 @@
+[
+    {
+        "path": "./minisubset04/Gareth_Edwards/images/Painting_at_Cardiff_Arms_Park_2008.jpg",
+        "fully_annotated": false,
+        "birthday_annotated": false,
+        "figure_year_annotated": false,
+        "face_found": false,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1947",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Not a photo\n",
+        "bounding_box_index": null
+    },
+    {
+        "path": "./minisubset04/Gareth_Edwards/images/Sculpture_of_rugby_union_player_Gareth_Edwards.jpg",
+        "fully_annotated": false,
+        "birthday_annotated": false,
+        "figure_year_annotated": false,
+        "face_found": false,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1947",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "not a photo\n",
+        "bounding_box_index": null
+    },
+    {
+        "path": "./minisubset04/Gareth_Edwards/title_images/Gareth_Edwards.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "12",
+        "birth_month": "7",
+        "birth_year": "1947",
+        "estimated_year_creation_left": "2009",
+        "estimated_year_creation_right": "2009",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

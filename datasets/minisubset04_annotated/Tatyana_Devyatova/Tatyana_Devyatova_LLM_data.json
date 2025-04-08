@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Tatyana Devyatova",
+        "birthday": "19 September 1948",
+        "year_of_photo": "Some year in caption, lets use it as a year when was the photo taken",
+        "year_of_photo_int": 1966,
+        "can_determine": true,
+        "caption": "Tatyana Devyatova in 1966",
+        "path": "./minisubset04_annotated/Tatyana_Devyatova/title_images/Tatyana_Devyatova_1966.jpg"
+    }
+]

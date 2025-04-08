@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Danica_d_Hondt/title_images/Danica_d_Hondt_-_Canada_1958.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "29",
+        "birth_month": "5",
+        "birth_year": "1939",
+        "estimated_year_creation_left": "1959",
+        "estimated_year_creation_right": "1959",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

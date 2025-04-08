@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Mikael_Marcimain/title_images/Mikael_Marcimain.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "17",
+        "birth_month": "3",
+        "birth_year": "1970",
+        "estimated_year_creation_left": "2013",
+        "estimated_year_creation_right": "2013",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

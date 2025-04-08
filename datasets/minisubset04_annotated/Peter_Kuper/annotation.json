@@ -1,0 +1,44 @@
+[
+    {
+        "path": "./minisubset04/Peter_Kuper/images/10.10.10PeterKuperByLuigiNovi2.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "22",
+        "birth_month": "9",
+        "birth_year": "1958",
+        "estimated_year_creation_left": "2010",
+        "estimated_year_creation_right": "2010",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 3
+    },
+    {
+        "path": "./minisubset04/Peter_Kuper/images/Peter_kuper.JPG",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "22",
+        "birth_month": "9",
+        "birth_year": "1958",
+        "estimated_year_creation_left": "2014",
+        "estimated_year_creation_right": "2014",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    },
+    {
+        "path": "./minisubset04/Peter_Kuper/images/Loz_jaffee_panel.png",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "22",
+        "birth_month": "9",
+        "birth_year": "1958",
+        "estimated_year_creation_left": "2014",
+        "estimated_year_creation_right": "2014",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

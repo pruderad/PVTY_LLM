@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/George_Vjestica/title_images/George_Vjestica.jpg",
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "birth_day": "2",
+        "birth_month": "5",
+        "birth_year": "1967",
+        "estimated_year_creation_left": "2013",
+        "estimated_year_creation_right": "2013",
+        "annotation_shortcommings": "It is not possible to pick a bbox\n",
+        "bounding_box_index": 1
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Christa_Goetsch/images/Christa_Goetsch_v2.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "28",
+        "birth_month": "8",
+        "birth_year": "1952",
+        "estimated_year_creation_left": "2008",
+        "estimated_year_creation_right": "2008",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

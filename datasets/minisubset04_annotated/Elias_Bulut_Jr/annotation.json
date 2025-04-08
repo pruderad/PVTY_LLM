@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Elias_Bulut_Jr/title_images/HoR_Official_Portrait_(18th_Congress)_-_Elias_Bulut_Jr.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "15",
+        "birth_month": "5",
+        "birth_year": "1970",
+        "estimated_year_creation_left": "2019",
+        "estimated_year_creation_right": "2022",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

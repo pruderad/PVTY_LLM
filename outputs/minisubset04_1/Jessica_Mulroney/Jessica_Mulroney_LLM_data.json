@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jessica Mulroney",
+        "birthday": "March 14, 1980",
+        "year_of_photo": "Some year in caption - 2012",
+        "year_of_photo_int": 2012,
+        "can_determine": true,
+        "caption": "Mulroney at a Canadian Film Centre gala in 2012",
+        "path": "datasets/minisubset04_annotated/Jessica_Mulroney/title_images/Jessica_Mulroney_at_a_Canadian_Film_Centre_Gala_in_2012.jpg"
+    }
+]

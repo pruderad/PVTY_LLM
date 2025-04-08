@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Peter_Wackel/title_images/2016_Super_Sommer_Sause_-_Peter_Wackel_-_by_2eight_-_DSC1271.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "4",
+        "birth_month": "1",
+        "birth_year": "1977",
+        "estimated_year_creation_left": "2016",
+        "estimated_year_creation_right": "2016",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Irena Pantelic",
+        "birthday": "Some time in 1981",
+        "year_of_photo": "Some time in 2007",
+        "year_of_photo_int": 2007,
+        "can_determine": true,
+        "caption": "Irena Pantelic at her wedding in 2007",
+        "path": "./minisubset04_annotated/Irena_Pantelic/title_images/Irena_Pantelic_wedding.JPG"
+    }
+]

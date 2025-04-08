@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/King_Kong_(musician)/title_images/Reggae_artist_King_Kong_in_2007_(2).jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "26",
+        "birth_month": "3",
+        "birth_year": "1962",
+        "estimated_year_creation_left": "2007",
+        "estimated_year_creation_right": "2007",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

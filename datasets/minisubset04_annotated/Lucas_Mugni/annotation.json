@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Lucas_Mugni/title_images/Lucas_Mugni.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "12",
+        "birth_month": "1",
+        "birth_year": "1992",
+        "estimated_year_creation_left": "2014",
+        "estimated_year_creation_right": "2014",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

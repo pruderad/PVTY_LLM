@@ -1,0 +1,30 @@
+[
+    {
+        "path": "./minisubset04/Ashnoor_Kaur/images/Ashnoor_Kaur.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "3",
+        "birth_month": "5",
+        "birth_year": "2004",
+        "estimated_year_creation_left": "2019",
+        "estimated_year_creation_right": "2019",
+        "annotation_shortcommings": "\n\n",
+        "bounding_box_index": 0
+    },
+    {
+        "path": "./minisubset04/Ashnoor_Kaur/title_images/Ashnoor_Kaur_at_Boogle_Bollywood_Ballistic_Awards_2023_(cropped_2).jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "5",
+        "birth_month": "3",
+        "birth_year": "2004",
+        "estimated_year_creation_left": "2023",
+        "estimated_year_creation_right": "2023",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

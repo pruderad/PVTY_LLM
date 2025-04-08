@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Yegor Valentinovich Shamov",
+        "birthday": "2 June 1994",
+        "year_of_photo": "Some year in 2019",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Shamov with Arsenal Tula in 2019",
+        "path": "./minisubset04_annotated/Yegor_Shamov/title_images/Yegor_Shamov_2019.jpg"
+    }
+]

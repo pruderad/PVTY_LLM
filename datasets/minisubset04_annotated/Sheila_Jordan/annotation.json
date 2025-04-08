@@ -1,0 +1,30 @@
+[
+    {
+        "path": "./minisubset04/Sheila_Jordan/images/Sheila_Jordan_in_1985.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "18",
+        "birth_month": "11",
+        "birth_year": "1928",
+        "estimated_year_creation_left": "1985",
+        "estimated_year_creation_right": "1985",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    },
+    {
+        "path": "./minisubset04/Sheila_Jordan/title_images/Sheila_Jordan.jpg",
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "birth_day": "18",
+        "birth_month": "11",
+        "birth_year": "1928",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "No photo year\n",
+        "bounding_box_index": 0
+    }
+]

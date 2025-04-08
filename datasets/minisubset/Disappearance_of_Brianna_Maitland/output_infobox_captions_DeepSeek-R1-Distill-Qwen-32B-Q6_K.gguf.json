@@ -1,0 +1,7 @@
+[
+    {
+        "saved_filename": "/mnt/data/mlg/wikipedia-scraping/download/Disappearance_of_Brianna_Maitland/title_images/Brianna_Maitland.png",
+        "original_caption": "Portrait of Maitland",
+        "generated_response": "Alright, I need to determine if Brianna Maitland is present in the image described by the caption. The caption is \"Portrait of Maitland.\" From the Wikipedia excerpt, I know she disappeared in 2004 and hasn't been seen since. \n\nThe guidelines mention that if the caption refers to a portrait, statue, or object depicting the person, the probability should be low, between 0.0 and 0.3. Since the image is a portrait, it's not showing her in person but rather a depiction. \n\nLooking at the date of birth, she was born on October 8, 1986. The image doesn't mention a specific year, but since the portrait is likely from before her disappearance, I can estimate her age around 2004. Subtracting 1986 from 2004 gives her age as 18 years old.\n\nSo, the probability of her being present in the image is low because it's a portrait, not an actual image of her. The estimated age is 18.\n</think>\n\n```json\n{\n    \"explanation\": \"The caption refers to a portrait of Brianna Maitland, not her actual presence. She was born in 1986, so if the portrait is from around 2004, she would be approximately 18 years old.\",\n    \"subject_present_probability\": 0.20,\n    \"estimated_age\": 18"
+    }
+]

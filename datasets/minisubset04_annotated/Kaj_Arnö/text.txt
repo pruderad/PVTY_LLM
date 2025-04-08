@@ -1,0 +1,39 @@
+Kaj Sigurd Ademar Arnö (born 29 June 1963 in Helsinki, Finland) is a Finland-Swedish IT-entrepreneur and columnist. He is since 2016 (also) a German citizen and has lived in Germany since 2006. He is the former Vice President of the MySQL Community at MySQL AB, Sun Microsystems and Oracle Corporation, founder of MariaDB Corporation Ab and the current CEO of the MariaDB Foundation.
+
+ Biography 
+
+ Education 
+Arnö went to the Swedish co-educational school Nya svenska samskolan. He studied physics at the Helsinki University of Technology.
+
+ MySQL & MariaDB 
+Prior to joining MySQL AB, Arnö was the main owner of Polycon Ab where he served as CEO from 1987 to 2001.
+
+Arnö joined MySQL AB as VP of Training in May 2001 and subsequently served in roles as VP Consulting, VP Services, VP Engineering and VP Community Relations till February 2008, when Sun bought MySQL AB. Arnö was the main spokesperson towards the MySQL community from 2005 onwards, as well as a frequent speaker at MySQL events. He served as VP of the MySQL Community in the Database Group at Sun Microsystems until June 2010, when the German subsidiary of Sun was integrated into Oracle. In October 2010, he announced his retirement from Oracle. 
+
+In 2010, Arnö was co-founder together with Michael "Monty" Widenius and others of SkySQL, a company that sold support and consultancy for MySQL and MariaDB, which later became MariaDB Corporation Ab.
+
+Since 2019, Arnö has been the CEO of MariaDB Foundation.
+
+ Columnist 
+Arnö has been a regular columnist in Swedish for Forum för ekonomi och teknik (2008-2021), Svenska Yle's culture pages (2015-2021) and Åbo Underrättelser since 2021.
+
+ Other work 
+Arnö has condensed his philosophy of running into what he calls "Runnism, the Religion of Running".
+
+ References 
+
+External links
+
+ Kaj Arnö in Åbo Underrättelser (Finland's oldest newspaper) 
+ Kaj Arnö in Svenska Yle (Swedish public broadcasting in Finland) 
+ Kaj Arnö in Forum för ekonomi och teknik (business magazine)
+ kajarno.fi, Kaj Arnö's home page
+ mariadb.org, MariaDB Foundation's home page
+
+Category:Living people
+Category:1963 births
+Category:Aalto University alumni
+Category:Businesspeople from Helsinki
+Category:Swedish-speaking Finns
+Category:Finnish emigrants to Germany
+Category:Naturalized citizens of Germany

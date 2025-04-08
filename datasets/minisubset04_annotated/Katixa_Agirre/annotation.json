@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Katixa_Agirre/title_images/Katixa_Agirre.jpg",
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "birth_day": "27",
+        "birth_month": "10",
+        "birth_year": "1981",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "No photo year\n\n",
+        "bounding_box_index": 0
+    }
+]

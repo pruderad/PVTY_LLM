@@ -1,0 +1,92 @@
+Alexander James Kent    (born 24 August 1977) is a British cartographer, geographer and academic, currently serving as Vice President of the International Cartographic Association. He leads the Coastal Connections Project for World Monuments Fund and English Heritage and is honorary Reader in Cartography and Geographical Information Science at Canterbury Christ Church University (CCCU) and also a senior research associate of the Oxford Centre for Islamic Studies at the University of Oxford.
+
+From 2015 to 2017, Kent served as president of the British Cartographic Society and has held fellowships of the Royal Geographical Society since 2006 and of the British Cartographic Society since 2002. In 2020, he became a Fellow of the Society of Antiquaries and a senior fellow of the (UK) Higher Education Academy and in 2022, was elected Fellow of the Royal Society of Arts.
+
+Kent's scholarly contributions have focused upon cartographic aesthetics and topographic mapping, particularly Soviet maps, which led to the publication of The Red Atlas in 2017 (University of Chicago Press). Co-authored with John Davies, the book provided the first general guide to Soviet military mapping - the world's most comprehensive cartographic project of the twentieth century.
+
+Early life and education
+Designing maps, board games and banknotes from an early age, Kent's decision to study cartography at university was largely inspired by a seventeenth-century estate map of Lyminge that hung in his father's study as Rector of the parish. After graduating from Queens' College, Cambridge, he undertook doctoral research to analyse stylistic diversity in European topographic mapping at the University of Kent.
+
+Career
+Kent became head of the Cartographic Unit at the School of Geography, University of Southampton before his appointment as Senior Lecturer in Geography and GIS at Canterbury Christ Church University. Kent took up his role as Reader in Cartography and Geographic Information Science in 2015, where his projects involved the digital reconstruction of Anglo-Saxon Folkestone for a Heritage Lottery funded project to discover the life of St Eanswythe, a local seventh-century saint, as well as advising on geospatial projects for the UK Commission for UNESCO and on Soviet mapping at the Centre for the Changing Character of War at Pembroke College, Oxford. In 2023, he took up his current role in leading the Coastal Connections Project for World Monuments Fund and English Heritage, a global initiative to share and develop strategies for addressing the impacts of climate change on coastal heritage sites worldwide, and became an honorary Reader at CCCU.
+
+Kent joined the British Cartographic Society in 2000 and the Society of Cartographers shortly after. He served as president of the British Cartographic Society from 2015 to 2017 and has been Editor of The Cartographic Journal since 2014. Kent has been a committee member of the Charles Close Society for the Study of Ordnance Survey Maps since 2008 and founded the Ian Mumford Award for excellence in original cartographic research by students for the British Cartographic Society in 2015.
+
+Kent became a Fellow of the British Cartographic Society in 2002 and of the Royal Geographical Society in 2006. In 2011, he was appointed deputy national delegate for the UK to the International Cartographic Association (ICA) General Assembly and was vice chair of the Commission on Map Design for the Association from 2011 to 2015. He became the founding chair of the ICA Commission on Topographic Mapping in 2015,  and in 2017, founded the World Cartographic Forum (a body within the ICA for leaders of national mapping societies to discuss common issues and share best practice). In 2021, he became the UK National Delegate to the ICA General Assembly and in 2023 was elected an ICA Vice President.
+
+In 2020, Kent became a senior fellow of the UK Higher Education Academy and a Fellow of the Society of Antiquaries of London. He was elected Fellow of the Royal Society of Arts in 2022.
+
+The Red Atlas
+
+thumb|Kent using a Soviet topographic map while crossing the mountains between Kazakhstan and Kyrgyzstan, July 2001
+On joining the Charles Close Society for the Study of Ordnance Survey Maps, Kent met John Davies, a retired systems analyst based in London who had published a paper in the Society's journal Sheetlines in 2005. Davies and Kent embarked on a period of joint research and collaboration with the aim of finding out more about Soviet mapping during the Cold War, which they went on to describe as 'the biggest cartographic story never told'. After publishing a series of academic papers, the Bodleian Library at Oxford invited them to submit a proposal for a short book as an introduction to the subject and eventually offered the project to the University of Chicago Press.
+
+The Red Atlas was published in 2017. Nature called the book a "glorious homage" and it featured as the Book of the Week in THE, where Jerry Brotton described it as "Brilliant... the best kind of cartographic history". Mark Monmonier praised the book as "carefully researched, well-written, and exquisitely designed and printed, it's perhaps the only recent map history that can be called a real eye-opener". In 2019, a paperback version of The Red Atlas was published in Japanese by Nikkei National Geographic Inc. Kent gave interviews to several national Japanese newspapers in Tokyo in July that year while attending the 29th International Cartographic Conference.
+
+Davies and Kent have presented their research at the Lenin Library in Moscow, the National Geospatial-Intelligence Agency in Washington, DC, the universities of Oxford, Cambridge and Manchester, and at Eton College, where they were invited by the Slavonic Society in 2019.
+
+Martin Davis, one of Kent's PhD students at Canterbury Christ Church University, has researched the holdings of Soviet military city plans in libraries around the world and produced a detailed analysis of the plans' symbology.
+
+In 2021, The Red Atlas was featured by the Map Men in an educational video about Soviet mapping, which became the third highest trending video on YouTube shortly after it was released on 11 January.
+
+Awards and honours
+ Society of Cartographers Award for an outstanding contribution to the Society of Cartographers (2016)
+ Henry Johns Award for the most outstanding paper published in The Cartographic Journal (British Cartographic Society) (2010)
+ New Mapmaker Award for excellence in cartographic scholarship (National Geographic Society/British Cartographic Society) (2007)
+
+ Selected works
+
+Books
+The Routledge Handbook of Geospatial Technologies and Society, Abingdon: Routledge (2023) 
+Mapping Empires: Colonial Cartographies of Land and Sea, Cham: Springer Nature (2019) 
+The Red Atlas: How the Soviet Union Secretly Mapped the World, Chicago: University of Chicago Press (2017) 
+The Routledge Handbook of Mapping and Cartography, Abingdon: Routledge (2017) 
+Landmarks in Mapping: 50 Years of The Cartographic Journal, Leeds: Maney Publishing (2014) 
+Cartography: A Reader, Reading: The Society of Cartographers (2014) 
+A Celebration of 50 Years of the British Cartographic Society, Ilkeston: British Cartographic Society (2013) 
+
+Chapters
+"Foreword" In Darkes, G. and Spence, M. (Eds) Cartography – an introduction (2nd ed.) London: British Cartographic Society (p. 5) 
+"Cartographic Aesthetics" (2017) In Kent, A.J. and Vujakovic, P. (Eds) The Routledge Handbook of Mapping and Cartography Abingdon: Routledge (pp. 299–310) 
+"Maps and Identity" (2017) In Kent, A.J. and Vujakovic, P. (Eds) The Routledge Handbook of Mapping and Cartography Abingdon: Routledge (pp. 413–426) 
+"Reproduction, Design and Aesthetics" (2015) In Monmonier, M. (Ed.) The History of Cartography (Volume VI: The Twentieth Century) Chicago: University of Chicago Press (pp. 1331–1336) 
+
+Research papers
+Cheshire, J. and Kent, A.J. (2023) "Getting to the Point? Rethinking Arrows on Maps" The Cartographic Journal DOI:10.1080/00087041.2023.2178134
+Halik, L. and Kent, A.J. (2021) "Measuring User Preferences and Behaviour in a Topographic Immersive Virtual Environment (TopoIVE) of 2D and 3D Urban Topographic Data" International Journal of Digital Earth 14 (12) pp. 1835–1867 DOI:10.1080/17538947.2021.1984595
+Kent, A.J., Davis, M. and Davies, J. (2019) "The Soviet Mapping of Poland – A Brief Overview" Miscellanea Geographica – Regional Studies on Development 23 (1) pp. 1–11 DOI:10.2478/mgrsd-2018-0034
+Pastor, D. and Kent, A.J. (2019) "Transformative Landscapes: Liminality and Visitors' Emotional Experiences at German Memorial Sites" Tourism Geographies 22 (2) pp. 250-272 DOI:10.1080/14616688.2020.1725617
+Kent, A.J. (2018) "Form Follows Feedback: Rethinking Cartographic Communication" Westminster Papers in Communication and Culture 13 (2) pp. 96–112 DOI:10.16997/wpcc.296
+Kent, A.J. (2014) "Thomas Hill's Map of Lyminge, 1685" Lyminge: A History 6 (23) pp. 1–13 PDF (ResearchGate)
+Kent, A.J. and Davies, J. (2013) "Hot Geospatial Intelligence from a Cold War: The Soviet Military Mapping of Towns and Cities" Cartography and Geographic Information Science 40 (3) pp. 248–253 DOI:10.1080/15230406.2013.799734
+Kent, A.J. (2009) "Topographic Maps: Methodological Approaches for Analyzing Cartographic Style" Journal of Map and Geography Libraries 5 (2) pp. 131–156 DOI:10.1080/15420350903001187
+Kent, A.J. and Vujakovic, P. (2009) "Stylistic Diversity in European State 1:50 000 Topographic Maps" The Cartographic Journal 46 (3) pp. 179–213 DOI:10.1179/000870409X12488753453453
+Kent, A.J. (2005) "Aesthetics: A Lost Cause in Cartographic Theory?" The Cartographic Journal 42 (2) pp. 182–188 DOI:10.1179/000870405X61487
+
+Editorials
+Kent, A.J. (2021) "When Topology Trumped Topography: Celebrating 90 Years of Beck's Underground Map" The Cartographic Journal (58) 1 pp. 1–12 DOI:10.1080/00087041.2021.1953765
+Kent, A.J. (2020) "Mapping and Counter-mapping COVID-19: From Crisis to Cartocracy" The Cartographic Journal 57 (3) pp. 187–195 DOI:10.1080/00087041.2020.1855001
+Kent, A.J. and Hopfstock, A. (2018) "Topographic Mapping: Past, Present and Future" The Cartographic Journal 55 (4) pp. 305–306 DOI:10.1080/00087041.2018.1576973
+Kent, A.J. (2017) "Trust Me, I'm a Cartographer: Post-truth and the Problem of Acritical Cartography" The Cartographic Journal 54 (3) pp. 193–195 DOI:10.1080/00087041.2017.1376489
+
+References
+
+External links
+The Red Atlas official website
+Staff Profile at World Monuments Fund
+Canterbury Christ Church University Institutional Repository
+
+Category:1977 births
+Category:Living people
+Category:People from Dover, Kent
+Category:21st-century British geographers
+Category:Alumni of Queens' College, Cambridge
+Category:Alumni of Canterbury Christ Church University
+Category:Alumni of the University of Kent
+Category:Alumni of Oxford Brookes University
+Category:Fellows of the Society of Antiquaries of London
+Category:Fellows of the Royal Geographical Society
+Category:Academics of Canterbury Christ Church University
+Category:British cartographers
+Category:Senior Fellows of the Higher Education Academy
+Category:People from Lyminge

@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Clive_Thompson_(journalist)/title_images/Clive_Thompson_at_Games_for_Change_conference.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "30",
+        "birth_month": "10",
+        "birth_year": "1968",
+        "estimated_year_creation_left": "2007",
+        "estimated_year_creation_right": "2007",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

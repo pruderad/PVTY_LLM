@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Svetlana Broz",
+        "birthday": "7 July 1955",
+        "year_of_photo": "Some year in caption, but we can determine it exactly as: ",
+        "year_of_photo_int": 2012,
+        "can_determine": true,
+        "caption": "Broz in 2012",
+        "path": "./minisubset04_annotated/Svetlana_Broz/title_images/Svetlana_Broz_(cropped).jpg"
+    }
+]

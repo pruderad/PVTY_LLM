@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Peter Wackel",
+        "birthday": "4 January 1977",
+        "year_of_photo": "2016",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": "Wackel in 2016",
+        "path": "datasets/minisubset04_annotated/Peter_Wackel/title_images/2016_Super_Sommer_Sause_-_Peter_Wackel_-_by_2eight_-_DSC1271.jpg"
+    }
+]

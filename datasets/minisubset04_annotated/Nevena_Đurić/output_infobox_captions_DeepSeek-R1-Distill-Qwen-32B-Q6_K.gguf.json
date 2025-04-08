@@ -1,0 +1,7 @@
+[
+    {
+        "saved_filename": "/mnt/data/mlg/wikipedia-scraping/download/Nevena_Đurić/title_images/Nevena_Đurić_2023.jpg",
+        "original_caption": "Đurić in 2023",
+        "generated_response": "Okay, I need to determine if Nevena Đurić is present in the image based on the given caption and Wikipedia excerpt. The image caption is \"Đurić in 2023.\" That seems pretty straightforward because it explicitly mentions her name and the year. So, the probability she's in the image is high, maybe around 0.98 since it's a direct mention.\n\nNext, I have to estimate her age. From the Wikipedia excerpt, her birthdate is October 10, 1993. The image is from 2023. So, subtracting 1993 from 2023 gives 30 years. But wait, since her birthday is in October, if the image is from 2023, she would have turned 30 that year. So, her age would be 30.\n\nI should structure the JSON accordingly. The explanation should mention the explicit name match and the year calculation. The estimated age is 30, and the probability is high.\n</think>\n\n```json\n{\n    \"explanation\": \"The caption explicitly states Nevena Đurić is in the image from 2023. She was born in 1993, making her 30 years old in 2023.\",\n    \"subject_present_probability\": 0.98,\n    \"estimated_age\": 30"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "path": "./minisubset04/Yegor_Chinakhov/images/Columbus_Blue_Jackets_at_Seattle_Kraken_-_2024-01-28_-_Oliver_Bjorkstrand,_Jake_Bean_and_Yegor_Chinakhov_(53503148653).jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "1",
+        "birth_month": "2",
+        "birth_year": "2001",
+        "estimated_year_creation_left": "2024",
+        "estimated_year_creation_right": "2024",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 5
+    },
+    {
+        "path": "./minisubset04/Yegor_Chinakhov/title_images/Yegor_Chinakhov,_May_2021.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "1",
+        "birth_month": "2",
+        "birth_year": "2001",
+        "estimated_year_creation_left": "2021",
+        "estimated_year_creation_right": "2021",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

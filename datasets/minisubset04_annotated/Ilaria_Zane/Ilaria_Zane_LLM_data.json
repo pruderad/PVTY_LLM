@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ilaria Zane",
+        "birthday": "10 February 1992",
+        "year_of_photo": "Some year from caption: 2022",
+        "year_of_photo_int": 2022,
+        "can_determine": true,
+        "caption": "220px|Zane in bike during 2022 European Triathlon Championships.",
+        "path": "./minisubset04_annotated/Ilaria_Zane/images/2022-08-12_European_Championships_2022_\u2013_Triathlon_Elite_Women_by_Sandro_Halank\u2013125.jpg"
+    }
+]

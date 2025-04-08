@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Antoni_Kowalski/title_images/Antoni_Kowalski_-_polski_snookerzysta.jpg",
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "birth_day": "9",
+        "birth_month": "2",
+        "birth_year": "2004",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "No year of the photo\n",
+        "bounding_box_index": 0
+    }
+]

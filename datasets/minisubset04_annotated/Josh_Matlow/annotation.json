@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/Josh_Matlow/title_images/Josh_Matlow_Election_night_party_speech_(53547460423).jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "27",
+        "birth_month": "11",
+        "birth_year": "1975",
+        "estimated_year_creation_left": "2023",
+        "estimated_year_creation_right": "2023",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

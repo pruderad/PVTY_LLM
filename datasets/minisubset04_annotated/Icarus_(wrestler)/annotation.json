@@ -1,0 +1,58 @@
+[
+    {
+        "path": "./minisubset04/Icarus_(wrestler)/images/Team_F.I.S.T._2008.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "26",
+        "birth_month": "7",
+        "birth_year": "1982",
+        "estimated_year_creation_left": "2008",
+        "estimated_year_creation_right": "2008",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 5
+    },
+    {
+        "path": "./minisubset04/Icarus_(wrestler)/images/Icarus_Chikara.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "26",
+        "birth_month": "7",
+        "birth_year": "1982",
+        "estimated_year_creation_left": "2008",
+        "estimated_year_creation_right": "2008",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    },
+    {
+        "path": "./minisubset04/Icarus_(wrestler)/images/Icarus_-_Campeone_de_Parejas.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "26",
+        "birth_month": "7",
+        "birth_year": "1982",
+        "estimated_year_creation_left": "2009",
+        "estimated_year_creation_right": "2009",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    },
+    {
+        "path": "./minisubset04/Icarus_(wrestler)/title_images/Icarus_Chikara_2014_(cropped).jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "26",
+        "birth_month": "7",
+        "birth_year": "1982",
+        "estimated_year_creation_left": "2014",
+        "estimated_year_creation_right": "2014",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

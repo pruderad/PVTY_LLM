@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Debra Ann Livingston",
+        "birthday": "April 15, 1959",
+        "year_of_photo": "Some year in 2007",
+        "year_of_photo_int": 2007,
+        "can_determine": true,
+        "caption": "Livingston in 2007",
+        "path": "datasets/minisubset04_annotated/Debra_Ann_Livingston/title_images/Debra_Ann_Livingston.jpg"
+    }
+]

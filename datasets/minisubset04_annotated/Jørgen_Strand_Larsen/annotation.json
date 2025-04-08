@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/J\u00f8rgen_Strand_Larsen/title_images/J\u00f8rgen_Strand_Larsen_2019,_Zen-Sarp.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "6",
+        "birth_month": "2",
+        "birth_year": "2000",
+        "estimated_year_creation_left": "2019",
+        "estimated_year_creation_right": "2019",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]

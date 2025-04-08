@@ -1,0 +1,16 @@
+[
+    {
+        "path": "./minisubset04/G._S._Sareen/title_images/GSSareen_JTN_2672-Edit.jpg",
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "birth_day": "7",
+        "birth_month": "11",
+        "birth_year": "1966",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "No photo year\n",
+        "bounding_box_index": 0
+    }
+]

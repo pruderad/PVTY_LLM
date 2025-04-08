@@ -1,0 +1,44 @@
+[
+    {
+        "path": "./minisubset04/GoldLink/images/GoldLink.jpg",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "17",
+        "birth_month": "5",
+        "birth_year": "1993",
+        "estimated_year_creation_left": "2015",
+        "estimated_year_creation_right": "2015",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    },
+    {
+        "path": "./minisubset04/GoldLink/images/GoldLink_Concert_2016_(cropped).png",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "17",
+        "birth_month": "5",
+        "birth_year": "1993",
+        "estimated_year_creation_left": "2016",
+        "estimated_year_creation_right": "2016",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    },
+    {
+        "path": "./minisubset04/GoldLink/title_images/Goldlink_December_2017.png",
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "birth_day": "17",
+        "birth_month": "5",
+        "birth_year": "1993",
+        "estimated_year_creation_left": "2017",
+        "estimated_year_creation_right": "2017",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0
+    }
+]
