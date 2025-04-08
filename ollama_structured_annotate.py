@@ -28,7 +28,7 @@ class PersonDescription(BaseModel):
     year_of_photo_int: int
     can_determine : bool
 
-def annotate(prompt: str, verbose: bool = True, save: bool = True, save_path: str = "", num_gpus: int = 1):
+def annotate(prompt: str, caption: str, path: str, verbose: bool = True, save: bool = True, save_path: str = "", num_gpus: int = 1):
     response = chat(
         model=MODEL,
         format=PersonDescription.model_json_schema(),
@@ -94,9 +94,9 @@ if __name__ == "__main__":
             prompt = 'Find the year when was photo taken from this caption:\n ' + str(caption) + '.\nFind when was the person born from this description: \n' + person.text
             prompt += (
                         "\n\nReturn JSON description including name, birthday from text and year when was the photo taken from caption. If you can not determine birthday set it as None and if you can not determine year of photo set it to None and in both cases set variable can_determine to FALSE."
-                       "Otherwise set can_determine to True. If there is a year in caption take it as a year when was the photo take and if you can determine the year set it as int to year_of_photo_int. If there is some time interval of photo take the closest number."
+                       "Otherwise set can_determine to True. If there is a year in caption take it as a year when was the photo taken and if you can determine the year set it as int to year_of_photo_int. If there is some time interval of photo take the closest number."
                       )
 
-            annotate(prompt=prompt, verbose=False, save=True, save_path=SAVE_PATH, num_gpus=num_gpus)
+            annotate(prompt=prompt, caption=caption, path=path, verbose=False, save=True, save_path=SAVE_PATH, num_gpus=num_gpus)
 
  
