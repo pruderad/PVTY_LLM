@@ -200,4 +200,3 @@ if __name__ == "__main__":
                 for k, prompt in tqdm(enumerate(prompts), total=len(prompts), desc="Processing Prompts", leave=False, colour='MAGENTA'):
                     annotate(model=model, prompt=prompt, caption=caption, path=path, verbose=False, save=True, save_path=OUTPUT_SAVE_PATH, prompt_id=k, num_gpus=num_gpus)
 
- 
