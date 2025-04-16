@@ -1,0 +1,19 @@
+[
+    {
+        "path": "./minisubset02/F\u00e9lix_Bouvet/title_images/2019_ICF_Wildwater_canoeing_World_Championships_272_-_F\u00e9lix_Bouvet.jpg",
+        "person_id": 92,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "16",
+        "birth_month": 6,
+        "birth_year": "1991",
+        "estimated_year_creation_left": "2019",
+        "estimated_year_creation_right": "2019",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": null
+    }
+]

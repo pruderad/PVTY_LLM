@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Nancy Ip Yuk-yu",
+        "birthday": "None",
+        "year_of_photo": "2013",
+        "year_of_photo_int": 2013,
+        "can_determine": false,
+        "caption": "Nancy Ip in September 2013",
+        "path": "./datasets/minisubset02_annotated/Nancy_Ip/title_images/Nancy_Ip,_September_2013.jpg"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Michael Robert Wilson",
+        "birthday": "21 November 1976",
+        "year_of_photo": "2007",
+        "year_of_photo_int": 2007,
+        "can_determine": true,
+        "caption": "left|200px|Michael Wilson during a match against Hawthorn in 2007.",
+        "path": "./datasets/minisubset02_annotated/Michael_Wilson_(Australian_footballer)/images/AShawks.jpg"
+    },
+    {
+        "name": "Michael Robert Wilson",
+        "birthday": "21 November 1976",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Michael_Wilson_(Australian_footballer)/title_images/Michael_Wilson_Port_Power.JPG"
+    }
+]

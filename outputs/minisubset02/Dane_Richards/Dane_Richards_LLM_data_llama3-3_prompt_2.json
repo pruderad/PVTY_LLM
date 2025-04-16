@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Dane O'Brian Richards",
+        "birthday": "14 December 1983",
+        "year_of_photo": "unknown",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "left|160px|Richards playing for Clemson Tigers",
+        "path": "./datasets/minisubset02_annotated/Dane_Richards/images/Dane_Richards_Clemson.jpg"
+    },
+    {
+        "name": "Dane Richards",
+        "birthday": "December 14, 1983",
+        "year_of_photo": "2012",
+        "year_of_photo_int": 2012,
+        "can_determine": true,
+        "caption": "right|360px|Richards playing for New York Red Bulls in 2012",
+        "path": "./datasets/minisubset02_annotated/Dane_Richards/images/Dane_Richards_vs_Montreal_Impact_2012.jpg"
+    },
+    {
+        "name": "Dane Richards",
+        "birthday": "14 December 1983",
+        "year_of_photo": "2012",
+        "year_of_photo_int": 2012,
+        "can_determine": true,
+        "caption": "Richards in 2012",
+        "path": "./datasets/minisubset02_annotated/Dane_Richards/title_images/Dane_Richards_photographed_by_Christopher_Vose.jpg"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "path": "./minisubset02/Guerrero_Maya_Jr./images/MX_MM_TERCERA_LUCHA_39.jpg",
+        "person_id": 125,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "8",
+        "birth_month": "8",
+        "birth_year": "1985",
+        "estimated_year_creation_left": "2020",
+        "estimated_year_creation_right": "2020",
+        "annotation_shortcommings": "No correct bounding box is present.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            1850,
+            251
+        ]
+    },
+    {
+        "path": "./minisubset02/Guerrero_Maya_Jr./title_images/MX_MM_TERCERA_LUCHA_37.jpg",
+        "person_id": 125,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "8",
+        "birth_month": "8",
+        "birth_year": "1985",
+        "estimated_year_creation_left": "2020",
+        "estimated_year_creation_right": "2020",
+        "annotation_shortcommings": "No correct bounding box is present.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            1850,
+            251
+        ]
+    }
+]

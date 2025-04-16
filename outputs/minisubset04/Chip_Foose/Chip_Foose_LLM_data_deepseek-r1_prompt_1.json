@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Chip Foose",
+        "birthday": "October 13, 1963",
+        "year_of_photo": "SEMA show",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Foose at a [[SEMA (association)|SEMA]] show",
+        "path": "./datasets/minisubset04_annotated/Chip_Foose/title_images/FooseGreeson_crop.jpg"
+    }
+]

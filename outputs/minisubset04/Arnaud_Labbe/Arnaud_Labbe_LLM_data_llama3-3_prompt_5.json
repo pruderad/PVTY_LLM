@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Arnaud Labbe",
+        "birthday": "3 November 1976",
+        "year_of_photo": "Unknown",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Arnaud_Labbe/title_images/Arnaud_Labbe.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Katrina Lenk",
+        "birthday": "November 26, 1974",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Lenk in 2018",
+        "path": "./datasets/minisubset02_annotated/Katrina_Lenk/title_images/Katrina_Lenk,_May_2018-2.jpg"
+    }
+]

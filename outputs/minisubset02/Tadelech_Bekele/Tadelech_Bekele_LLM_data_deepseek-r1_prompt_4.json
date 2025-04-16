@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Tadelech Bekele",
+        "birthday": "11 April 1991",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Tadelech_Bekele/title_images/Berlin-Marathon_2015_Runners_49.jpg"
+    }
+]

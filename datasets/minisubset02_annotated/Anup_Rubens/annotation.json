@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Anup_Rubens/title_images/Anup_Rubens.jpg",
+        "person_id": 107,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "18",
+        "birth_month": "4",
+        "birth_year": "1980",
+        "estimated_year_creation_left": "2017",
+        "estimated_year_creation_right": "2017",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            939,
+            435
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Seungri",
+        "birthday": "December 12, 1990",
+        "year_of_photo": "2007",
+        "year_of_photo_int": 2007,
+        "can_determine": true,
+        "caption": "upright|Seungri at the TV show ''Fast Forward'' in Thailand in December 2007",
+        "path": "./datasets/minisubset02_annotated/Seungri/images/Seung_in_Thailand.jpg"
+    },
+    {
+        "name": "Seungri",
+        "birthday": "December 12, 1990",
+        "year_of_photo": "N/A",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "right|Seungri performing at BigBang's Alive World Tour in 2012",
+        "path": "./datasets/minisubset02_annotated/Seungri/images/Seungri_2012.jpg"
+    },
+    {
+        "name": "Seungri",
+        "birthday": "December 12, 1990",
+        "year_of_photo": "2016",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": "right|Seungri at Big Bang's 0.TO.10 concert in Seoul, 2016",
+        "path": "./datasets/minisubset02_annotated/Seungri/images/Seungri_-_0.TO.10_in_Seoul.jpg"
+    },
+    {
+        "name": "Lee Seung-hyun",
+        "birthday": "December 12, 1990",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "upright|230px|Seungri DJing at D-Bridge Lounge, Cheongdam, in 2015.",
+        "path": "./datasets/minisubset02_annotated/Seungri/images/Seungri_During_Gatsby's_Fantastic_Festival_-_2.jpg"
+    },
+    {
+        "name": "Seungri",
+        "birthday": "December 12, 1990",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Seungri in 2018",
+        "path": "./datasets/minisubset02_annotated/Seungri/title_images/181001_\uc2b9\ub9ac_02.png"
+    }
+]

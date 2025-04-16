@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Morgan",
+        "birthday": "1968-08-07",
+        "year_of_photo": "\u2014",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Morgan with the [[Fun Lovin' Criminals]]<br>at Tilburg, Netherlands, June 2011",
+        "path": "./datasets/minisubset04_annotated/Huey_Morgan/title_images/Huey-Morgan.jpg"
+    }
+]

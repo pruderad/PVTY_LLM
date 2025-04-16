@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Paul M. Markowski",
+        "birthday": "1965-01-15",
+        "year_of_photo": "2010",
+        "year_of_photo_int": 2010,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Paul_Markowski/title_images/Paul_markowski_4.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Alain Frachon",
+        "birthday": "1950",
+        "year_of_photo": "Now",
+        "year_of_photo_int": 2024,
+        "can_determine": false,
+        "caption": "Alain Frachon in 2011",
+        "path": "./datasets/minisubset04_annotated/Alain_Frachon/title_images/Alain_Frachon.jpg"
+    }
+]

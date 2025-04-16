@@ -1,0 +1,11 @@
+[
+    {
+        "name": "AMIAYA",
+        "birthday": "November 8, 1988",
+        "year_of_photo": "2018 or later",
+        "year_of_photo_int": 2018,
+        "can_determine": false,
+        "caption": "Amiaya onstage at [[J-Pop Summit]]",
+        "path": "./datasets/minisubset04_annotated/Amiaya/title_images/AMIAYA_at_J-Pop_Summit_2015_2.jpg"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "path": "./minisubset02/Bennie_Logan/images/Bennie_Logan13.jpg",
+        "person_id": 176,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1989",
+        "estimated_year_creation_left": "2013",
+        "estimated_year_creation_right": "2013",
+        "annotation_shortcommings": "Logan's bounding box is not in the image.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            540,
+            92
+        ]
+    },
+    {
+        "path": "./minisubset02/Bennie_Logan/title_images/Bennie_Logan.JPG",
+        "person_id": 176,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1989",
+        "estimated_year_creation_left": "2013",
+        "estimated_year_creation_right": "2013",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            540,
+            92
+        ]
+    }
+]

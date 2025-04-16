@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Simon Baker",
+        "birthday": "30 July 1969",
+        "year_of_photo": "2013",
+        "year_of_photo_int": 2013,
+        "can_determine": true,
+        "caption": "Baker at a ceremony to receive a star on the Hollywood Walk of Fame in February 2013.",
+        "path": "./datasets/minisubset04_annotated/Simon_Baker/images/Simon-baker-mentalista.jpg"
+    },
+    {
+        "name": "Simon Lucas Baker",
+        "birthday": "30 July 1969",
+        "year_of_photo": "February 2013",
+        "year_of_photo_int": 2013,
+        "can_determine": true,
+        "caption": "Baker in February 2013",
+        "path": "./datasets/minisubset04_annotated/Simon_Baker/title_images/SimonBakerHWOFFeb2013.jpg"
+    }
+]

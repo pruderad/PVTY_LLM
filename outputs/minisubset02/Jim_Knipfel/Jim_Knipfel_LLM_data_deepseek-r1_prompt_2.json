@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jim Knipfel",
+        "birthday": "1965-01-01",
+        "year_of_photo": "2006",
+        "year_of_photo_int": 2006,
+        "can_determine": true,
+        "caption": "Knipfel in his [[Brooklyn, New York]] apartment in 2006",
+        "path": "./datasets/minisubset02_annotated/Jim_Knipfel/title_images/Jim_Knipfel.jpg"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "path": "./minisubset02/Justin_Boren/images/20070922_Michigan_huddle.jpg",
+        "person_id": 172,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1988",
+        "estimated_year_creation_left": "2007",
+        "estimated_year_creation_right": "2007",
+        "annotation_shortcommings": "Boren's bounding box not present.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            84,
+            103
+        ]
+    },
+    {
+        "path": "./minisubset02/Justin_Boren/images/20070922_Ryan_Mallett_rolling_out_against_Penn_State.jpg",
+        "person_id": 172,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1988",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Boren's bounding box not present.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            84,
+            103
+        ]
+    },
+    {
+        "path": "./minisubset02/Justin_Boren/images/20070922_Adam_Kraus_and_Jake_Long_obscure_Ryan_Mallett_and_Mike_Hart.jpg",
+        "person_id": 172,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1988",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Boren's bounding box not present and no year in image caption.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            84,
+            103
+        ]
+    },
+    {
+        "path": "./minisubset02/Justin_Boren/images/20090926_Bryant_Browning,_Mike_Brewster_and_Justin_Boren_come_to_the_line_after_a_timeout.jpg",
+        "person_id": 172,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1988",
+        "estimated_year_creation_left": "2008",
+        "estimated_year_creation_right": "2010",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            540,
+            92
+        ]
+    },
+    {
+        "path": "./minisubset02/Justin_Boren/images/20090905_Justin_Boren_blocking_for_Dane_Sanzenbacher.jpg",
+        "person_id": 172,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1988",
+        "estimated_year_creation_left": "2008",
+        "estimated_year_creation_right": "2010",
+        "annotation_shortcommings": "Boren's bounding box not present.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            540,
+            92
+        ]
+    },
+    {
+        "path": "./minisubset02/Justin_Boren/title_images/Justin_Boren_Ravens.jpg",
+        "person_id": 172,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1988",
+        "estimated_year_creation_left": "2012",
+        "estimated_year_creation_right": "2012",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            540,
+            92
+        ]
+    }
+]

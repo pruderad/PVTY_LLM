@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Brandes",
+        "birthday": "1944",
+        "year_of_photo": "N/A",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "right|Brandes in 2014",
+        "path": "./datasets/minisubset02_annotated/Peter_Brandes/images/Peter_Brandes.jpg"
+    },
+    {
+        "name": "Andreas Haldorsen",
+        "birthday": "1944",
+        "year_of_photo": "Andreas Haldorsen took the photo in 2015.",
+        "year_of_photo_int": 2015,
+        "can_determine": false,
+        "caption": "From Northern Lights Cathedral in Alta, Norway.Photo: Andreas Haldorsen, 2015",
+        "path": "./datasets/minisubset02_annotated/Peter_Brandes/images/Inne_i_Nordlyskatedralen.jpg"
+    },
+    {
+        "name": "Brandes",
+        "birthday": "1944",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": false,
+        "caption": "Brandes in 2020",
+        "path": "./datasets/minisubset02_annotated/Peter_Brandes/images/Peter-brandes_DSC09765.jpg"
+    }
+]

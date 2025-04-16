@@ -1,0 +1,62 @@
+Marcus J. Ranum (born November 5, 1962, in New York City, New York, United States) is a computer and network security researcher.  He is credited with a number of innovations in firewalls, including building the first Internet email server for the whitehouse.gov domain, and intrusion detection systems.  He has held technical and leadership positions with a number of computer security companies, and is a faculty member of the Institute for Applied Network Security.
+
+Education
+
+Marcus Ranum was born in New York City, and graduated from Gilman School in Baltimore, Maryland before attending Johns Hopkins University where he obtained a Bachelor of Arts in Psychology in 1985.ZDNet - Security Q&A: the father of firewall
+
+Career
+Ranum helped design and implement Digital Equipment Corporation's Secure External Access Link (SEAL) (later AltaVista firewall), regarded as the first commercial bastion host firewall, in 1990.  He left DEC to work for Trusted Information Systems (TIS) as chief scientist and development manager for Internet security products.  It was at TIS that Ranum became responsible for the whitehouse.gov Internet email site.  Once charged with that responsibility, Ranum advocated that the whitehouse.com domain be registered as well.  Despite his advice, it was not registered by the government, but was later registered for an adult entertainment provider. At TIS, he developed the TIS Internet Firewall Toolkit (fwtk) under a grant from DARPA. After TIS, he worked for V-One as chief scientist, and was extensively involved in that company's IPO.  Three months after that IPO, Ranum formed his own company, Network Flight Recorder (NFR), and served as CEO for three years before stepping into a CTO role. Ranum later left NFR to consult for TruSecure. In 2004, he became the chief security officer of Tenable, Inc.
+
+In addition to his various full-time positions, Ranum has also held board or advisory positions at NFR Security, Protego Networks, and Fortify Software.
+
+Public presentations
+Ranum has spoken to USENIX audiences at LISA 1997, 1999 (tutorial) LISA 2000 (keynote), 2002, and 2003 (tutorial). He spoke out against full disclosure at the Black Hat Security Briefings in 2000.  More recently, Ranum has spoken at Interop in 2005 and 2007, CanSecWest in 2010, and Secure360 in 2011.
+
+He previously taught courses for the SANS Institute.
+
+Influence
+Ranum's work has been cited in at least 15 published U.S. patents,5,606,668, 5,623,601, 5,826,029, 5,870,562, 6,173,407, 6,601,233, 6,704,873, 6,834,310, 6,950,868, 7,016,951, 7,100,195, 7,224,778, 7,290,288, 7,313,812, and 7,360,244 as well as numerous other computer and network security articles and books.
+
+Ranum's law
+
+Ranum is cited as the author of an eponymous law, "You can't solve social problems with software."
+
+Awards
+ TISC "clue" award, 2000.
+ Inducted into the ISSA hall of fame, 2000 or 2001.
+ Techno-Security Professional of the Year, 2005.
+
+Publications
+
+Articles
+Marcus has co-authored a series of "Face Off" articles with Bruce Schneier, which have appeared approximately bi-monthly in Information Security Magazine since July, 2006.
+
+Ranum is one of a number of editors of the SANS Newsbites semiweekly email newsletter.
+
+Books
+The Myth of Homeland Security. 
+Host Intrusion Monitoring Using Osiris and Samhain with Brian Wotring and Bruce Potter. 
+Web Security Sourcebook with Aviel D. Rubin and Dan Geer. 
+
+Personal life
+Currently, Ranum lives in Morrisdale, Pennsylvania.  His hobbies include photography and firearms. He maintains an active stock photography account on DeviantArt, and he wrote an essay for Oleg Volk's pro-firearms site. www.a-human-right.com. Marcus Ranum was also interviewed by digital artist Brandon Pence for the NWFLAA which can be read in 2 parts: Part 1 and Part 2. He is an atheist,Ranum, Marcus. "Ranum's supports Dawkins's "out campaign" for atheists.". Retrieved 12 April 2012. Generally, I do not get a lot of satisfaction out of being identified with causes or logos. But - a couple of years ago, when Richard Dawkins started his "out campaign" for atheists, I thought that showing my support was not a bad idea. maintaining a blog on the Freethought Blogs network.
+
+References
+
+External links
+ Marcus Ranum's personal website
+ Ranum interview with RationalSecurity (2007-06-25)
+ Security Solutions profile of Ranum (2006-12-01)
+ Ranum interview with IEEE Security and Privacy magazine (2006-09-01)
+ Ranum interview with SecurityFocus (2005-06-21)
+ Ranum's DeviantArt website (stock)
+ Ranum's DeviantArt website (portfolio)
+ DojoSec Lecture — March 2009 — Ranum's discussing the failure of the notion of Cyber-warfare
+
+Category:1962 births
+Category:Living people
+Category:Computer security specialists
+Category:Usenet people
+Category:Digital Equipment Corporation people
+Category:American atheists
+Category:American computer specialists

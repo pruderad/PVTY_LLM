@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Reb Brown",
+        "birthday": "1948-04-29",
+        "year_of_photo": "\u2014",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Brown in 2018",
+        "path": "./datasets/minisubset02_annotated/Reb_Brown/title_images/Reb_Brown.jpg"
+    }
+]

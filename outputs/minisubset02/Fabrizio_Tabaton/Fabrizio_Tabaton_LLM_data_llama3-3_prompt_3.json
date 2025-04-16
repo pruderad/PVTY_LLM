@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Fabrizio Tabaton",
+        "birthday": "May 16, 1955",
+        "year_of_photo": "2008",
+        "year_of_photo_int": 2008,
+        "can_determine": true,
+        "caption": "Tabaton's Lancia Rally 037 driven at the Race Retro 2008.",
+        "path": "./datasets/minisubset02_annotated/Fabrizio_Tabaton/images/Lancia_Rally_037_-_Race_Retro_2008.jpg"
+    }
+]

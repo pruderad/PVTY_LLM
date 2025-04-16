@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Lauri_Pyyk\u00f6nen/title_images/Lauri_Pyykoenen_Stockholm_2007.jpg",
+        "person_id": 231,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1978",
+        "estimated_year_creation_left": "1998",
+        "estimated_year_creation_right": "2008",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            1073,
+            637
+        ]
+    }
+]

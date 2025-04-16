@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sarah Jane Olney",
+        "birthday": "11 January 1977",
+        "year_of_photo": "Now()",
+        "year_of_photo_int": 2024,
+        "can_determine": true,
+        "caption": "Official portrait, 2024",
+        "path": "./datasets/minisubset04_annotated/Sarah_Olney/title_images/Official_portrait_of_Sarah_Olney_MP_crop_2,_2024.jpg"
+    }
+]

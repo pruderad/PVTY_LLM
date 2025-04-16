@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Dallas_Gant/title_images/Dallas_Gant_Toledo_Rockets_Football,_December_2023.jpg",
+        "person_id": 9,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "16",
+        "birth_month": "5",
+        "birth_year": "2000",
+        "estimated_year_creation_left": "2023",
+        "estimated_year_creation_right": "2023",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            762,
+            455
+        ]
+    }
+]

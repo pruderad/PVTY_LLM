@@ -1,0 +1,44 @@
+thumb|Louis Billera
+Louis Joseph Billera is a Professor of Mathematics at Cornell University.
+
+Career
+Billera completed his B.S. at the Rensselaer Polytechnic Institute in 1964. He earned his Ph.D. from the Graduate Center of the City University of New York in 1968, under the joint supervision of Moses Richardson and Michel Balinski.
+
+Louis Billera served as the first Associate Director of the National Science Foundation Center for Discrete Mathematics and Theoretical Computer Science (DIMACS) at Rutgers University.
+
+In 2010 he gave the invited lecture, "Flag enumeration in polytopes, Eulerian partially ordered sets and Coxeter groups" at the International Congress of Mathematicians in Hyderabad.
+
+Contributions
+The common thread through much of his research is to study problems motivated by discrete and convex geometry. A sampling includes constructing polytopes to prove the sufficiency condition for the g-theorem (with Carl Lee), discovering fiber polytopes (with Bernd Sturmfels), and studying the space of phylogenetic trees (with Susan Holmes and Karen Vogtmann).
+
+Awards and honors
+In 1994 Billera won the Fulkerson Prize for his paper, Homology of smooth splines. This prize is given every three years to the best paper in discrete mathematics.
+
+In 2012 he became a fellow of the American Mathematical Society.List of Fellows of the American Mathematical Society, retrieved 2013-07-07.
+
+Selected publications
+Louis Billera, "Homology of smooth splines: Generic triangulations and a conjecture of Strang", Transactions of the American Mathematical Society 310 (1988). 325–340.
+Louis Billera, Anders Björner, Curtis Greene, Rodica Simion, Richard P. Stanley (eds.): New Perspectives in Algebraic Combinatorics, MSRI Publications, Cambridge University Press 1999, http://library.msri.org/books/Book38/
+
+See also
+Simplicial complex
+Combinatorial commutative algebra
+Quasisymmetric function
+
+References
+
+External links
+Billerafest 2008, Conference in Honor of Louis Billera's 65th Birthday. http://www.math.cornell.edu/event/conf/billera65/
+ Louis Billera's Homepage
+profile at Cornell University archived
+
+Category:Year of birth missing (living people)
+Category:Living people
+Category:20th-century American mathematicians
+Category:21st-century American mathematicians
+Category:Cornell University faculty
+Category:Fellows of the American Mathematical Society
+Category:Place of birth missing (living people)
+Category:CUNY Graduate Center alumni
+Category:Combinatorialists
+Category:Rensselaer Polytechnic Institute alumni

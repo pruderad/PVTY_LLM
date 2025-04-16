@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Victoria_Sukhareva/title_images/2014_Acrobatic_Gymnastics_World_Championships_-_Women's_group_-_Qualifications_-_Russia_2_09.jpg",
+        "person_id": 165,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1990",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Could not assess the correct bounding box + image has no caption.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            972,
+            369
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jayson Julio Aquino F\u00e9lix",
+        "birthday": "November 22, 1992",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "Aquino with the Baltimore Orioles",
+        "path": "./datasets/minisubset02_annotated/Jayson_Aquino/title_images/Jayson_Aquino_(34168702616)_(Cropped).jpg"
+    }
+]

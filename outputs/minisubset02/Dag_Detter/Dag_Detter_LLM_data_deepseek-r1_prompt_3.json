@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Dag Detter",
+        "birthday": "None",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Dag_Detter/title_images/Photo_of_Dag_Detter.jpg"
+    }
+]

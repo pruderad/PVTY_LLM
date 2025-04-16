@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jeff Smith",
+        "birthday": "1967",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Portrait of Iowa Representative Jeff Smith (IA-6) for the 84th General Assembly.",
+        "path": "./datasets/minisubset02_annotated/Jeff_Smith_(Iowa_politician)/title_images/Jeff_Smith_-_Official_Portrait_-_84th_GA.jpg"
+    }
+]

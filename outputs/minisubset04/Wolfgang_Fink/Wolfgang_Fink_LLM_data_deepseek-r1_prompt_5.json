@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Wolfgang Fink",
+        "birthday": "1969-01-25",
+        "year_of_photo": "2017",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": "Fink in February 2017",
+        "path": "./datasets/minisubset04_annotated/Wolfgang_Fink/title_images/Dr._Wolfgang_Fink_4_Feb_2017.jpg"
+    }
+]

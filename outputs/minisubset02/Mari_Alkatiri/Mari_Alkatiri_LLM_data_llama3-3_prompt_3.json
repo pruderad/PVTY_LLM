@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Mari bin Amude Alkatiri",
+        "birthday": "November 26, 1949",
+        "year_of_photo": "2020",
+        "year_of_photo_int": 2020,
+        "can_determine": true,
+        "caption": "Alkatiri in 2020",
+        "path": "./datasets/minisubset02_annotated/Mari_Alkatiri/title_images/Mar\u00ed_Alkatiri_2020-01-24.jpg"
+    }
+]

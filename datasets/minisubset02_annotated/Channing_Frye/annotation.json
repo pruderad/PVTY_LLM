@@ -1,0 +1,79 @@
+[
+    {
+        "path": "./minisubset02/Channing_Frye/images/Channing_Frye2.jpg",
+        "person_id": 32,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "17",
+        "birth_month": "5",
+        "birth_year": "1983",
+        "estimated_year_creation_left": "2008",
+        "estimated_year_creation_right": "2008",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": null
+    },
+    {
+        "path": "./minisubset02/Channing_Frye/images/Portland_Trail_Blazers_crop.jpg",
+        "person_id": 32,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "17",
+        "birth_month": "5",
+        "birth_year": "1983",
+        "estimated_year_creation_left": "2008",
+        "estimated_year_creation_right": "2008",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1,
+        "face_pixel_coordinates": [
+            895,
+            109
+        ]
+    },
+    {
+        "path": "./minisubset02/Channing_Frye/images/Channing_Frye_attacking_the_basket_(15_February_2017).jpg",
+        "person_id": 32,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "17",
+        "birth_month": "5",
+        "birth_year": "1983",
+        "estimated_year_creation_left": "2017",
+        "estimated_year_creation_right": "2017",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 47,
+        "face_pixel_coordinates": [
+            3569,
+            1153
+        ]
+    },
+    {
+        "path": "./minisubset02/Channing_Frye/title_images/Channing_Frye_(32651781277)_(cropped).jpg",
+        "person_id": 32,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "17",
+        "birth_month": "5",
+        "birth_year": "1983",
+        "estimated_year_creation_left": "2019",
+        "estimated_year_creation_right": "2019",
+        "annotation_shortcommings": "No bounding box but face is present\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            1666,
+            738
+        ]
+    }
+]

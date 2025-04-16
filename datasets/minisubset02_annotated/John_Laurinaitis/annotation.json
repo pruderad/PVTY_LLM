@@ -1,0 +1,62 @@
+[
+    {
+        "path": "./minisubset02/John_Laurinaitis/images/Punk_&_Laurinaitis.jpg",
+        "person_id": 86,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "31",
+        "birth_month": "7",
+        "birth_year": "1962",
+        "estimated_year_creation_left": "2011",
+        "estimated_year_creation_right": "2012",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1,
+        "face_pixel_coordinates": [
+            303,
+            491
+        ]
+    },
+    {
+        "path": "./minisubset02/John_Laurinaitis/images/John_Cena_(7900549000)_(cropped).jpg",
+        "person_id": 86,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "31",
+        "birth_month": "7",
+        "birth_year": "1962",
+        "estimated_year_creation_left": "2012",
+        "estimated_year_creation_right": "2012",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            211,
+            54
+        ]
+    },
+    {
+        "path": "./minisubset02/John_Laurinaitis/title_images/John_Laurinaitis_May_2012.jpg",
+        "person_id": 86,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "31",
+        "birth_month": "7",
+        "birth_year": "1962",
+        "estimated_year_creation_left": "2012",
+        "estimated_year_creation_right": "2012",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            463,
+            189
+        ]
+    }
+]

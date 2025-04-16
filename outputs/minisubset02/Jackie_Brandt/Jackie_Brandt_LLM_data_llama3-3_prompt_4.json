@@ -1,0 +1,11 @@
+[
+    {
+        "name": "John George Brandt Jr.",
+        "birthday": "April 28, 1934",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Jackie_Brandt/title_images/Jackie_Brandt_1963.jpg"
+    }
+]

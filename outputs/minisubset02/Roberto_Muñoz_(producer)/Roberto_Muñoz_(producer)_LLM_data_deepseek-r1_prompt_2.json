@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Roberto Munoz",
+        "birthday": "August 22, 1951",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Roberto_Mu\u00f1oz_(producer)/title_images/Roberto_Munoz.jpg"
+    }
+]

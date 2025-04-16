@@ -1,0 +1,76 @@
+[
+    {
+        "path": "./minisubset02/Ella_Guru/images/2006_Spectrum_London.jpg",
+        "person_id": 74,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "24",
+        "birth_month": 5,
+        "birth_year": "1966",
+        "estimated_year_creation_left": "2006",
+        "estimated_year_creation_right": "2006",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1,
+        "face_pixel_coordinates": [
+            100,
+            139
+        ]
+    },
+    {
+        "path": "./minisubset02/Ella_Guru/images/2000_Stuckist_Turner_demo_(2).jpg",
+        "person_id": 74,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "24",
+        "birth_month": "5",
+        "birth_year": "1966",
+        "estimated_year_creation_left": "2000",
+        "estimated_year_creation_right": "2000",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1,
+        "face_pixel_coordinates": [
+            144,
+            114
+        ]
+    },
+    {
+        "path": "./minisubset02/Ella_Guru/images/Ella_Guru,_The_Queen_s_Speech.jpg",
+        "person_id": 74,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "24",
+        "birth_month": "5",
+        "birth_year": "1966",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Ella Guru is not in the picture.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": null
+    },
+    {
+        "path": "./minisubset02/Ella_Guru/title_images/Photo_of_Ella_Guru_by_Charles_Thomson.jpg",
+        "person_id": 74,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "24",
+        "birth_month": "5",
+        "birth_year": "1966",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Could not estimate year from caption.\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": null
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Dana_DeMuth/title_images/Dana_DeMuth_2008.jpg",
+        "person_id": 212,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1956",
+        "estimated_year_creation_left": "2008",
+        "estimated_year_creation_right": "2008",
+        "annotation_shortcommings": "No bounding box present.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            471,
+            143
+        ]
+    }
+]

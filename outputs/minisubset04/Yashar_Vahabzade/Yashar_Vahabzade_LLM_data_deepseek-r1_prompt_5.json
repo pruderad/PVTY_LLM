@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Yashar Vahabzade",
+        "birthday": "8 April 1960",
+        "year_of_photo": "Photo taken in 1982 during his time at Avtomobilchi.",
+        "year_of_photo_int": 1982,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Yashar_Vahabzade/title_images/Ya\u015far_Vahabzad\u0259.jpg"
+    }
+]

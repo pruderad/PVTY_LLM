@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Danica d'Hondt",
+        "birthday": "29 May 1939",
+        "year_of_photo": "null",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Danica_d_Hondt/title_images/Danica_d'Hondt_-_Canada_1958.jpg"
+    }
+]

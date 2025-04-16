@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Nicolai_Cleve_Broch/title_images/Nicolai_Cleve_Broch_som_konge_i_spelet_2004.jpg",
+        "person_id": 117,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "14",
+        "birth_month": "11",
+        "birth_year": "1975",
+        "estimated_year_creation_left": "2004",
+        "estimated_year_creation_right": "2004",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            808,
+            370
+        ]
+    }
+]

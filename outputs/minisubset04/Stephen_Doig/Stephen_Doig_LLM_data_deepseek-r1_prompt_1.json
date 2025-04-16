@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Stephen K. Doig",
+        "birthday": "1947-07-14",
+        "year_of_photo": "Doig in 2010",
+        "year_of_photo_int": 2010,
+        "can_determine": true,
+        "caption": "Doig in 2010",
+        "path": "./datasets/minisubset04_annotated/Stephen_Doig/title_images/Steve_doig.jpg"
+    }
+]

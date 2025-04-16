@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Hologram",
+        "birthday": "None",
+        "year_of_photo": "2020",
+        "year_of_photo_int": 2020,
+        "can_determine": false,
+        "caption": "Hologram as Aram\u00eds in 2020",
+        "path": "./datasets/minisubset04_annotated/Hologram_(wrestler)/title_images/Aramis_Coacalco_(cropped).jpg"
+    }
+]

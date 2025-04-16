@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Claude Janiak",
+        "birthday": "1948-10-30",
+        "year_of_photo": "Now()",
+        "year_of_photo_int": 2023,
+        "can_determine": false,
+        "caption": "Claude Janiak",
+        "path": "./datasets/minisubset02_annotated/Claude_Janiak/images/Claude_Janiak.jpg"
+    }
+]

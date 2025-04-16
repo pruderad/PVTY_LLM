@@ -1,0 +1,11 @@
+[
+    {
+        "name": "\u00c5sa Lindestam",
+        "birthday": "24 April 1956",
+        "year_of_photo": "2002\u20132022",
+        "year_of_photo_int": 2002,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/\u00c5sa_Lindestam/title_images/\u00c5sa_Lindestam_in_2019.jpg"
+    }
+]

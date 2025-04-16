@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Richard Keith Ellis",
+        "birthday": "1949-11-17",
+        "year_of_photo": "2019",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Ellis in 2019",
+        "path": "./datasets/minisubset02_annotated/R._Keith_Ellis/title_images/R_Keith_ELLIS_Portrait_(cropped).jpg"
+    }
+]

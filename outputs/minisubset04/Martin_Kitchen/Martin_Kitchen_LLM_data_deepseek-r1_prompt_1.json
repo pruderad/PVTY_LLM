@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Martin Kitchen",
+        "birthday": "1936-12-21",
+        "year_of_photo": "<unknown>",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Martin Kitchen (2009)",
+        "path": "./datasets/minisubset04_annotated/Martin_Kitchen/title_images/Martin_Kitchen_(cropped).JPG"
+    }
+]

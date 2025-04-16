@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Surinder Singh",
+        "birthday": "21 August 2019",
+        "year_of_photo": "21 August 2019",
+        "year_of_photo_int": 2019,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Surinder_Singh_(general)/title_images/Surinder_Singh_GOC.jpg"
+    }
+]

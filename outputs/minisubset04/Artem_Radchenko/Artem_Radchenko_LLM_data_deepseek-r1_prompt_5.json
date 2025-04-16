@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Artem Radchenko",
+        "birthday": "2 January 1995",
+        "year_of_photo": "2012",
+        "year_of_photo_int": 2012,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Artem_Radchenko/title_images/Artem_Radchenko_2015.jpg"
+    }
+]

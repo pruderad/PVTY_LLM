@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Leonie_Pankratz/title_images/Leonie_Pankratz_2014_(cropped).jpg",
+        "person_id": 112,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "25",
+        "birth_month": "1",
+        "birth_year": "1990",
+        "estimated_year_creation_left": "2014",
+        "estimated_year_creation_right": "2014",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            808,
+            370
+        ]
+    }
+]

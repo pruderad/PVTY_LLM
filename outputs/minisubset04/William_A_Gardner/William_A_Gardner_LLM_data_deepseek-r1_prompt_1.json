@@ -1,0 +1,11 @@
+[
+    {
+        "name": "William A. Gardner",
+        "birthday": "1942-11-04",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/William_A_Gardner/title_images/William_Gardner_academic.jpg"
+    }
+]

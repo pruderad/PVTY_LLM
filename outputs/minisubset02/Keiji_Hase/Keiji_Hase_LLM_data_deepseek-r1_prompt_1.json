@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Hase",
+        "birthday": "1935",
+        "year_of_photo": ":1956",
+        "year_of_photo_int": 1956,
+        "can_determine": true,
+        "caption": "Hase in 1956",
+        "path": "./datasets/minisubset02_annotated/Keiji_Hase/title_images/Keiji_Hase_01.jpg"
+    }
+]

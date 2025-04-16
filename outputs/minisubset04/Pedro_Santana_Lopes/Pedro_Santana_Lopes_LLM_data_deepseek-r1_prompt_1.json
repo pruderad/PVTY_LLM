@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Santana Lopes",
+        "birthday": "29 June 1956",
+        "year_of_photo": "Now()",
+        "year_of_photo_int": 2024,
+        "can_determine": false,
+        "caption": "Santana Lopes in 2005",
+        "path": "./datasets/minisubset04_annotated/Pedro_Santana_Lopes/title_images/Pedro_Santana_Lopes_01.jpg"
+    }
+]

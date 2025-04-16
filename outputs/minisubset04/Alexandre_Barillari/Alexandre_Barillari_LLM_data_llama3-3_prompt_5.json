@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Alexandre Barillari",
+        "birthday": "March 19, 1975",
+        "year_of_photo": "Unknown",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Alexandre Barillari",
+        "path": "./datasets/minisubset04_annotated/Alexandre_Barillari/title_images/Alexandre_Barillari.jpg"
+    }
+]

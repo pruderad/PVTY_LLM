@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Randy Delorey",
+        "birthday": "None",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Randy Delorey Leadership Campaign logo",
+        "path": "./datasets/minisubset02_annotated/Randy_Delorey/images/Randy_Delorey_Logo_(Red).png"
+    }
+]

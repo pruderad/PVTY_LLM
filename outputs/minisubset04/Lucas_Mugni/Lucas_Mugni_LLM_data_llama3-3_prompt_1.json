@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Lucas Andr\u00e9s Mugni",
+        "birthday": "1992-01-12",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "Mugni with [[CR Flamengo|Flamengo]] in 2014",
+        "path": "./datasets/minisubset04_annotated/Lucas_Mugni/title_images/Lucas_Mugni.jpg"
+    }
+]

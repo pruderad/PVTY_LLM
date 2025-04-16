@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Peter Brown",
+        "birthday": "None",
+        "year_of_photo": "N/A",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Brown at the 2014 [[National Book Festival]]",
+        "path": "./datasets/minisubset04_annotated/Peter_Brown_(illustrator)/title_images/Peter_Brown_in_2014.jpg"
+    }
+]

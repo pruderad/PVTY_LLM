@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Olympe de G.",
+        "birthday": "null",
+        "year_of_photo": "2022",
+        "year_of_photo_int": 2022,
+        "can_determine": true,
+        "caption": "upright|Olympe de G. in 2022",
+        "path": "./datasets/minisubset04_annotated/Olympe_de_G/images/Olympe_de_G\u00ea_photographed_by_Alexander_Bee.jpg"
+    },
+    {
+        "name": "Olympe de G.",
+        "birthday": "null",
+        "year_of_photo": "null",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Olympe_de_G/title_images/Olympe_De_G.jpg"
+    }
+]

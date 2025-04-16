@@ -1,0 +1,11 @@
+[
+    {
+        "name": "M\u00e1rta K\u00e1rolyi",
+        "birthday": "August 29, 1942",
+        "year_of_photo": "Not Available",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Simone Biles receiving medal from K\u00e1rolyi in 2012",
+        "path": "./datasets/minisubset04_annotated/M\u00e1rta_K\u00e1rolyi/title_images/SecretUSClassic_Simone_Biles.JPG"
+    }
+]

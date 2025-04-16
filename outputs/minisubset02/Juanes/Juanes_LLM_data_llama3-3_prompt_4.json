@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Juanes",
+        "birthday": "9 August 1972",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Juanes FPML",
+        "path": "./datasets/minisubset02_annotated/Juanes/images/Juanes_FPML.JPG"
+    },
+    {
+        "name": "Juanes",
+        "birthday": "9 August 1972",
+        "year_of_photo": "2009",
+        "year_of_photo_int": 2009,
+        "can_determine": true,
+        "caption": "250px|Juanes during the 2009 Peace Concert in Havana, Cuba",
+        "path": "./datasets/minisubset02_annotated/Juanes/images/Juanes-cuba1.jpg"
+    },
+    {
+        "name": "Juanes",
+        "birthday": "9 August 1972",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "Juanes in 2023",
+        "path": "./datasets/minisubset02_annotated/Juanes/title_images/2023-11-16_Gala_de_los_Latin_Grammy,_14_(cropped).jpg"
+    }
+]

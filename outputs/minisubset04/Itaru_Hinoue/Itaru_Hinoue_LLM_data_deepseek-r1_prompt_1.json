@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Itaru Hinoue",
+        "birthday": "1972-01-09",
+        "year_of_photo": "\u2014",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "150px|A self-portrait caricature of Itaru Hinoue",
+        "path": "./datasets/minisubset04_annotated/Itaru_Hinoue/images/Itaru_Hinoue_caricature.jpg"
+    }
+]

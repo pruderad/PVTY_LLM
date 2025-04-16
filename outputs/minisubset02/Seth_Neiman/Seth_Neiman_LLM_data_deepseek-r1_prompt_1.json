@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Seth Neiman",
+        "birthday": "1954-06-27",
+        "year_of_photo": "Not Available",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "325px|Seth Neiman Flying Lizard Porsche LBGP (2012).",
+        "path": "./datasets/minisubset02_annotated/Seth_Neiman/images/Seth_Neiman_Flying_Lizard_Porsche_LBGP_2012.jpg"
+    },
+    {
+        "name": "Seth Neiman",
+        "birthday": "1954-06-27",
+        "year_of_photo": "Not Available",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Seth Neiman of Flying Lizard Motorsports at the 2014 24 Hours of Le Mans",
+        "path": "./datasets/minisubset02_annotated/Seth_Neiman/title_images/SethAtLeMans2014.jpg"
+    }
+]

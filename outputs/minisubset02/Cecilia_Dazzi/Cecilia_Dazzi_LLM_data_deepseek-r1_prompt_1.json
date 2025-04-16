@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Cecilia Dazzi",
+        "birthday": "1969-10-17",
+        "year_of_photo": "Now()",
+        "year_of_photo_int": 2022,
+        "can_determine": true,
+        "caption": "Dazzi appears for the [[United Nations High Commissioner for Refugees|UNHCR]] in 2022.",
+        "path": "./datasets/minisubset02_annotated/Cecilia_Dazzi/title_images/UNHCR_feat_Cecilia_Dazzi_D\u00e9luge_TV_01.jpg"
+    }
+]

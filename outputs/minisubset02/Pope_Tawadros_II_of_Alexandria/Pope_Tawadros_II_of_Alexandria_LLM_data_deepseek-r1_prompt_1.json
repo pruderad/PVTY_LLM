@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Pope Tawadros II",
+        "birthday": "1952-11-04",
+        "year_of_photo": "2012",
+        "year_of_photo_int": 2012,
+        "can_determine": true,
+        "caption": "Pope Tawadros II",
+        "path": "./datasets/minisubset02_annotated/Pope_Tawadros_II_of_Alexandria/title_images/Tawadros_II.jpg"
+    }
+]

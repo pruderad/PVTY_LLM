@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Aasif Hakim Mandviwala",
+        "birthday": "None",
+        "year_of_photo": "2010",
+        "year_of_photo_int": 2010,
+        "can_determine": false,
+        "caption": "Mandvi at the 2010 San Francisco International Asian American Film Festival.",
+        "path": "./datasets/minisubset04_annotated/Aasif_Mandvi/images/Aasif_Mandvi,_Clay_Theatre,_San_Francisco_International_Asian_American_Film_Festival_2010.jpg"
+    },
+    {
+        "name": "Aasif Hakim Mandviwala",
+        "birthday": "None",
+        "year_of_photo": "2016",
+        "year_of_photo_int": 2016,
+        "can_determine": false,
+        "caption": "Mandvi in 2016",
+        "path": "./datasets/minisubset04_annotated/Aasif_Mandvi/title_images/Aasif_Mandvi_2016.jpg"
+    }
+]

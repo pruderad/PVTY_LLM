@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Marc Scott Zicree",
+        "birthday": "1955",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "Zicree at the 2023 [[WonderCon]]",
+        "path": "./datasets/minisubset02_annotated/Marc_Scott_Zicree/title_images/Marc_Scott_Zicree_by_Gage_Skidmore.jpg"
+    }
+]

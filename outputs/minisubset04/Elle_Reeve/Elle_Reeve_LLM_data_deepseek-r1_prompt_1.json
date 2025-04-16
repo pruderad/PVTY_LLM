@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Elspeth \"Elle\" Reeve",
+        "birthday": "1981 or 1982",
+        "year_of_photo": "2022",
+        "year_of_photo_int": 2022,
+        "can_determine": true,
+        "caption": "Reeve in 2022",
+        "path": "./datasets/minisubset04_annotated/Elle_Reeve/title_images/Elle_Reeve,_2022_(headshot).jpg"
+    }
+]

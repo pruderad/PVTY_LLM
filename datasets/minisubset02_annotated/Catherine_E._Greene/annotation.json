@@ -1,0 +1,19 @@
+[
+    {
+        "path": "./minisubset02/Catherine_E._Greene/images/Sentinel_by_Catherine_Greene-_Sculpture_In_Context_2012_at_the_National_Botanic_Gardens_(7958740066).jpg",
+        "person_id": 77,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1960",
+        "estimated_year_creation_left": "2012",
+        "estimated_year_creation_right": "2012",
+        "annotation_shortcommings": "There is no person in the image.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": null
+    }
+]

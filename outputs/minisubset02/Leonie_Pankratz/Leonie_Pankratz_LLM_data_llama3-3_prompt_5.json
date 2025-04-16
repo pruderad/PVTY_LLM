@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Leonie Pankratz",
+        "birthday": "25 January 1990",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "Pankratz in the Hoffenheim jersey in 2014",
+        "path": "./datasets/minisubset02_annotated/Leonie_Pankratz/title_images/Leonie_Pankratz_2014_(cropped).jpg"
+    }
+]

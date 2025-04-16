@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Anna Maria Uusitalo",
+        "birthday": "May 13, 1983",
+        "year_of_photo": "2008",
+        "year_of_photo_int": 2008,
+        "can_determine": true,
+        "caption": "Anna Maria Uusitalo competing for Sweden during the IBU World Biathlon Championships in \u00d6stersund, Sweden in February 2008",
+        "path": "./datasets/minisubset04_annotated/Anna_Maria_Uusitalo/title_images/Anna_Maria_Nilsson_Ostersund_2008.jpg"
+    }
+]

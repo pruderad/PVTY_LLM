@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Francisco Garrido Pe\u00f1a",
+        "birthday": "25 March 1958",
+        "year_of_photo": "2004",
+        "year_of_photo_int": 2004,
+        "can_determine": true,
+        "caption": "Image of Francisco Garrido Pe\u00f1a",
+        "path": "./datasets/minisubset02_annotated/Francisco_Garrido_Pe\u00f1a/images/Francisco_Garrido.jpg"
+    }
+]

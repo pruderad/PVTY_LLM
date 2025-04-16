@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Shin_Goo/title_images/Shin_Goo_in_October_2024.png",
+        "person_id": 17,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "13",
+        "birth_month": "8",
+        "birth_year": "1936",
+        "estimated_year_creation_left": "2024",
+        "estimated_year_creation_right": "2024",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            575,
+            235
+        ]
+    }
+]

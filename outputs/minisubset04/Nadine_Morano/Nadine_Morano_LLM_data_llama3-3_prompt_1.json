@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Nadine Morano",
+        "birthday": "1963-11-06",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "Nadine Morano in 2014",
+        "path": "./datasets/minisubset04_annotated/Nadine_Morano/title_images/2014-05-14_11-58-12_nadine-morano_(cropped).jpg"
+    }
+]

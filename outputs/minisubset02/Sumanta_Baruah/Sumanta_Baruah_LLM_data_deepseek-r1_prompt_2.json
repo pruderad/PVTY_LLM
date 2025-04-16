@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sumanta Baruah",
+        "birthday": "1985-05-15",
+        "year_of_photo": "2010",
+        "year_of_photo_int": 2010,
+        "can_determine": true,
+        "caption": "Sumanta baruah",
+        "path": "./datasets/minisubset02_annotated/Sumanta_Baruah/images/Sumanta_baruah.jpg"
+    }
+]

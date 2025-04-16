@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Yashar Vahabzade",
+        "birthday": "8 April 1960",
+        "year_of_photo": "1983",
+        "year_of_photo_int": 1983,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Yashar_Vahabzade/title_images/Ya\u015far_Vahabzad\u0259.jpg"
+    }
+]

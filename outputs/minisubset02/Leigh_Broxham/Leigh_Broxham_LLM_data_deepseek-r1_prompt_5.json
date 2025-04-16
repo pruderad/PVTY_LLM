@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Leigh Michael Broxham",
+        "birthday": "13 January 1988",
+        "year_of_photo": "2010",
+        "year_of_photo_int": 2010,
+        "can_determine": true,
+        "caption": "left|161px|Broxham playing for Melbourne Victory in 2010",
+        "path": "./datasets/minisubset02_annotated/Leigh_Broxham/images/Leigh_Broxham.jpg"
+    },
+    {
+        "name": "Leigh Michael Broxham",
+        "birthday": "13 January 1988",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Broxham with [[Melbourne Victory FC|Melbourne Victory]] in 2018",
+        "path": "./datasets/minisubset02_annotated/Leigh_Broxham/title_images/Leigh_Broxham_2018_(cropped).jpg"
+    }
+]

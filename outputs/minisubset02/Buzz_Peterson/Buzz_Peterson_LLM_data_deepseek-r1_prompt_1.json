@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Buzz Peterson",
+        "birthday": "May 17, 1963",
+        "year_of_photo": "Not specified",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Peterson in 2012",
+        "path": "./datasets/minisubset02_annotated/Buzz_Peterson/title_images/Buzz_Peterson_2012.jpg"
+    }
+]

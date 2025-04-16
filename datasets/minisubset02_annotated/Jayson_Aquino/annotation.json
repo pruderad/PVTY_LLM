@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Jayson_Aquino/title_images/Jayson_Aquino_(34168702616)_(Cropped).jpg",
+        "person_id": 66,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "22",
+        "birth_month": "11",
+        "birth_year": "1992",
+        "estimated_year_creation_left": "2016",
+        "estimated_year_creation_right": "2017",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            779,
+            717
+        ]
+    }
+]

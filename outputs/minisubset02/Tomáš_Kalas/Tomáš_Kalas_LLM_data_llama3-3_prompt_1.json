@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Tom\u00e1\u0161 Kalas",
+        "birthday": "1993-05-15",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "upright|Kalas warming up for Chelsea in 2014",
+        "path": "./datasets/minisubset02_annotated/Tom\u00e1\u0161_Kalas/images/Tom\u00e1\u0161_Kalas'14.JPG"
+    },
+    {
+        "name": "Tom\u00e1\u0161 Kalas",
+        "birthday": "15 May 1993",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "upright|Kalas (right) playing for the Czech Republic in 2018",
+        "path": "./datasets/minisubset02_annotated/Tom\u00e1\u0161_Kalas/images/RUS-CZE_(25).jpg"
+    },
+    {
+        "name": "Tom\u00e1\u0161 Kalas",
+        "birthday": "15 May 1993",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Kalas lining up for [[Czech Republic national football team|Czech Republic]] in 2018",
+        "path": "./datasets/minisubset02_annotated/Tom\u00e1\u0161_Kalas/title_images/Tom\u00e1\u0161_Kalas_20180601_AUSCZE_3910_(cropped).jpg"
+    }
+]

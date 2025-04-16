@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Olivier Rouyer",
+        "birthday": "December 1, 1955",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "Rouyer in 2014",
+        "path": "./datasets/minisubset02_annotated/Olivier_Rouyer/title_images/Olivier_Rouyer_-_juillet_2014.JPG"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Robert_Hartmann_(referee)/title_images/2022-04-20_Fu\u00dfball,_M\u00e4nner,_DFB-Pokal,_RB_Leipzig_-_1._FC_Union_Berlin_1DX_8168_by_Stepro.jpg",
+        "person_id": 68,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "8",
+        "birth_month": "9",
+        "birth_year": "1979",
+        "estimated_year_creation_left": "2022",
+        "estimated_year_creation_right": "2022",
+        "annotation_shortcommings": "No bounding box but otherwise good.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            1441,
+            846
+        ]
+    }
+]

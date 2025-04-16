@@ -1,0 +1,82 @@
+[
+    {
+        "path": "./minisubset02/Clara_Hughes/images/Clara_Hughes_2011_Tour_of_the_Gila.jpg",
+        "person_id": 25,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "27",
+        "birth_month": "9",
+        "birth_year": "1972",
+        "estimated_year_creation_left": "2011",
+        "estimated_year_creation_right": "2011",
+        "annotation_shortcommings": "bounding box missing\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            3303,
+            1176
+        ]
+    },
+    {
+        "path": "./minisubset02/Clara_Hughes/images/Clara_Hughes_at_WC_2007_in_Heerenveen.jpg",
+        "person_id": 25,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "27",
+        "birth_month": "9",
+        "birth_year": "1972",
+        "estimated_year_creation_left": "2007",
+        "estimated_year_creation_right": "2007",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            3303,
+            1176
+        ]
+    },
+    {
+        "path": "./minisubset02/Clara_Hughes/images/Clara_Hughes_by_Freeman_cropped.jpg",
+        "person_id": 25,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "27",
+        "birth_month": "9",
+        "birth_year": "1972",
+        "estimated_year_creation_left": "2010",
+        "estimated_year_creation_right": "2010",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 4,
+        "face_pixel_coordinates": [
+            950,
+            795
+        ]
+    },
+    {
+        "path": "./minisubset02/Clara_Hughes/title_images/Clara_Hughes_on_Walk_of_Fame_2.jpg",
+        "person_id": 25,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "27",
+        "birth_month": "9",
+        "birth_year": "1972",
+        "estimated_year_creation_left": "2010",
+        "estimated_year_creation_right": "2010",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            950,
+            795
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Cyril_Gautier/title_images/Crit\u00e9rium_du_Dauphin\u00e9_2013_-_4e_\u00e9tape_(clm)_-_85.JPG",
+        "person_id": 133,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1987",
+        "estimated_year_creation_left": "2013",
+        "estimated_year_creation_right": "2013",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            925,
+            592
+        ]
+    }
+]

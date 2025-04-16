@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Vladimir Mironovich Palikhata",
+        "birthday": "1967-09-23",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Vladimir_Palikhata/title_images/Vladimir_Palikhata.jpg"
+    }
+]

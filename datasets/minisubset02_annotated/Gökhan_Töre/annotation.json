@@ -1,0 +1,62 @@
+[
+    {
+        "path": "./minisubset02/G\u00f6khan_T\u00f6re/images/G\u00f6khan_T\u00f6re'14.JPG",
+        "person_id": 225,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1992",
+        "estimated_year_creation_left": "2014",
+        "estimated_year_creation_right": "2014",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            1320,
+            1084
+        ]
+    },
+    {
+        "path": "./minisubset02/G\u00f6khan_T\u00f6re/images/G\u00f6khanT\u00f6re.jpg",
+        "person_id": 225,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1992",
+        "estimated_year_creation_left": "2011",
+        "estimated_year_creation_right": "2011",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            1320,
+            1084
+        ]
+    },
+    {
+        "path": "./minisubset02/G\u00f6khan_T\u00f6re/title_images/G\u00f6khan_T\u00f6re_2013_1.jpg",
+        "person_id": 225,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1992",
+        "estimated_year_creation_left": "2013",
+        "estimated_year_creation_right": "2013",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            1320,
+            1084
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Matt Nickerson",
+        "birthday": "January 11, 1985",
+        "year_of_photo": "2003",
+        "year_of_photo_int": 2003,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Matt_Nickerson/title_images/Nickerson_Matt_Ilves_2008_2.jpg"
+    }
+]

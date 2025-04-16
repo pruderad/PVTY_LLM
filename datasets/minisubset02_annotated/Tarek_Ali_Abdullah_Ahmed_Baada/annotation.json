@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Tarek_Ali_Abdullah_Ahmed_Baada/title_images/ISN_00178,_Tariq_Ali_Abdallah_Ahmad_Ba\u2019Awadha.jpg",
+        "person_id": 249,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1978",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Could not estimate the year of image creation.\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            742,
+            364
+        ]
+    }
+]

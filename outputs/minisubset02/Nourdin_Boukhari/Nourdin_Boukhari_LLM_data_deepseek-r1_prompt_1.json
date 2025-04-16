@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Nourdin Boukhari",
+        "birthday": "1980-06-30",
+        "year_of_photo": "N/A",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Nourdin_Boukhari/title_images/Nordin_Boukhari_(cropped).jpg"
+    }
+]

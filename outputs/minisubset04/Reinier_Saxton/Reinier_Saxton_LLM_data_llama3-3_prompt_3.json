@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Reinier Saxton",
+        "birthday": "February 10, 1988",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Reinier_Saxton/title_images/Reinier_Saxton.JPG"
+    }
+]

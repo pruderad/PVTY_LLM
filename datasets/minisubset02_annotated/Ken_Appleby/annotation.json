@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Ken_Appleby/title_images/Kenappleby.jpg",
+        "person_id": 53,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "10",
+        "birth_month": "4",
+        "birth_year": "1995",
+        "estimated_year_creation_left": "2019",
+        "estimated_year_creation_right": "2019",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 2,
+        "face_pixel_coordinates": [
+            2876,
+            1923
+        ]
+    }
+]

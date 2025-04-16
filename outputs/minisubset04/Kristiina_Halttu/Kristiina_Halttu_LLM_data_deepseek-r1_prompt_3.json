@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Kristiina Halttu",
+        "birthday": "7 June 1963",
+        "year_of_photo": "2000",
+        "year_of_photo_int": 2000,
+        "can_determine": true,
+        "caption": "Halttu in 2000",
+        "path": "./datasets/minisubset04_annotated/Kristiina_Halttu/title_images/Three_different_hairstyles_on_three_different_women_2000_(JOKASEK5K04C-2).tif"
+    }
+]

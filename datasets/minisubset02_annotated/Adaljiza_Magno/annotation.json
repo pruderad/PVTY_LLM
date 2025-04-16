@@ -1,0 +1,42 @@
+[
+    {
+        "path": "./minisubset02/Adaljiza_Magno/images/Deputy_Secretary_Sherman_Meets_With_Timor-Leste_Foreign_Minister_Adaljiza_Albertina_Xavier_Reis_Magno_(52362658161).jpg",
+        "person_id": 236,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1975",
+        "estimated_year_creation_left": "2022",
+        "estimated_year_creation_right": "2022",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1,
+        "face_pixel_coordinates": [
+            4010,
+            1022
+        ]
+    },
+    {
+        "path": "./minisubset02/Adaljiza_Magno/title_images/2022-04-29_Adalj\u00edza_Magno.jpg",
+        "person_id": 236,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1975",
+        "estimated_year_creation_left": "2022",
+        "estimated_year_creation_right": "2022",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            4010,
+            1022
+        ]
+    }
+]

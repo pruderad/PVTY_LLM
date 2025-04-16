@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Kevin_Patel/title_images/Kevin_J._Patel,_2021_(cropped).jpg",
+        "person_id": 13,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "23",
+        "birth_month": "9",
+        "birth_year": "2000",
+        "estimated_year_creation_left": "2021",
+        "estimated_year_creation_right": "2021",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            762,
+            455
+        ]
+    }
+]

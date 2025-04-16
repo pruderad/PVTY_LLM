@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Marcelo Calero Faria Garcia",
+        "birthday": "7 July 1982",
+        "year_of_photo": "N/A",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Marcelo Calero in 2016",
+        "path": "./datasets/minisubset04_annotated/Marcelo_Calero/title_images/Marcelo_Calero_(27285081785).jpg"
+    }
+]

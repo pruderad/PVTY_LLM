@@ -1,0 +1,79 @@
+[
+    {
+        "path": "./minisubset02/Noa_(singer)/images/Noa_performs.jpg",
+        "person_id": 203,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1969",
+        "estimated_year_creation_left": "2018",
+        "estimated_year_creation_right": "2018",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": null
+    },
+    {
+        "path": "./minisubset02/Noa_(singer)/images/Noa_and_Gil_Dor_perform.jpg",
+        "person_id": 203,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1969",
+        "estimated_year_creation_left": "2019",
+        "estimated_year_creation_right": "2019",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            353,
+            161
+        ]
+    },
+    {
+        "path": "./minisubset02/Noa_(singer)/images/Noa_receives_the_Shulamit_Aloni's_Lifetime_Achievement_award.jpg",
+        "person_id": 203,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1969",
+        "estimated_year_creation_left": "2019",
+        "estimated_year_creation_right": "2019",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            522,
+            248
+        ]
+    },
+    {
+        "path": "./minisubset02/Noa_(singer)/title_images/Noa_-_Profile_Photo.jpg",
+        "person_id": 203,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1969",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Image has no caption.\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            522,
+            248
+        ]
+    }
+]

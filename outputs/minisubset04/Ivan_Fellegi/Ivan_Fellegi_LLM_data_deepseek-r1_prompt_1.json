@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ivan Peter Fellegi",
+        "birthday": "June 22, 1935",
+        "year_of_photo": "My caption says 'Official portrait, 1985', so I can determine that the photo was taken in 1985.",
+        "year_of_photo_int": 1985,
+        "can_determine": true,
+        "caption": "Official portrait, 1985",
+        "path": "./datasets/minisubset04_annotated/Ivan_Fellegi/title_images/Ivan_Fellegi.jpg"
+    }
+]

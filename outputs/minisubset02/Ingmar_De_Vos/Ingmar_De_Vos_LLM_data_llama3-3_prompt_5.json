@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ingmar De Vos",
+        "birthday": "5 August 1963",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "FEI World Breeding Jumping Championships for Young Horses, Lanaken (2015) from the left: Judy Ann Melchior, Rik Van Miert (WBFSH), Ingmar De Vos (FEI), J. Pijarowski (KSPSK)",
+        "path": "./datasets/minisubset02_annotated/Ingmar_De_Vos/images/00_FEI_World_Breeding_Jumping_Championships_for_Young_Horses,_Lanaken.jpg"
+    },
+    {
+        "name": "Ingmar De Vos",
+        "birthday": "5 August 1963",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Ingmar_De_Vos/title_images/Ingmar_De_Vos,_FEI_President.jpg"
+    }
+]

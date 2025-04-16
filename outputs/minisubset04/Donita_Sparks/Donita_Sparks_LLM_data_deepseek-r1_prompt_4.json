@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Donita Sparks",
+        "birthday": "April 8, 1963",
+        "year_of_photo": "N/A",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Donita Sparks in 2015",
+        "path": "./datasets/minisubset04_annotated/Donita_Sparks/title_images/L7_Rock_am_Ring_2015_(10).JPG"
+    }
+]

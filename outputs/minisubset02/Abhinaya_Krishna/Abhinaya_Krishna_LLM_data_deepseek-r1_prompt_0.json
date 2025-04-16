@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Abhinaya Krishna",
+        "birthday": "1981-05-10",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "right",
+        "path": "./datasets/minisubset02_annotated/Abhinaya_Krishna/images/Adire_Bhai.jpg"
+    }
+]

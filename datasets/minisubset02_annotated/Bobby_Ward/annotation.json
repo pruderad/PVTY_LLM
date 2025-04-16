@@ -1,0 +1,19 @@
+[
+    {
+        "path": "./minisubset02/Bobby_Ward/title_images/GW294H450_(131_x_200).jpg",
+        "person_id": 216,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1958",
+        "estimated_year_creation_left": "1979",
+        "estimated_year_creation_right": "1981",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": null
+    }
+]

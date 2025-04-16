@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jens B\u00f6hrnsen",
+        "birthday": "June 12, 1949",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Jens_B\u00f6hrnsen/title_images/Portrait_Buergermeister_Boehrnsen.jpg"
+    }
+]

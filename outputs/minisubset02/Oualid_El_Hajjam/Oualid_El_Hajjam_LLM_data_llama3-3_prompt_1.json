@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Oualid El Hajjam",
+        "birthday": "1991-02-19",
+        "year_of_photo": "2020",
+        "year_of_photo_int": 2020,
+        "can_determine": true,
+        "caption": "El Hajjam in 2020",
+        "path": "./datasets/minisubset02_annotated/Oualid_El_Hajjam/title_images/Oualid_El_Hajjam_2020.png"
+    }
+]

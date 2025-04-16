@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Eric \"E. D.\" Donald Hirsch Jr.",
+        "birthday": "March 22 1928",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "Hirsch in 2015",
+        "path": "./datasets/minisubset04_annotated/E._D._Hirsch/title_images/E._D._Hirsch_at_Policy_Exchange_Education_Lecture_(3).jpg"
+    }
+]

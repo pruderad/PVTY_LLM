@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Leslie Coutterand",
+        "birthday": "October 1984",
+        "year_of_photo": "Not specified",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Coutterand in 2012.",
+        "path": "./datasets/minisubset02_annotated/Leslie_Coutterand/title_images/Leslie_Coutterand_Lumi\u00e8re_2012.jpg"
+    }
+]

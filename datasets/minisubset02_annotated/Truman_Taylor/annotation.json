@@ -1,0 +1,62 @@
+[
+    {
+        "path": "./minisubset02/Truman_Taylor/images/Pres_Reagan_and_Truman_Taylor.jpg",
+        "person_id": 169,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1932",
+        "estimated_year_creation_left": "1983",
+        "estimated_year_creation_right": "1983",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1,
+        "face_pixel_coordinates": [
+            299,
+            518
+        ]
+    },
+    {
+        "path": "./minisubset02/Truman_Taylor/images/Truman_Taylor_&Ted_Kennedy.jpg",
+        "person_id": 169,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1932",
+        "estimated_year_creation_left": "1999",
+        "estimated_year_creation_right": "1999",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1,
+        "face_pixel_coordinates": [
+            1144,
+            820
+        ]
+    },
+    {
+        "path": "./minisubset02/Truman_Taylor/title_images/Truman_Taylor_(cropped).jpg",
+        "person_id": 169,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1932",
+        "estimated_year_creation_left": "1999",
+        "estimated_year_creation_right": "1999",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1,
+        "face_pixel_coordinates": [
+            221,
+            258
+        ]
+    }
+]

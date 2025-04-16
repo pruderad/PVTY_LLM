@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Virgil Moorefield",
+        "birthday": "August 9, 1956",
+        "year_of_photo": "\u2014",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Virgil Moorefield, Maiers Theater, Z\u00fcrich, 2011",
+        "path": "./datasets/minisubset04_annotated/Virgil_Moorefield/images/Virgil-moorefield.jpg"
+    },
+    {
+        "name": "Virgil Moorefield",
+        "birthday": "August 9, 1956",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Virgil_Moorefield/title_images/Virgl_moorefield_guitar.jpg"
+    }
+]

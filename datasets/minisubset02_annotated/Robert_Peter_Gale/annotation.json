@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Robert_Peter_Gale/title_images/Robert_Peter_Gale,_1986.jpg",
+        "person_id": 56,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "11",
+        "birth_month": "10",
+        "birth_year": "1945",
+        "estimated_year_creation_left": "1986",
+        "estimated_year_creation_right": "1986",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            531,
+            761
+        ]
+    }
+]

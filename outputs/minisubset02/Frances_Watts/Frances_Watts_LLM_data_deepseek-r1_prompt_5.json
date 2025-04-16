@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Frances Watts",
+        "birthday": "",
+        "year_of_photo": "",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Frances Watts in 2011",
+        "path": "./datasets/minisubset02_annotated/Frances_Watts/images/Frances_Watts_2011_(cropped).jpg"
+    }
+]

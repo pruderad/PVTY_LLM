@@ -1,0 +1,102 @@
+[
+    {
+        "path": "./minisubset02/Byron_Scott/images/Byron_Scott_1988_(cropped).jpg",
+        "person_id": 54,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "28",
+        "birth_month": "3",
+        "birth_year": "1961",
+        "estimated_year_creation_left": "1988",
+        "estimated_year_creation_right": "1988",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 7,
+        "face_pixel_coordinates": [
+            231,
+            183
+        ]
+    },
+    {
+        "path": "./minisubset02/Byron_Scott/images/ByronScottPanathinaikos1998.jpg",
+        "person_id": 54,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "28",
+        "birth_month": "3",
+        "birth_year": "1961",
+        "estimated_year_creation_left": "1998",
+        "estimated_year_creation_right": "1998",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            116,
+            88
+        ]
+    },
+    {
+        "path": "./minisubset02/Byron_Scott/images/Byron_Scott_talking_to_Chris_Paul.jpg",
+        "person_id": 54,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "28",
+        "birth_month": "3",
+        "birth_year": "1961",
+        "estimated_year_creation_left": "2009",
+        "estimated_year_creation_right": "2009",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1,
+        "face_pixel_coordinates": [
+            834,
+            359
+        ]
+    },
+    {
+        "path": "./minisubset02/Byron_Scott/images/Byron_Scott_Kyrie_Irving.jpg",
+        "person_id": 54,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "28",
+        "birth_month": "3",
+        "birth_year": "1961",
+        "estimated_year_creation_left": "2013",
+        "estimated_year_creation_right": "2013",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1,
+        "face_pixel_coordinates": [
+            368,
+            192
+        ]
+    },
+    {
+        "path": "./minisubset02/Byron_Scott/title_images/Byron_scott_&_terrell_owens.jpg",
+        "person_id": 54,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "28",
+        "birth_month": "3",
+        "birth_year": "1961",
+        "estimated_year_creation_left": "2016",
+        "estimated_year_creation_right": "2016",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 9,
+        "face_pixel_coordinates": [
+            716,
+            225
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Taha Abderrahmane",
+        "birthday": "1944-05-28",
+        "year_of_photo": "2016",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": "Taha Abderrahmane in 2016, on the right, with his student and colleague Professor Hammou Neqqari.",
+        "path": "./datasets/minisubset02_annotated/Taha_Abdurrahman/title_images/\u0635\u0648\u0631\u0629_\u0627\u0644\u062f\u0643\u062a\u0648\u0631_\u062d\u0645\u0648_\u0627\u0644\u0646\u0642\u0627\u0631\u064a_\u0645\u0639_\u0623\u0633\u062a\u0627\u0630\u0647_\u0637\u0647_\u0639\u0628\u062f_\u0627\u0644\u0631\u062d\u0645\u0646.jpg"
+    }
+]

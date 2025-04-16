@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ding Bangchao",
+        "birthday": "1996-10-11",
+        "year_of_photo": "Not specified",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Ding Bangchao in 2017",
+        "path": "./datasets/minisubset04_annotated/Ding_Bangchao/title_images/Ding_Bangchao_(cropped).jpg"
+    }
+]

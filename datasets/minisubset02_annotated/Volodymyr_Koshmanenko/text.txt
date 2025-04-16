@@ -1,0 +1,54 @@
+Volodymyr Koshmanenko (; born 28 July 1943 in Dnipro, Ukraine) is a Ukrainian mathematician, professor, researcher of the Institute of Mathematics of the National Academy of Sciences of Ukraine.
+
+Koshmanenko is a notable Ukrainian mathematician and a talented researcher. Koshmanenko has been reading lectures at Taras Shevchenko University, National Pedagogical Dragomanov University and National University of Kyiv-Mohyla Academy. He has over 120 publications and 5 monographs. Volodymyr Koshmanenko promotes creativity in science, incredible performance, healthy lifestyle.
+
+ Biography 
+
+In 1960, he entered the Department of Physics at Dnipropetrovsk State University and graduated from it in 1966. He attended the lectures of the mathematical content mainly from the third year of study. This led him to choice of the mathematical style of thinking.
+
+During his post-graduate courses, 1967–1970, he studied the axiomatic approach in quantum field theory. He showed that any
+Boson scalar quantum field admits the representation and the axiomatic formulation in terms of operator Jacobi matrixes. It was the main result of his PhD thesis (1970) (the scientific advisor was Yu. M. Berezansky).
+
+From 1970 up to now he occupied different scientific positions, from junior to leading researcher at the Institute of Mathematics of the National Academy of Sciences of Ukraine in Kyiv. In 1985, he got the Doctor degree in mathematics for the theses "The scattering theory in terms of bilinear functionals" with M.S. Birman, I.Ya. Arefieva, and M.I. Portenko as the main referees.
+
+In 1993, he held the position of Professor of the Department of Higher Mathematics of the Dragomanov National Pedagogical University of Kyiv.
+
+ Professional activity 
+
+ Member of the Academic Council Institute of Mathematics of the NAS of Ukraine
+ Member Kyïv Mathematical Society
+ Member of the editorial board Methods of Functional Analysis and Topology
+ Leader of the seminar Complex Conflict Systems: Dynamics, Models, Spectral Analysis at the Institute of Mathematics of the NAS of Ukraine
+
+ Awards 
+
+2012 — Yu.O. Mitropol'sky Award by National Academy of Sciences of Ukraine.
+
+ Research area 
+
+The research interests of V. Koshmanenko concern the modeling of complex dynamical systems, fractal geometry, functional analysis, operator theory, mathematical physics. He proposed the construction of wave and scattering operators in a pair of spaces in terms of bilinear functionals, introduced a notion of singular quadratic form and produced  the classification of pure singular quadratic  forms in  scales of Hilbert spaces, developed the self-ad joint extensions approach to the singular perturbation theory in scales of Hilbert spaces, investigated the direct and inverse negative eigenvalues problem under singular perturbations.
+
+V. Koshmanenko proposed the original theory of conflict dynamical systems  and built a series new models of complex dynamical systems with repulsive and attractive interaction. He proved the theorem of conflict in terms of probability measures, showed the possibility in fractal setting to reconstruct the lost physical type spectrum under interaction with a source of purely singular (spirit) continuous spectrum. He  introduced a notion of the structural similarity measures and proposed a series  models of complex dynamical system with conflict interaction which are named: conflict triad, fire-water model, conflict society, where the  fixed points (equilibrium states) and  the limiting cyclic orbits    are investigated.
+
+ Main publications 
+ T.V. Karataieva, V.D. Koshmanenko, A model of conflict society with external influence,  J. Math. Sci., v. 272, № 2,  244-266 (2023). DOI     10.1007/s10958-023-06414-0.
+ Volodymyr Koshmanenko, Viktoria Voloshyna, The emergence of point spectrum in models of conflict  dynamical systems, Ukrainian Math. J.,  v. 70, 12, 1615-1624, (2018).
+ T. Karataieva, V. Koshmanenko, M. Krawczyk, K. Kulakowski, Mean field model of a game for power,  Physica A: Statistical Mechanics and its  Applications, v. 525, 535-547 (2019). DOI:  https://doi.org/10.1016/j.physa.2019.03.110
+  V. Koshmanenko, N. Kharchenko, Fixed points of complex systems with attractive interaction, MFAT, v. 23, no. 2, 164 - 176, (2017).
+ V. Koshmanenko, Spectral Theory for Conflict Dynamical Systems (Ukrainian), Naukova Dumka, Kyiv, 2016, 288p.
+ V. Koshmanenko, M. Dudkin, Method of Rigged Spaces in Singular Perturbation Theory of Self-adjoint Operators. Burkhouse, 2016, 237p.
+ V. Koshmanenko, I. Verygina, Dynamical systems of conflict in terms of  structural measures. MFAT, v. 22, No 1, 81-93, (2016).
+ V. Koshmanenko, T. Karataieva, N.  Kharchenko, and I. Verygina, Models of the Conflict Redistribution of Vital Resources, SSC (2016).
+ V. Koshmanenko,  Existence theorems of the omega-limit states  for  conflict  dynamical systems,  MFAT, v. 20, No. 4, 379-390,  (2014).
+ V. Koshmanenko, Singular Quadratic Forms in Perturbation Theory, Kluwer, Dordrecht, 1999.
+ V. Koshmanenko, I. Samoilenko,  The conflict triad dynamical system. Commun. Nonlinear Sci. Numer. Simul. v. 16, No. 7, 2917–2935 (2011).
+ S. Albeverio, A. Konstantinov, V. Koshmanenko, Remarks on the Inverse Spectral Theory for Singularly Perturbed Operators, Operator Theory: Advance and Appl., 190, 115–122 (2009).
+ S. Albeverio, V, Koshmanenko, I. Samoilenko, The conflict interaction between two complex systems: Cyclic migration, J. Interdisciplinary Math., 11, No 2, 163–185, (2008). 
+ V. Koshmanenko,  Construction of singular perturbations by the method of rigged Hilbert spaces, J. Phys. A: Mathematical and General, 38, 4999–5009 (2005).
+ V. Koshmanenko, Theorem of conflicts for a pair of probability measures, Math. Methods of Operations Research, 59, 303–313, (2004).
+
+Category:Living people
+Category:20th-century Ukrainian mathematicians
+Category:1943 births
+Category:Oles Honchar Dnipro National University alumni
+Category:Academic staff of National Pedagogical Dragomanov University

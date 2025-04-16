@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Elias Cayaba Bulut Jr.",
+        "birthday": "May 15, 1970",
+        "year_of_photo": "unknown",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "[[Philippine House of Representatives|House of Representatives]] official portrait",
+        "path": "./datasets/minisubset04_annotated/Elias_Bulut_Jr/title_images/HoR_Official_Portrait_(18th_Congress)_-_Elias_Bulut_Jr.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Chad Harbach",
+        "birthday": "1975",
+        "year_of_photo": "Not specified",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Chad Harbach at the 2011 Texas Book Festival.",
+        "path": "./datasets/minisubset02_annotated/Chad_Harbach/title_images/Chad_harbach_2011.jpg"
+    }
+]

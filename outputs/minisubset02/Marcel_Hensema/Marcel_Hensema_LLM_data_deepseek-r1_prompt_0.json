@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Marcel Hensema",
+        "birthday": "16 April 1970",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Hensema in 2018",
+        "path": "./datasets/minisubset02_annotated/Marcel_Hensema/title_images/Portret_Marcel_Hensema.jpg"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "David Jose Hernandez",
+        "birthday": "May 13, 1985",
+        "year_of_photo": "2011",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": "Hernandez with the Diamondbacks",
+        "path": "./datasets/minisubset02_annotated/David_Hernandez_(baseball)/images/Hernandezwin.jpg"
+    },
+    {
+        "name": "David Jose Hernandez",
+        "birthday": "May 13, 1985",
+        "year_of_photo": "2016",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": "Hernandez with the Phillies in 2016",
+        "path": "./datasets/minisubset02_annotated/David_Hernandez_(baseball)/title_images/David_Hernandez_on_July_16,_2016_(1).jpg"
+    }
+]

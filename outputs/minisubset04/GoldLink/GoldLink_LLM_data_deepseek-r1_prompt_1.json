@@ -1,0 +1,29 @@
+[
+    {
+        "name": "GoldLink",
+        "birthday": "May 17, 1993",
+        "year_of_photo": "My 2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "upright|left|GoldLink performing in May 2015",
+        "path": "./datasets/minisubset04_annotated/GoldLink/images/GoldLink.jpg"
+    },
+    {
+        "name": "GoldLink",
+        "birthday": "May 17, 1993",
+        "year_of_photo": "SomeYear",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": "upright=0.7|GoldLink in 2016",
+        "path": "./datasets/minisubset04_annotated/GoldLink/images/GoldLink_Concert_2016_(cropped).png"
+    },
+    {
+        "name": "GoldLink",
+        "birthday": "May 17, 1993",
+        "year_of_photo": "SomeYear",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": "GoldLink performing in 2017",
+        "path": "./datasets/minisubset04_annotated/GoldLink/title_images/Goldlink_December_2017.png"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "David de la Croix",
+        "birthday": "22 April 1964",
+        "year_of_photo": "Not specified",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "David de la Croix in 2020",
+        "path": "./datasets/minisubset02_annotated/David_de_la_Croix/title_images/David-2020.jpg"
+    }
+]

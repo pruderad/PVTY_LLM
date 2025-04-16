@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Henri Duez",
+        "birthday": "December 18, 1937",
+        "year_of_photo": "1960",
+        "year_of_photo_int": 1960,
+        "can_determine": true,
+        "caption": "Henri Duez in 1960",
+        "path": "./datasets/minisubset02_annotated/Henri_Duez/title_images/Henri_Duez_1960.jpg"
+    }
+]

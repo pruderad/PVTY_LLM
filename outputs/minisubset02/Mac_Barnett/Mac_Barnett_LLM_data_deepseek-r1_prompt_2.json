@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Mac Barnett",
+        "birthday": "1978-01-18",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Barnett in 2018",
+        "path": "./datasets/minisubset02_annotated/Mac_Barnett/title_images/Mac_Barnett_in_2018.jpg"
+    }
+]

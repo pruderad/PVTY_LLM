@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ziadin Sela",
+        "birthday": "1 November 1972",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Ziadin_Sela/title_images/Ziadin_Sela.jpg"
+    }
+]

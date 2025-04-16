@@ -1,0 +1,62 @@
+[
+    {
+        "path": "./minisubset02/Peter_Tieryas/images/Cyber_Shogun_Revolution_in_Akihabara.jpg",
+        "person_id": 140,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": false,
+        "wiki_page_sufficient": false,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1979",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "No person in the image.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            637,
+            578
+        ]
+    },
+    {
+        "path": "./minisubset02/Peter_Tieryas/images/United_States_of_Japan_at_Helsinki_World_Con_2017.jpg",
+        "person_id": 140,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": false,
+        "wiki_page_sufficient": false,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1979",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Peter Tieryas not visible in the image.\n\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            637,
+            578
+        ]
+    },
+    {
+        "path": "./minisubset02/Peter_Tieryas/title_images/Peter_Tieryas.jpg",
+        "person_id": 140,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": false,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1979",
+        "estimated_year_creation_left": "2014",
+        "estimated_year_creation_right": "2014",
+        "annotation_shortcommings": "\n\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            712,
+            136
+        ]
+    }
+]

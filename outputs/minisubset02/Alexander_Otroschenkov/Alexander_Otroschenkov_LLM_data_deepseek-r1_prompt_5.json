@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Alexander Otroschenkov",
+        "birthday": "",
+        "year_of_photo": "",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "right|160px",
+        "path": "./datasets/minisubset02_annotated/Alexander_Otroschenkov/images/Alexander_Otroschenkov.png"
+    }
+]

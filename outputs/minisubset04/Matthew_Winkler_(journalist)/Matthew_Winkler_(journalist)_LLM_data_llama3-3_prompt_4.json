@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Matthew Winkler",
+        "birthday": "June 1, 1955",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Matthew_Winkler_(journalist)/title_images/Matthew_Winkler.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sam Feldt",
+        "birthday": "1993-08-01",
+        "year_of_photo": "Now()",
+        "year_of_photo_int": 2021,
+        "can_determine": true,
+        "caption": "Sam Feldt in 2021",
+        "path": "./datasets/minisubset04_annotated/Sam_Feldt/title_images/SamFeldt2020_2_srgb_crop.jpg"
+    }
+]

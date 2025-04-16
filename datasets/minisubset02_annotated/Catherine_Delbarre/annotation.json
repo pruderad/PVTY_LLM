@@ -1,0 +1,19 @@
+[
+    {
+        "path": "./minisubset02/Catherine_Delbarre/title_images/Kate_d_Oriola_St_Maur_2015_ind_t181834.jpg",
+        "person_id": 28,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "8",
+        "birth_month": "6",
+        "birth_year": "1925",
+        "estimated_year_creation_left": "2015",
+        "estimated_year_creation_right": "2015",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": null
+    }
+]

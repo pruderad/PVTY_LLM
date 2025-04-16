@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jessica Edith Louise Foster",
+        "birthday": "May 27, 1984",
+        "year_of_photo": "2006",
+        "year_of_photo_int": 2006,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Disappearance_of_Jessie_Foster/title_images/Jessie_Foster_Missing_Person.jpg"
+    }
+]

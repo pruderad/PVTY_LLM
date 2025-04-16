@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Rupeni Caucaunibuca",
+        "birthday": "1980-06-05",
+        "year_of_photo": "SomeYear",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": "Caucaunibuca during a [[Stade Toulousain|Toulouse]] training session, July 2011",
+        "path": "./datasets/minisubset02_annotated/Rupeni_Caucaunibuca/title_images/Rupeni_Caucaunibuca-cropped.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Dag Detter",
+        "birthday": "1959-01-01",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Dag_Detter/title_images/Photo_of_Dag_Detter.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Andrew Linzey",
+        "birthday": "2 February 1952",
+        "year_of_photo": "Photo taken in 2010.",
+        "year_of_photo_int": 2010,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Andrew_Linzey/title_images/Reverend-theologian-andrew-linzey.jpg"
+    }
+]

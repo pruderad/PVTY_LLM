@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Julia Bishop",
+        "birthday": "1965-01-27",
+        "year_of_photo": "Hmm, the caption says 'Red Priest (2015)', so I think that's when the photo was taken.",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "Red Priest (2015)",
+        "path": "./datasets/minisubset04_annotated/Julia_Bishop/images/Red_Priest_(ZMF_2015)_IMGP1568.jpg"
+    }
+]

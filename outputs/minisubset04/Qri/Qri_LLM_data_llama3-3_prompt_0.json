@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Lee Ji-hyun",
+        "birthday": "12 December 1986",
+        "year_of_photo": "2012",
+        "year_of_photo_int": 2012,
+        "can_determine": true,
+        "caption": "right|Qri at K Collection, Seoul 2012",
+        "path": "./datasets/minisubset04_annotated/Qri/images/Qri_at_K_Collection_in_Seoul,_March_2012_03.jpg"
+    },
+    {
+        "name": "Lee Ji-hyun",
+        "birthday": "12 December 1986",
+        "year_of_photo": "2017",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": "Qri in June 2017",
+        "path": "./datasets/minisubset04_annotated/Qri/title_images/170614_T-ARA_06.jpg"
+    }
+]

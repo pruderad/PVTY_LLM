@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Noa",
+        "birthday": "1969-01-23",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Noa performs at the Zappa Club, Herzeliya, October 2018",
+        "path": "./datasets/minisubset02_annotated/Noa_(singer)/images/Noa_performs.jpg"
+    },
+    {
+        "name": "Noa",
+        "birthday": "1969-01-23",
+        "year_of_photo": "2019",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Noa performs with Gil Dor at the Performance Arts Center, Tel Aviv, March 2019",
+        "path": "./datasets/minisubset02_annotated/Noa_(singer)/images/Noa_and_Gil_Dor_perform.jpg"
+    },
+    {
+        "name": "Noa",
+        "birthday": "1969-01-23",
+        "year_of_photo": "<2019>",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "200x200px|Noa receives the Shulamit Aloni's Lifetime Achievement award, 2019.",
+        "path": "./datasets/minisubset02_annotated/Noa_(singer)/images/Noa_receives_the_Shulamit_Aloni's_Lifetime_Achievement_award.jpg"
+    },
+    {
+        "name": "Achinoam Nini (Noa)",
+        "birthday": "1969",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Noa_(singer)/title_images/Noa_-_Profile_Photo.jpg"
+    }
+]

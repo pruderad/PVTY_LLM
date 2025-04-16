@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Kurt Szilier",
+        "birthday": "11 January 1957",
+        "year_of_photo": "1981 Summer Universiade",
+        "year_of_photo_int": 1981,
+        "can_determine": true,
+        "caption": "Kurt Szilier, 1981 Summer Universiade",
+        "path": "./datasets/minisubset02_annotated/Kurt_Szilier/title_images/Kurt_Szilier.jpg"
+    }
+]

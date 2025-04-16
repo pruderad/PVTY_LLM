@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Michelle Wild",
+        "birthday": "16 January 1980",
+        "year_of_photo": "2003",
+        "year_of_photo_int": 2003,
+        "can_determine": true,
+        "caption": "Wild in 2003",
+        "path": "./datasets/minisubset02_annotated/Katalin_Vad/title_images/Michelle_Wild,_2010_(cropped).jpg"
+    }
+]

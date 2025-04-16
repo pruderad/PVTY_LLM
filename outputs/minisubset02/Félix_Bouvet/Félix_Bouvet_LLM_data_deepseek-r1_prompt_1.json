@@ -1,0 +1,11 @@
+[
+    {
+        "name": "F\u00e9lix Bouvet",
+        "birthday": "1991-06-16",
+        "year_of_photo": "<2019>",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Bouvet in 2019",
+        "path": "./datasets/minisubset02_annotated/F\u00e9lix_Bouvet/title_images/2019_ICF_Wildwater_canoeing_World_Championships_272_-_F\u00e9lix_Bouvet.jpg"
+    }
+]

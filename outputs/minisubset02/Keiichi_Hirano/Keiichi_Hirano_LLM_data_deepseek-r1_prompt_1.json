@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Keiichi Hirano",
+        "birthday": "1979-04-07",
+        "year_of_photo": "2002",
+        "year_of_photo_int": 2002,
+        "can_determine": true,
+        "caption": "Hirano with the Orix Buffaloes",
+        "path": "./datasets/minisubset02_annotated/Keiichi_Hirano/title_images/Bs_Keiichi_Hirano.JPG"
+    }
+]

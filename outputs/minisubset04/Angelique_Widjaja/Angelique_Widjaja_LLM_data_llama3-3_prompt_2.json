@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Angelique Widjaja",
+        "birthday": "December 12, 1984",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Angelique_Widjaja/title_images/Angelique_Widjaja.jpg"
+    }
+]

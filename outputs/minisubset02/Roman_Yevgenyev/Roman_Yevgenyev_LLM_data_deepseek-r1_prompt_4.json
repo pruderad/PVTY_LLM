@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Roman Yevgenyev",
+        "birthday": "23 February 1999",
+        "year_of_photo": "2022",
+        "year_of_photo_int": 2022,
+        "can_determine": true,
+        "caption": "Yevgenyev with [[PFC Krylia Sovetov Samara|Krylia Sovetov]] in 2022",
+        "path": "./datasets/minisubset02_annotated/Roman_Yevgenyev/title_images/Roman_Yevgenyev_2022_KS.jpg"
+    }
+]

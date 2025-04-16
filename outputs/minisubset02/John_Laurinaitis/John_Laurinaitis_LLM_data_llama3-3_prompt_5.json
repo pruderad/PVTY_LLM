@@ -1,0 +1,29 @@
+[
+    {
+        "name": "John Laurinaitis",
+        "birthday": "July 31, 1962",
+        "year_of_photo": "2011-2012",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "right|Laurinaitis, background, had a rivalry with WWE Champion, CM Punk, from late 2011 into early 2012",
+        "path": "./datasets/minisubset02_annotated/John_Laurinaitis/images/Punk_&_Laurinaitis.jpg"
+    },
+    {
+        "name": "John Laurinaitis",
+        "birthday": "July 31, 1962",
+        "year_of_photo": "2011-2012",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "left|The end of Laurinaitis's role as an on-screen authority figure saw him have a rivalry with John Cena",
+        "path": "./datasets/minisubset02_annotated/John_Laurinaitis/images/John_Cena_(7900549000)_(cropped).jpg"
+    },
+    {
+        "name": "John Laurinaitis",
+        "birthday": "July 31, 1962",
+        "year_of_photo": "2012",
+        "year_of_photo_int": 2012,
+        "can_determine": true,
+        "caption": "Laurinaitis in 2012",
+        "path": "./datasets/minisubset02_annotated/John_Laurinaitis/title_images/John_Laurinaitis_May_2012.jpg"
+    }
+]

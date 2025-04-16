@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Hilda Tenorio",
+        "birthday": "1986-06-11",
+        "year_of_photo": "How old was Hilda Tenorio in 2016?",
+        "year_of_photo_int": 30,
+        "can_determine": true,
+        "caption": "Hilda Tenorio performing a ''picada'' on one of her bulls, 2016. |alt=|left|328x328px",
+        "path": "./datasets/minisubset02_annotated/Hilda_Tenorio/images/PicandoHildaTenorio.jpg"
+    },
+    {
+        "name": "Hilda Tenorio",
+        "birthday": "1986-06-11",
+        "year_of_photo": "2010",
+        "year_of_photo_int": 2010,
+        "can_determine": true,
+        "caption": "Hilda Tenorio on the bullring",
+        "path": "./datasets/minisubset02_annotated/Hilda_Tenorio/title_images/HildaTenorioOvacion.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Kimberly Jean Brown",
+        "birthday": "November 16, 1984",
+        "year_of_photo": "SomeYear",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "Brown in 2023",
+        "path": "./datasets/minisubset04_annotated/Kimberly_J._Brown/title_images/Kimberly_J._Brown_Photo_Op_Nightmare_Weekend_Richmond_2023.jpg"
+    }
+]

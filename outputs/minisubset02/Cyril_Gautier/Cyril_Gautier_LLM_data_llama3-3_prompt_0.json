@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Cyril Gautier",
+        "birthday": "26 September 1987",
+        "year_of_photo": "2013",
+        "year_of_photo_int": 2013,
+        "can_determine": true,
+        "caption": "Gautier at the [[2013 Crit\u00e9rium du Dauphin\u00e9]]",
+        "path": "./datasets/minisubset02_annotated/Cyril_Gautier/title_images/Crit\u00e9rium_du_Dauphin\u00e9_2013_-_4e_\u00e9tape_(clm)_-_85.JPG"
+    }
+]

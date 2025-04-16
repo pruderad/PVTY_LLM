@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ecaterina Andronescu",
+        "birthday": "7 April 1948",
+        "year_of_photo": "19 September 2009",
+        "year_of_photo_int": 2009,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Ecaterina_Andronescu/title_images/Ecaterina_Andronescu_la_Victor_Ponta_la_semnarea_protocolului_de_infiintare_a_USD_-_10.02.2014_(12436201035).jpg"
+    }
+]

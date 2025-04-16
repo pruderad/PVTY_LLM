@@ -1,0 +1,11 @@
+[
+    {
+        "name": "G\u00e1bor Reisz",
+        "birthday": "19 January 1980",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "Reisz at 2015 Voices Festival",
+        "path": "./datasets/minisubset02_annotated/G\u00e1bor_Reisz/title_images/Voices-2015_in_Vologda_7324_(cropped).jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sotaro",
+        "birthday": "1986",
+        "year_of_photo": "2022",
+        "year_of_photo_int": 2022,
+        "can_determine": false,
+        "caption": "Sotaro in 2022",
+        "path": "./datasets/minisubset02_annotated/Sotaro/title_images/Sotaro_2022-10-22.jpg"
+    }
+]

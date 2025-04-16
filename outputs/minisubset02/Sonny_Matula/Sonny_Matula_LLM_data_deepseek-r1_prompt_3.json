@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jose Sonny Gito Matula",
+        "birthday": "January 21, 1965",
+        "year_of_photo": "2022",
+        "year_of_photo_int": 2022,
+        "can_determine": true,
+        "caption": "Sonny Matula at the [[Leni Robredo 2022 presidential campaign|Robredo\u2013Pangilinan]] rally in 2022",
+        "path": "./datasets/minisubset02_annotated/Sonny_Matula/title_images/Leni-Kiko_Leniwanag_ang_Silangan_rally_Sonny_Matula_(Ynares_Center,_Antipolo,_Rizal;_04-05-2022).jpg"
+    }
+]

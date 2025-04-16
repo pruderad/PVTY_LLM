@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Mbhazima_Shilowa/images/Lekota_mosiuoa.jpg",
+        "person_id": 182,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1958",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Person in the image is not Shilowa + no year in image caption.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            244,
+            94
+        ]
+    }
+]

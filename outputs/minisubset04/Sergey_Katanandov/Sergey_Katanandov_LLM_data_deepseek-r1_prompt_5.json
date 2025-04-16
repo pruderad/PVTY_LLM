@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sergey Leonidovich Katanandov",
+        "birthday": "21 April 1955",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "Katanandov in 2014",
+        "path": "./datasets/minisubset04_annotated/Sergey_Katanandov/title_images/Sergey_Katanandov_2014.jpg"
+    }
+]

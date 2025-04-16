@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Hermann Josef Hack",
+        "birthday": "20 June 1956",
+        "year_of_photo": "Photo taken in 2023.",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "",
+        "path": "./datasets/minisubset02_annotated/Hermann_Josef_Hack/images/Hermann_Josef_Hack,_K\u00fcnstler.jpg"
+    }
+]

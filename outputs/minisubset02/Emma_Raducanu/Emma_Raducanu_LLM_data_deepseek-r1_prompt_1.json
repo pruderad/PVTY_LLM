@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Emma Raducanu",
+        "birthday": "2002-11-13",
+        "year_of_photo": "N/A",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "left|upright|Raducanu during qualifiers at the 2018 Wimbledon Championships",
+        "path": "./datasets/minisubset02_annotated/Emma_Raducanu/images/Raducanu_WMQ18_(16)_(42834286534).jpg"
+    },
+    {
+        "name": "Emma Raducanu",
+        "birthday": "2002-11-13",
+        "year_of_photo": "2020",
+        "year_of_photo_int": 2020,
+        "can_determine": true,
+        "caption": "left|Raducanu during the Billie Jean King Cup qualifiers in February 2020",
+        "path": "./datasets/minisubset02_annotated/Emma_Raducanu/images/Emma_Raducanu_(49810111052).jpg"
+    },
+    {
+        "name": "Emma Raducanu",
+        "birthday": "2002-11-13",
+        "year_of_photo": "Now()",
+        "year_of_photo_int": 2021,
+        "can_determine": true,
+        "caption": "Raducanu (foreground) and Elena-Gabriela Ruse practicing together at the Transylvania Open in 2021",
+        "path": "./datasets/minisubset02_annotated/Emma_Raducanu/images/Transylvania_Open-Day_2-Emma_R\u0103ducanu_&_Gabriela_Ruse_-_practice_(51626330901).jpg"
+    },
+    {
+        "name": "Emma Raducanu",
+        "birthday": "2002-11-13",
+        "year_of_photo": "\u2014",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Raducanu with coach Torben Beltz at the 2022 Miami Open",
+        "path": "./datasets/minisubset02_annotated/Emma_Raducanu/images/RaducanuMiamiOpenPractice_(cropped).jpg"
+    },
+    {
+        "name": "Emma Raducanu",
+        "birthday": "2002-11-13",
+        "year_of_photo": "\u2014",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "left|upright|Raducanu at the 2022 US Open",
+        "path": "./datasets/minisubset02_annotated/Emma_Raducanu/images/EmmaRaducanu2022USOpenPractice_(cropped).jpg"
+    },
+    {
+        "name": "Emma Raducanu",
+        "birthday": "2002-11-13",
+        "year_of_photo": "Priyank",
+        "year_of_photo_int": 2024,
+        "can_determine": true,
+        "caption": "upright|Raducanu at the 2024 Indian Wells Open",
+        "path": "./datasets/minisubset02_annotated/Emma_Raducanu/images/Raducanu2024IndianWellsOpen_(cropped).jpg"
+    },
+    {
+        "name": "Emma Raducanu",
+        "birthday": "2002-11-13",
+        "year_of_photo": "Prius",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "left|upright|Raducanu at the 2025 Australian Open serving against Amanda Anisimova",
+        "path": "./datasets/minisubset02_annotated/Emma_Raducanu/images/Raducanu2025AOround2_(cropped).jpg"
+    },
+    {
+        "name": "Emma Raducanu",
+        "birthday": "2002-11-13",
+        "year_of_photo": "Not specified",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Emma Raducanu playing a forehand shot at the 2021 Nottingham Open|left",
+        "path": "./datasets/minisubset02_annotated/Emma_Raducanu/images/Emma_Raducanu_Forehand_(51748121911).jpg"
+    },
+    {
+        "name": "Emma Raducanu",
+        "birthday": "2002-11-13",
+        "year_of_photo": "My caption says 2025 Australian Open, so I think it's 2025.",
+        "year_of_photo_int": 2025,
+        "can_determine": true,
+        "caption": "Raducanu at the [[2025 Australian Open]]",
+        "path": "./datasets/minisubset02_annotated/Emma_Raducanu/title_images/Raducanu2025AO_(cropped).jpg"
+    }
+]

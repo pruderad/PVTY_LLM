@@ -119,6 +119,7 @@ class PersonParser:
             return
         
         directory = os.listdir(self.base_path)
+        directory.sort()
         all_jsons = []
         for person in directory:
             print(person)

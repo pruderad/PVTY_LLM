@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Nona Fern\u00e1ndez",
+        "birthday": "1971-06-23",
+        "year_of_photo": "Not specified",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "left|At the Book Festival in Santiago's Plaza de Armas, 2013",
+        "path": "./datasets/minisubset02_annotated/Nona_Fern\u00e1ndez/images/Fernandez,_Nona_01.jpg"
+    },
+    {
+        "name": "Nona Fern\u00e1ndez",
+        "birthday": "1971-06-23",
+        "year_of_photo": "How old was Nona Fern\u00e1ndez in 2015?",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "Greetings from the actors at the end of the ''Liceo de ni\u00f1as'' piece (Fern\u00e1ndez is seated left), 9 December 2015",
+        "path": "./datasets/minisubset02_annotated/Nona_Fern\u00e1ndez/images/Fernandez,_Nona_-_Liceo_de_ninas_f01.jpg"
+    },
+    {
+        "name": "Nona Fern\u00e1ndez",
+        "birthday": "1971-06-23",
+        "year_of_photo": "FILSA 2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "At [[Santiago International Book Fair|FILSA]] 2018",
+        "path": "./datasets/minisubset02_annotated/Nona_Fern\u00e1ndez/title_images/Fernandez,_Nona_-FILSA_20181106_fRF11.jpg"
+    }
+]

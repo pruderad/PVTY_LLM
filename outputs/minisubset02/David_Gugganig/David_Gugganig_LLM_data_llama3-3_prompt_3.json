@@ -1,0 +1,11 @@
+[
+    {
+        "name": "David Gugganig",
+        "birthday": "February 10, 1997",
+        "year_of_photo": "2017",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": "Gugganig with WSG Wattens in 2017",
+        "path": "./datasets/minisubset02_annotated/David_Gugganig/title_images/FC_Liefering_gegen_WSG_Wattens_(19._Mai_2017)_21.jpg"
+    }
+]

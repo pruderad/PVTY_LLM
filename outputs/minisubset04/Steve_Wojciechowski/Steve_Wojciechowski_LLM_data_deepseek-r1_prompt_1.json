@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Steven Michael Wojciechowski",
+        "birthday": "August 11, 1976",
+        "year_of_photo": ">",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Wojciechowski in 2010",
+        "path": "./datasets/minisubset04_annotated/Steve_Wojciechowski/title_images/Steve_Wojciechowski.jpg"
+    }
+]

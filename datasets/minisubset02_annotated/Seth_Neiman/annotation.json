@@ -1,0 +1,42 @@
+[
+    {
+        "path": "./minisubset02/Seth_Neiman/images/Seth_Neiman_Flying_Lizard_Porsche_LBGP_2012.jpg",
+        "person_id": 99,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "27",
+        "birth_month": "6",
+        "birth_year": "1954",
+        "estimated_year_creation_left": "2012",
+        "estimated_year_creation_right": "2012",
+        "annotation_shortcommings": "No bounding box present.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            200,
+            177
+        ]
+    },
+    {
+        "path": "./minisubset02/Seth_Neiman/title_images/SethAtLeMans2014.jpg",
+        "person_id": 99,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "27",
+        "birth_month": "6",
+        "birth_year": "1954",
+        "estimated_year_creation_left": "2014",
+        "estimated_year_creation_right": "2014",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            200,
+            177
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Icarus",
+        "birthday": "July 26, 1982",
+        "year_of_photo": "unknown",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "left|(Left to right) Chuck Taylor, Icarus and Gran Akuma of Team F.I.S.T.",
+        "path": "./datasets/minisubset04_annotated/Icarus_(wrestler)/images/Team_F.I.S.T._2008.jpg"
+    },
+    {
+        "name": "Ronald Grams (Icarus)",
+        "birthday": "July 26, 1982",
+        "year_of_photo": "2008",
+        "year_of_photo_int": 2008,
+        "can_determine": true,
+        "caption": "Icarus in June 2008",
+        "path": "./datasets/minisubset04_annotated/Icarus_(wrestler)/images/Icarus_Chikara.jpg"
+    },
+    {
+        "name": "Icarus (Ronald Grams)",
+        "birthday": "July 26, 1982",
+        "year_of_photo": "unknown",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Icarus as one-half of Chikara's Campeones de Parejas",
+        "path": "./datasets/minisubset04_annotated/Icarus_(wrestler)/images/Icarus_-_Campeone_de_Parejas.jpg"
+    },
+    {
+        "name": "Ronald Grams (Icarus)",
+        "birthday": "July 26, 1982",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "Icarus in September 2014",
+        "path": "./datasets/minisubset04_annotated/Icarus_(wrestler)/title_images/Icarus_Chikara_2014_(cropped).jpg"
+    }
+]

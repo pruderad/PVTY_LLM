@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Ekkaluck_Thongkit/title_images/Ekkaluck_Thonghkit_20191102.jpg",
+        "person_id": 145,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1983",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Hard to estimate year of photo creation.\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            712,
+            136
+        ]
+    }
+]

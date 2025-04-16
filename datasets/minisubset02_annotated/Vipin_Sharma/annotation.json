@@ -1,0 +1,19 @@
+[
+    {
+        "path": "./minisubset02/Vipin_Sharma/title_images/Vipin_Sharma_at_the_launch_of_Shubra_Harsha_Verma\u2019s_book_\u2018Zero_The_Striptease_of_Conscience\u2019.jpg",
+        "person_id": 20,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": false,
+        "birth_day": "18",
+        "birth_month": "2",
+        "birth_year": "1962",
+        "estimated_year_creation_left": "2016",
+        "estimated_year_creation_right": "2016",
+        "annotation_shortcommings": "\n\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": null
+    }
+]

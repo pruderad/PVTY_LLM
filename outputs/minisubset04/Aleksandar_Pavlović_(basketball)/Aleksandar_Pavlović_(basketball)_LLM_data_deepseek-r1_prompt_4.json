@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Aleksandar \"Sa\u0161a\" Pavlovi\u0107",
+        "birthday": "November 15, 1983",
+        "year_of_photo": "Mentioned in the caption as April 2011",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": "Pavlovi\u0107 with the Celtics in April 2011",
+        "path": "./datasets/minisubset04_annotated/Aleksandar_Pavlovi\u0107_(basketball)/title_images/Sasha_Pavlovic_Celtics.jpg"
+    }
+]

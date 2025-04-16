@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Rajat Chaudhuri",
+        "birthday": "1983-05-15",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "Rajat Chaudhuri",
+        "path": "./datasets/minisubset04_annotated/Rajat_Chaudhuri/images/Rajat_Chaudhuri.jpg"
+    }
+]

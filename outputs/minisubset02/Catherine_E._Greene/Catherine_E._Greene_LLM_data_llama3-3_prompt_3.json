@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Catherine Greene",
+        "birthday": "None",
+        "year_of_photo": "2012",
+        "year_of_photo_int": 2012,
+        "can_determine": false,
+        "caption": "Sentinel by Catherine Greene- Sculpture In Context 2012 at the National Botanic Gardens",
+        "path": "./datasets/minisubset02_annotated/Catherine_E._Greene/images/Sentinel_by_Catherine_Greene-_Sculpture_In_Context_2012_at_the_National_Botanic_Gardens_(7958740066).jpg"
+    }
+]

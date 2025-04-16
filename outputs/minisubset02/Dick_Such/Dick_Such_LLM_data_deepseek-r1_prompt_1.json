@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Richard Stanley Such",
+        "birthday": "October 15, 1944",
+        "year_of_photo": "Some year in 1987",
+        "year_of_photo_int": 1987,
+        "can_determine": true,
+        "caption": "Such in 1987 as a coach for the [[Minnesota Twins]]",
+        "path": "./datasets/minisubset02_annotated/Dick_Such/title_images/Dick_Such_1987.jpg"
+    }
+]

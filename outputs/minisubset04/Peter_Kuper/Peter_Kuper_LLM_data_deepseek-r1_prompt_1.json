@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Peter Kuper",
+        "birthday": "September 22, 1958",
+        "year_of_photo": "How old was Peter Kuper in 2010?",
+        "year_of_photo_int": 2010,
+        "can_determine": true,
+        "caption": "left|Kuper sketching at the New York Comic Con, October 10, 2010.",
+        "path": "./datasets/minisubset04_annotated/Peter_Kuper/images/10.10.10PeterKuperByLuigiNovi2.jpg"
+    },
+    {
+        "name": "Peter Kuper",
+        "birthday": "September 22, 1958",
+        "year_of_photo": "SomeYear",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "left| Kuper at Bangalore Comic Con, September 14, 2014",
+        "path": "./datasets/minisubset04_annotated/Peter_Kuper/images/Peter_kuper.JPG"
+    },
+    {
+        "name": "Peter Kuper",
+        "birthday": "September 22, 1958",
+        "year_of_photo": "early 2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "right|Al Jaffee, Peter Kuper, and Sam Viviano, and Paul Levitz at a panel at Columbia University in early 2014",
+        "path": "./datasets/minisubset04_annotated/Peter_Kuper/images/Loz_jaffee_panel.png"
+    }
+]

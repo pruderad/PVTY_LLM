@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Grace Tanamal",
+        "birthday": "January 10, 1957",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Grace Tanamal",
+        "path": "./datasets/minisubset04_annotated/Grace_Tanamal/images/Grace_Tanamal_(26022706605).jpg"
+    }
+]

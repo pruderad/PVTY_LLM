@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Annelie Enochson",
+        "birthday": "October 29, 1953",
+        "year_of_photo": "2010",
+        "year_of_photo_int": 2010,
+        "can_determine": true,
+        "caption": "Annelie Enochson in 2010",
+        "path": "./datasets/minisubset04_annotated/Annelie_Enochson/images/Annelie_Enochson.jpg"
+    }
+]

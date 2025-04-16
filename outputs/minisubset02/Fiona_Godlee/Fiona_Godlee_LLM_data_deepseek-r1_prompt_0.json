@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Fiona Godlee",
+        "birthday": "August 4, 1961",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Fiona_Godlee/title_images/Fiona_Godlee.JPG"
+    }
+]

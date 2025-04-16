@@ -1,0 +1,102 @@
+[
+    {
+        "path": "./minisubset02/Seungri/images/Seung_in_Thailand.jpg",
+        "person_id": 55,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "12",
+        "birth_month": "12",
+        "birth_year": "1990",
+        "estimated_year_creation_left": "2007",
+        "estimated_year_creation_right": "2007",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            716,
+            225
+        ]
+    },
+    {
+        "path": "./minisubset02/Seungri/images/Seungri_2012.jpg",
+        "person_id": 55,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "12",
+        "birth_month": "12",
+        "birth_year": "1990",
+        "estimated_year_creation_left": "2012",
+        "estimated_year_creation_right": "2012",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            716,
+            225
+        ]
+    },
+    {
+        "path": "./minisubset02/Seungri/images/Seungri_-_0.TO.10_in_Seoul.jpg",
+        "person_id": 55,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "12",
+        "birth_month": "12",
+        "birth_year": "1990",
+        "estimated_year_creation_left": "2016",
+        "estimated_year_creation_right": "2016",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            716,
+            225
+        ]
+    },
+    {
+        "path": "./minisubset02/Seungri/images/Seungri_During_Gatsby_s_Fantastic_Festival_-_2.jpg",
+        "person_id": 55,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "12",
+        "birth_month": "12",
+        "birth_year": "1990",
+        "estimated_year_creation_left": "2015",
+        "estimated_year_creation_right": "2015",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 3,
+        "face_pixel_coordinates": [
+            539,
+            259
+        ]
+    },
+    {
+        "path": "./minisubset02/Seungri/title_images/181001_\uc2b9\ub9ac_02.png",
+        "person_id": 55,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "12",
+        "birth_month": "12",
+        "birth_year": "1990",
+        "estimated_year_creation_left": "2018",
+        "estimated_year_creation_right": "2018",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            539,
+            259
+        ]
+    }
+]

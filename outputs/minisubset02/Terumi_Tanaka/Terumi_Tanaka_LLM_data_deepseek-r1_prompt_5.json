@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Terumi Tanaka",
+        "birthday": "29 April 1932",
+        "year_of_photo": "2007",
+        "year_of_photo_int": 2007,
+        "can_determine": true,
+        "caption": "Terumi Tanaka, hibakusha of Nagasaki, tells young people about his experience and shows pictures. United Nations's International Atomic Energy Agency building in Vienna, during the NPT PrepCom 2007.",
+        "path": "./datasets/minisubset02_annotated/Terumi_Tanaka/images/Hibakusha.jpg"
+    },
+    {
+        "name": "Terumi Tanaka",
+        "birthday": "April 29, 1932",
+        "year_of_photo": "2024",
+        "year_of_photo_int": 2024,
+        "can_determine": true,
+        "caption": "Tanaka speaking at the 2024 Nobel Peace Prize Ceremony in Oslo, Norway",
+        "path": "./datasets/minisubset02_annotated/Terumi_Tanaka/images/Terumi_Tanaka_at_2024_Nobel_Peace_Prize_Ceremony_3_(cropped).jpg"
+    },
+    {
+        "name": "Terumi Tanaka",
+        "birthday": "April 29, 1932",
+        "year_of_photo": "2024",
+        "year_of_photo_int": 2024,
+        "can_determine": true,
+        "caption": "Tanaka at 2024 Nobel Week",
+        "path": "./datasets/minisubset02_annotated/Terumi_Tanaka/title_images/Terumi_Tanaka_at_the_Nobel_Peace_Prize_Ceremony_Oslo_2024-61445_(cropped).jpg"
+    }
+]

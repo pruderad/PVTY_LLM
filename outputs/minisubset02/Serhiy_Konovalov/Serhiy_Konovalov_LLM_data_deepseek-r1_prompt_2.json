@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Serhiy Konovalov",
+        "birthday": "1 March 1972",
+        "year_of_photo": "unknown",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Serhiy_Konovalov/title_images/Serhiy_Konovalov.jpg"
+    }
+]

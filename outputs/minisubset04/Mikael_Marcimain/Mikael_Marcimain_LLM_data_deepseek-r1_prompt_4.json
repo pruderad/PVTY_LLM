@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Mikael Marcimain",
+        "birthday": "17 March 1970",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Mikael_Marcimain/title_images/Mikael_Marcimain.jpg"
+    }
+]

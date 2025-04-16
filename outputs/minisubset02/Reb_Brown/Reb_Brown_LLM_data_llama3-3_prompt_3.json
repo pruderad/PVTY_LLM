@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Robert Edward Brown",
+        "birthday": "April 29, 1948",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Brown in 2018",
+        "path": "./datasets/minisubset02_annotated/Reb_Brown/title_images/Reb_Brown.jpg"
+    }
+]

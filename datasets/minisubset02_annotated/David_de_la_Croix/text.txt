@@ -1,0 +1,41 @@
+David de la Croix (; born 22  April 1964) is a Belgian scholar and author in the field of economic growth and demographic economics. He is professor at the University of Louvain (UCLouvain).
+
+ Contributions 
+
+David de la Croix and his co-authors Raouf Boucekkine and Omar Licandro developed a unified framework encompassing longevity, education and economic growth.See the discussion and extension of this set-up in   The basic link is that a longer life expectancy justifies a greater investment in education (this is called the Ben Porath mechanism in the related literature), which in turn fosters economic growth by promoting human capital accumulation. The resulting model has been taken to several sets of demographic data pertaining to the 17th and 18th centuries, providing evidence on the role of demographics in the Industrial Revolution. This conclusion is reinforced by the work with Omar Licandro on famous people, which provides a broad picture of the evolution of the longevity of the elite over the last centuries, using a database of hundreds of thousands of famous people (nobles, artists, scientists etc.).
+
+In a similar vein, David de la Croix and his co-author Matthias Doepke contributed to the development of a unified framework encompassing fertility, education, inequality and growth. Here, the link involves economic inequality: wealth and education entail lower fertility and more spending on education, thereby deepening inequality; but an increase in inequality lowers average education, hence growth; taking the model to data reveals that differential fertility accounts for most of the empirical relationship between inequality and growth: it implies that neglecting fertility behavior in analyzing the growth-inequality nexus can be strongly misleading.
+
+The kind of work mentioned here has implications for policy decisions, definitely with respect to development, but also with respect to education, pensions or migration in developed countries.
+
+Further work by David de la Croix includes a study of childlessness, where, together with Thomas Baudin and Paula Gobbi, he lists a series of causes of childlessness (natural, poverty driven, opportunity driven) and proposes a methodology to identify their respective importance based on a structural model. Policy implications of this theory are non negligible, in particular when considering that avoidable involuntary childlessness reduces the capability set of poor people.
+
+With Fabio Mariani, de la Croix is interested in understanding the economic determinants of changes in marriage laws in the very long run. Changes in income level and in its distribution are key to understand the switch from polygyny to strict monogamy that happened during the Urban Revolution in Europe. Later on, from the 19th century onward, he rise of income per person triggered the adoption of "Serial monogamy" laws, allowing for divorce and remarriage. A generalization of this theory for the rest of the world is still needed.
+
+A constant theme in David de la Croix publications is the role played by institutions for economic growth and development. “Institutions” is a very general term, referring to human-made organizations, laws and practices such as religion and family structures, among others. A representative publication, in collaboration with Matthias Doepke and Joel Mokyr, appeared in 2018 in the Quarterly Journal of Economics  and deals with the historical role of apprenticeship institutions. Based on qualitative evidence and a new theory of pre-industrial technological progress, the three authors show that apprenticeship institutions were crucial to the economic rise of the West. Different from family- or clan-based institutions that were prevalent in the rest of the World, apprenticeship (as framed by the guild systems in Medieval Europe) allowed new techniques and innovations to spread rapidly across the continent thanks to master-apprentice interactions, without being constrained by family lines.
+
+David de la Croix is currently working on a large scale new project, whose goal is to understand how the human capital of scientists and scholars has contributed to the affirmation of the West. In order to answer this question, David de la Croix is building a prosopographic database, containing information on professors and scholars from Europe's leading universities and academies from 1000 to 1800. For this project (Upper Tail Human Capital and the Rise of the West/UTHC]), in 2020 he has received an Advanced Grant from the European Research Council (ERC).
+
+ Other scientific activities 
+David de la Croix is the instigator and editor-in-chief of the Journal of Demographic Economics (JODE). The objective of JODE is to promote research in the field of study that lies at the intersection of economics and demography. An analysis of demographic change may benefit from an understanding of economic incentives, which are in turn influenced by demographic changes and trends.
+
+ Books published 
+
+In 2002, he published with Philippe Michel a treatise on overlapping generations models as a tool to study economic growth, dynamics and policy.
+
+In 2012, his book on fertility, education, growth and sustainability studies the consequences for macroeconomic outcomes, such as income inequality and growth, of individual fertility choices.
+
+ References 
+
+ External links 
+List of scientific publications and citations at Google Scholar
+Homepage
+Homepage of the Journal of Demographic Economics at Cambridge University Press
+Homepage of the Repertorium Eruditorum Totius Europae/RETE
+All publications from the Research Papers in Economics (Repec) project at IDEAS/RePEc
+Academic genealogy from the Mathematics Genealogy Project at 
+Broad audience articles at The Conversation: 
+
+Category:1964 births
+Category:Living people
+Category:Belgian economists

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sergei Stanislavovich Kirsanov",
+        "birthday": "16 December 1961",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Sergei_Kirsanov/title_images/Kirsanov_loko.jpg"
+    }
+]

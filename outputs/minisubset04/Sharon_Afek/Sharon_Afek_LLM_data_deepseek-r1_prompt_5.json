@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sharon Afek",
+        "birthday": "August 10, 1970",
+        "year_of_photo": "2015\u20132021",
+        "year_of_photo_int": 2015,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Sharon_Afek/title_images/\u05d0\u05dc\u05d5\u05e3_\u05e9\u05e8\u05d5\u05df_\u05d0\u05e4\u05e7.jpg"
+    }
+]

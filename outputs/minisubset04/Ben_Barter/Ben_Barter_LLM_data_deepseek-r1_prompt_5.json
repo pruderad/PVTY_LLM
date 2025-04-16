@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ben Barter",
+        "birthday": "16 October 1985",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Ben_Barter/title_images/Ben_Barter_in_Chicago.jpg"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Bernard Romain",
+        "birthday": "1944-02-11",
+        "year_of_photo": "1989",
+        "year_of_photo_int": 1989,
+        "can_determine": true,
+        "caption": "Bernard Romain",
+        "path": "./datasets/minisubset04_annotated/Bernard_Romain/images/Retrato-_Bernard_Romain.jpg"
+    },
+    {
+        "name": "Bernard Romain",
+        "birthday": "1944-02-11",
+        "year_of_photo": "1999",
+        "year_of_photo_int": 1999,
+        "can_determine": true,
+        "caption": "Statue of Europe-(Unity-in-Peace)",
+        "path": "./datasets/minisubset04_annotated/Bernard_Romain/images/Statue_of_Europe-(Unity-in-Peace).jpg"
+    },
+    {
+        "name": "Bernard Romain",
+        "birthday": "1944-02-11",
+        "year_of_photo": "1989",
+        "year_of_photo_int": 1989,
+        "can_determine": true,
+        "caption": "The biggest flag of the world in Normandy",
+        "path": "./datasets/minisubset04_annotated/Bernard_Romain/images/Falaise_tricolore_acantilado_Normandia_Cropped.jpg"
+    },
+    {
+        "name": "Bernard Romain",
+        "birthday": "1944-02-11",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "De Gaulle (wall cover)",
+        "path": "./datasets/minisubset04_annotated/Bernard_Romain/images/De_Gaulle_mural.jpg"
+    },
+    {
+        "name": "Bernard Romain",
+        "birthday": "1944-02-11",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Fishermen's Museum ( Tenerife )",
+        "path": "./datasets/minisubset04_annotated/Bernard_Romain/images/Museodelpescador.jpg"
+    },
+    {
+        "name": "Bernard Romain",
+        "birthday": "1944-02-11",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Fresque 3D \"camuraconte-moi\"(Camurac)France",
+        "path": "./datasets/minisubset04_annotated/Bernard_Romain/images/Fresque_murale.jpg"
+    }
+]

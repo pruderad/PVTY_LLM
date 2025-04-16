@@ -1,0 +1,20 @@
+[
+    {
+        "name": "John Rowles",
+        "birthday": "26 March 1947",
+        "year_of_photo": "1969",
+        "year_of_photo_int": 1969,
+        "can_determine": true,
+        "caption": "Rowles in 1969",
+        "path": "./datasets/minisubset02_annotated/John_Rowles/images/The_Exciting_John_Rowles,_May_1969.png"
+    },
+    {
+        "name": "John Rowles",
+        "birthday": "26 March 1947",
+        "year_of_photo": "1969",
+        "year_of_photo_int": 1969,
+        "can_determine": true,
+        "caption": "Rowles in 2018",
+        "path": "./datasets/minisubset02_annotated/John_Rowles/title_images/John_Rowles_KNZM_(cropped).jpg"
+    }
+]

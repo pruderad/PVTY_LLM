@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Laura_Vainionp\u00e4\u00e4/title_images/Laura_Vainionp\u00e4\u00e4_-_2018_UEC_European_Road_Cycling_Championships_(Women's_road_race).jpg",
+        "person_id": 124,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "11",
+        "birth_month": "4",
+        "birth_year": "1994",
+        "estimated_year_creation_left": "2018",
+        "estimated_year_creation_right": "2018",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            1850,
+            251
+        ]
+    }
+]

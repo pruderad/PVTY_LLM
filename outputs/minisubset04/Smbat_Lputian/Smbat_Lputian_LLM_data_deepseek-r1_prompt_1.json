@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Smbat Lputian",
+        "birthday": "1958-02-14",
+        "year_of_photo": "Now",
+        "year_of_photo_int": 2007,
+        "can_determine": true,
+        "caption": "Lputian in Heraklion, 2007",
+        "path": "./datasets/minisubset04_annotated/Smbat_Lputian/title_images/Lputian_Smbat.jpg"
+    }
+]

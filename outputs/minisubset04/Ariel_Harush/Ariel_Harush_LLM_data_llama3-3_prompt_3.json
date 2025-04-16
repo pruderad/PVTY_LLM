@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ariel Harush",
+        "birthday": "May 25, 1988",
+        "year_of_photo": "2013",
+        "year_of_photo_int": 2013,
+        "can_determine": true,
+        "caption": "Harush with [[Beitar Jerusalem F.C.|Beitar Jerusalem]] in 2013",
+        "path": "./datasets/minisubset04_annotated/Ariel_Harush/title_images/\u05d0\u05e8\u05d9\u05d0\u05dc_\u05d4\u05e8\u05d5\u05e9.jpg"
+    }
+]

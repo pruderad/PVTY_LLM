@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Gr\u00e9gory Poirier",
+        "birthday": "July 9, 1982",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "Poirier in 2023",
+        "path": "./datasets/minisubset04_annotated/Gr\u00e9gory_Poirier/title_images/IMG-20230310-WA0000.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Emma Molin",
+        "birthday": "16 May 1979",
+        "year_of_photo": "Haninge Municipality",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Emma Molin in 2014",
+        "path": "./datasets/minisubset04_annotated/Emma_Molin/title_images/Emma_Molin_(cropped).jpg"
+    }
+]

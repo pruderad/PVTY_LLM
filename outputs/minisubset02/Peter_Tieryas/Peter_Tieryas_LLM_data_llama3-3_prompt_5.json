@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Peter Tieryas",
+        "birthday": "null",
+        "year_of_photo": "2017",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": "United States of Japan at Helsinki World Con 2017",
+        "path": "./datasets/minisubset02_annotated/Peter_Tieryas/images/United_States_of_Japan_at_Helsinki_World_Con_2017.jpg"
+    },
+    {
+        "name": "Peter Tieryas",
+        "birthday": "null",
+        "year_of_photo": "null",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Cyber Shogun Revolution art gallery in the Yurindo Bookstore in Akihabara, Japan.",
+        "path": "./datasets/minisubset02_annotated/Peter_Tieryas/images/Cyber_Shogun_Revolution_in_Akihabara.jpg"
+    },
+    {
+        "name": "Peter Tieryas",
+        "birthday": "null",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "Peter Tieryas, 2014",
+        "path": "./datasets/minisubset02_annotated/Peter_Tieryas/title_images/Peter_Tieryas.jpg"
+    }
+]

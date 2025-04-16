@@ -1,0 +1,39 @@
+[
+    {
+        "path": "./minisubset02/Ryo_Michigami/images/Epson_HSV-010_2011_Super_GT_Fuji_250km.jpg",
+        "person_id": 21,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "7",
+        "birth_month": 7,
+        "birth_year": "1973",
+        "estimated_year_creation_left": "2019",
+        "estimated_year_creation_right": "2019",
+        "annotation_shortcommings": "No face present in the image.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": null
+    },
+    {
+        "path": "./minisubset02/Ryo_Michigami/title_images/Ryo_Michigami_2017_(33887542393)_(cropped).jpg",
+        "person_id": 21,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "7",
+        "birth_month": "7",
+        "birth_year": "1973",
+        "estimated_year_creation_left": "2017",
+        "estimated_year_creation_right": "2017",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            479,
+            241
+        ]
+    }
+]

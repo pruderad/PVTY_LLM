@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Amar Giri",
+        "birthday": "11 September 1960",
+        "year_of_photo": "Photo taken in 2023",
+        "year_of_photo_int": 2023,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Amar_Giri/title_images/Amargiri.jpg"
+    }
+]

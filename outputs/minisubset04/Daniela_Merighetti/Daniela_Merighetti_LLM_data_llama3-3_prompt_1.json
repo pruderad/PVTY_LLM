@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Daniela Merighetti",
+        "birthday": "1981-07-05",
+        "year_of_photo": "2011",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": "Merighetti in 2011",
+        "path": "./datasets/minisubset04_annotated/Daniela_Merighetti/title_images/Daniela_Merighetti_Altenmarkt-Zauchensee_2011.jpg"
+    }
+]

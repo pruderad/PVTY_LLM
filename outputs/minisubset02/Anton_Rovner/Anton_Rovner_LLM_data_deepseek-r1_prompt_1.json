@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Anton Rovner",
+        "birthday": "28 June 1970",
+        "year_of_photo": "<2019>",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Anton Rovner in Tartu in 2019",
+        "path": "./datasets/minisubset02_annotated/Anton_Rovner/images/Anton_Rovner_Tartu_Raekoja_platsil_2019.jpg"
+    }
+]

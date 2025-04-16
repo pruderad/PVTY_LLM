@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ali Salem al-Beidh",
+        "birthday": "February 10, 1939",
+        "year_of_photo": "1990",
+        "year_of_photo_int": 1990,
+        "can_determine": true,
+        "caption": "Al Beidh in 1990",
+        "path": "./datasets/minisubset04_annotated/Ali_Salem_al-Beidh/title_images/Ali_Salem_al-Beidh.jpg"
+    }
+]

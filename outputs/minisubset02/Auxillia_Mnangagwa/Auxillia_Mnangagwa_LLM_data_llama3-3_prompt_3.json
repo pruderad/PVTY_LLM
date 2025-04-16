@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Auxillia Mnangagwa",
+        "birthday": "March 21, 1963",
+        "year_of_photo": "2019",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Mnangagwa in 2019",
+        "path": "./datasets/minisubset02_annotated/Auxillia_Mnangagwa/title_images/Auxillia_Mnangagwa_-_First_Lady_of_Zimbabwe.jpg"
+    }
+]

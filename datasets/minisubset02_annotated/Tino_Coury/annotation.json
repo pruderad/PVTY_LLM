@@ -1,0 +1,19 @@
+[
+    {
+        "path": "./minisubset02/Tino_Coury/title_images/Tino_Wiki.jpg",
+        "person_id": 31,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "17",
+        "birth_month": "8",
+        "birth_year": "1988",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Could not estimate date from caption.\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": null
+    }
+]

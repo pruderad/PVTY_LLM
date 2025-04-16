@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ben Hornby",
+        "birthday": "18 February 1980",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Ben_Hornby/title_images/Ben_Hornby.jpg"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Marcel_Hensema/title_images/Portret_Marcel_Hensema.jpg",
+        "person_id": 62,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "16",
+        "birth_month": "4",
+        "birth_year": "1970",
+        "estimated_year_creation_left": "2018",
+        "estimated_year_creation_right": "2018",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            779,
+            717
+        ]
+    }
+]

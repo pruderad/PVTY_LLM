@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Onur Bulut",
+        "birthday": "16 April 1994",
+        "year_of_photo": "N/A",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Bulut with [[Be\u015fikta\u015f J.K.|Be\u015fikta\u015f]] in 2023",
+        "path": "./datasets/minisubset02_annotated/Onur_Bulut/title_images/Onur_Bulut_(cropped).jpg"
+    }
+]

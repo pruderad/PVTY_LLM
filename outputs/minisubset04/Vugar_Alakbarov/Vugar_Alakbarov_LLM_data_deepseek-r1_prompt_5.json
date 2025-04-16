@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Vugar Mursal Alakbarov",
+        "birthday": "5 January 1981",
+        "year_of_photo": "2000 Summer Olympics",
+        "year_of_photo_int": 2000,
+        "can_determine": true,
+        "caption": "Alakbarov depicted on an Azerbaijani stamp",
+        "path": "./datasets/minisubset04_annotated/Vugar_Alakbarov/title_images/Stamps_of_Azerbaijan,_2001-586.jpg"
+    }
+]

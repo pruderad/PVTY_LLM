@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Maria_Bergkvist/title_images/Maria_Bergkvist.jpg",
+        "person_id": 251,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1977",
+        "estimated_year_creation_left": "2015",
+        "estimated_year_creation_right": "2015",
+        "annotation_shortcommings": "No bounding box present.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            397,
+            69
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Taya Parker",
+        "birthday": "1980-01-05",
+        "year_of_photo": "\u2014",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Parker in 2016",
+        "path": "./datasets/minisubset02_annotated/Taya_Parker/title_images/Taya_Parker2.jpg"
+    }
+]

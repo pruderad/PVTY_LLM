@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Edward Siarka",
+        "birthday": "July 7, 1963",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Edward_Siarka/title_images/Edward_Siarka_2022.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Michael Aastrup Jensen",
+        "birthday": "1976-03-16",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Michael_Aastrup_Jensen/title_images/Michael_Aastrup_Jensen.jpg"
+    }
+]

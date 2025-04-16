@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Clara Hughes",
+        "birthday": "September 27, 1972",
+        "year_of_photo": "Some Year",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": "left|Hughes on 2011 Tour of the Gila",
+        "path": "./datasets/minisubset02_annotated/Clara_Hughes/images/Clara_Hughes_2011_Tour_of_the_Gila.jpg"
+    },
+    {
+        "name": "Clara Hughes",
+        "birthday": "September 27, 1972",
+        "year_of_photo": "Now",
+        "year_of_photo_int": 2024,
+        "can_determine": false,
+        "caption": "left|Hughes skating in 2007",
+        "path": "./datasets/minisubset02_annotated/Clara_Hughes/images/Clara_Hughes_at_WC_2007_in_Heerenveen.jpg"
+    },
+    {
+        "name": "Clara Hughes",
+        "birthday": "September 27, 1972",
+        "year_of_photo": "<Year>",
+        "year_of_photo_int": 2010,
+        "can_determine": true,
+        "caption": "right|upright|Led by Clara Hughes, the Canadian team enters BC Place during the opening ceremonies of the 2010 Winter Olympics.",
+        "path": "./datasets/minisubset02_annotated/Clara_Hughes/images/Clara_Hughes_by_Freeman_cropped.jpg"
+    },
+    {
+        "name": "Clara Hughes",
+        "birthday": "September 27, 1972",
+        "year_of_photo": "How old was Clara Hughes in 2010?",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Hughes at the induction ceremony of [[Canada's Walk of Fame]] in 2010",
+        "path": "./datasets/minisubset02_annotated/Clara_Hughes/title_images/Clara_Hughes_on_Walk_of_Fame_2.jpg"
+    }
+]

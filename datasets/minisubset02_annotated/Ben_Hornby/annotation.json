@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Ben_Hornby/title_images/Ben_Hornby.jpg",
+        "person_id": 222,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1980",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "No bounding box or date of creation.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            690,
+            549
+        ]
+    }
+]

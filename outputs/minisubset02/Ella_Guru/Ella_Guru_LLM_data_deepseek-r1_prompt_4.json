@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Ella Guru",
+        "birthday": "May 24, 1966",
+        "year_of_photo": "October 2006",
+        "year_of_photo_int": 2006,
+        "can_determine": true,
+        "caption": "Ella Guru is interviewed by Richard Quest of CNN International during ''Go West'' at Spectrum London gallery, October 2006",
+        "path": "./datasets/minisubset02_annotated/Ella_Guru/images/2006_Spectrum_London.jpg"
+    },
+    {
+        "name": "Ella Guru",
+        "birthday": "May 24, 1966",
+        "year_of_photo": "2000",
+        "year_of_photo_int": 2000,
+        "can_determine": true,
+        "caption": "upright|left|Ella Guru (left) demonstrates against the Turner Prize, 2000.",
+        "path": "./datasets/minisubset02_annotated/Ella_Guru/images/2000_Stuckist_Turner_demo_(2).jpg"
+    },
+    {
+        "name": "Ella Guru",
+        "birthday": "May 24, 1966",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Ella Guru. ''The Queen's Speech''.",
+        "path": "./datasets/minisubset02_annotated/Ella_Guru/images/Ella_Guru,_The_Queen's_Speech.jpg"
+    },
+    {
+        "name": "Ella Guru",
+        "birthday": "May 24, 1966",
+        "year_of_photo": "unknown",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Photo of Ella Guru by Charles Thomson",
+        "path": "./datasets/minisubset02_annotated/Ella_Guru/title_images/Photo_of_Ella_Guru_by_Charles_Thomson.jpg"
+    }
+]

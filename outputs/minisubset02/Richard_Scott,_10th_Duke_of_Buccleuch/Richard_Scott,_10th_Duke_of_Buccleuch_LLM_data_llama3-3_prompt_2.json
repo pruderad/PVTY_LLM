@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Richard Walter John Montagu Douglas Scott, 10th Duke of Buccleuch and 12th Duke of Queensberry",
+        "birthday": "14 February 1954",
+        "year_of_photo": "null",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Drumlanrig Castle, Dumfries and Galloway - a seat of the Dukes of Buccleuch",
+        "path": "./datasets/minisubset02_annotated/Richard_Scott,_10th_Duke_of_Buccleuch/images/Drumlanrig_Castle.jpg"
+    },
+    {
+        "name": "Richard Walter John Montagu Douglas Scott, 10th Duke of Buccleuch and 12th Duke of Queensberry",
+        "birthday": "14 February 1954",
+        "year_of_photo": "null",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Boughton House, Northamptonshire - a seat of the Dukes of Buccleuch",
+        "path": "./datasets/minisubset02_annotated/Richard_Scott,_10th_Duke_of_Buccleuch/images/Boughton_House_2.jpg"
+    },
+    {
+        "name": "Richard Walter John Montagu Douglas Scott, 10th Duke of Buccleuch and 12th Duke of Queensberry",
+        "birthday": "14 February 1954",
+        "year_of_photo": "2021",
+        "year_of_photo_int": 2021,
+        "can_determine": true,
+        "caption": "right|The Duke in the uniform of the Captain-General of the Royal Company of Archers in the Scottish Parliament, 2021",
+        "path": "./datasets/minisubset02_annotated/Richard_Scott,_10th_Duke_of_Buccleuch/images/Scottish_Parliament_(Presentation_of_Crown)_2021.jpg"
+    },
+    {
+        "name": "Richard Walter John Montagu Douglas Scott, 10th Duke of Buccleuch and 12th Duke of Queensberry",
+        "birthday": "14 February 1954",
+        "year_of_photo": "2013",
+        "year_of_photo_int": 2013,
+        "can_determine": true,
+        "caption": "Portrait by [[Allan Warren]], 2013",
+        "path": "./datasets/minisubset02_annotated/Richard_Scott,_10th_Duke_of_Buccleuch/title_images/10th_Duke_of_Buccleuch_Allan_Warren.JPG"
+    }
+]

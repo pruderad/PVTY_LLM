@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Charlotte Deborsu",
+        "birthday": "1997-05-17",
+        "year_of_photo": "Not specified",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Deborsu in 2022",
+        "path": "./datasets/minisubset02_annotated/Charlotte_Deborsu/title_images/Charlotte_Deborsu.jpg"
+    }
+]

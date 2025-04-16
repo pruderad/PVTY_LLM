@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Auxillia_Mnangagwa/title_images/Auxillia_Mnangagwa_-_First_Lady_of_Zimbabwe.jpg",
+        "person_id": 244,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1963",
+        "estimated_year_creation_left": "2019",
+        "estimated_year_creation_right": "2019",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            623,
+            371
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "David Ruggerio",
+        "birthday": "June 26, 1962",
+        "year_of_photo": "1990s",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/David_Ruggerio/title_images/David_Ruggerio.jpg"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "path": "./minisubset02/Bryan_Bayda/title_images/Bishop_Bryan_Bayda.jpg",
+        "person_id": 0,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "wiki_page_sufficient": false,
+        "birth_day": "4",
+        "birth_month": 5,
+        "birth_year": "1961",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "no year in caption\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": null
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Christa Goetsch",
+        "birthday": "28 August 1952",
+        "year_of_photo": "Hamburg Parliament",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "right|Christa Goetsch in 2008",
+        "path": "./datasets/minisubset04_annotated/Christa_Goetsch/images/Christa_Goetsch_v2.jpg"
+    }
+]

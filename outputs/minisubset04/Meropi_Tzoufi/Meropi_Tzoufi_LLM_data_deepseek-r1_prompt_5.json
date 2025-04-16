@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Meropi Tzoufi",
+        "birthday": "10 October 1956",
+        "year_of_photo": "2015\u20132023",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Meropi_Tzoufi/title_images/MTzoufi.jpg"
+    }
+]

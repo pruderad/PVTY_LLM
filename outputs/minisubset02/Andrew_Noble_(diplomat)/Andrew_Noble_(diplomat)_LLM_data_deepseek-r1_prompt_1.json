@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Andrew James Noble",
+        "birthday": "1954-12-17",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Andrew_Noble_(diplomat)/title_images/Andrew_Noble.jpg"
+    }
+]

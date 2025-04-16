@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Benjamin N. Lovejoy",
+        "birthday": "February 20, 1984",
+        "year_of_photo": "SomeYear",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": "left|Lovejoy during his first stint with the Penguins in 2011.",
+        "path": "./datasets/minisubset04_annotated/Ben_Lovejoy/images/2011-10-15_Ben_Lovejoy.jpg"
+    },
+    {
+        "name": "Benjamin N. Lovejoy",
+        "birthday": "February 20, 1984",
+        "year_of_photo": "Don't know",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Lovejoy with the [[Pittsburgh Penguins]] in 2016",
+        "path": "./datasets/minisubset04_annotated/Ben_Lovejoy/title_images/Ben_Lovejoy_2016-04-28_2.JPG"
+    }
+]

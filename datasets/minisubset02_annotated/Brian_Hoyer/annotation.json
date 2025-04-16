@@ -1,0 +1,102 @@
+[
+    {
+        "path": "./minisubset02/Brian_Hoyer/images/Hoyer.jpg",
+        "person_id": 161,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1985",
+        "estimated_year_creation_left": "2004",
+        "estimated_year_creation_right": "2008",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            100,
+            122
+        ]
+    },
+    {
+        "path": "./minisubset02/Brian_Hoyer/images/Brian_Hoyer.JPG",
+        "person_id": 161,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1985",
+        "estimated_year_creation_left": "2009",
+        "estimated_year_creation_right": "2009",
+        "annotation_shortcommings": "No correct bounding box.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            333,
+            269
+        ]
+    },
+    {
+        "path": "./minisubset02/Brian_Hoyer/images/Brian_hoyer.jpg",
+        "person_id": 161,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1985",
+        "estimated_year_creation_left": "2009",
+        "estimated_year_creation_right": "2009",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            333,
+            269
+        ]
+    },
+    {
+        "path": "./minisubset02/Brian_Hoyer/images/Brian_Hoyer_(14730989956).jpg",
+        "person_id": 161,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1985",
+        "estimated_year_creation_left": "2014",
+        "estimated_year_creation_right": "2014",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            972,
+            369
+        ]
+    },
+    {
+        "path": "./minisubset02/Brian_Hoyer/title_images/Brian_Hoyer_2014_Browns_training_camp_(4).jpg",
+        "person_id": 161,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1985",
+        "estimated_year_creation_left": "2014",
+        "estimated_year_creation_right": "2014",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            972,
+            369
+        ]
+    }
+]

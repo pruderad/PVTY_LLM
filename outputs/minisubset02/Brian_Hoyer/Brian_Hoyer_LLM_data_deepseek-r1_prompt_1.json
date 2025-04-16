@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Brian Hoyer",
+        "birthday": "October 13, 1985",
+        "year_of_photo": "Some Year",
+        "year_of_photo_int": 2007,
+        "can_determine": true,
+        "caption": "175px|Hoyer (#7) during his tenure at Michigan State",
+        "path": "./datasets/minisubset02_annotated/Brian_Hoyer/images/Hoyer.jpg"
+    },
+    {
+        "name": "Brian Hoyer",
+        "birthday": "October 13, 1985",
+        "year_of_photo": "SomeYear",
+        "year_of_photo_int": 2009,
+        "can_determine": true,
+        "caption": "Hoyer and Tom Brady with the Patriots in 2009",
+        "path": "./datasets/minisubset02_annotated/Brian_Hoyer/images/Brian_Hoyer.JPG"
+    },
+    {
+        "name": "Brian Hoyer",
+        "birthday": "October 13, 1985",
+        "year_of_photo": "SomeYear",
+        "year_of_photo_int": 2009,
+        "can_determine": true,
+        "caption": "Hoyer with the Patriots in 2009",
+        "path": "./datasets/minisubset02_annotated/Brian_Hoyer/images/Brian_hoyer.jpg"
+    },
+    {
+        "name": "Brian Hoyer",
+        "birthday": "October 13, 1985",
+        "year_of_photo": "How old was Brian Hoyer in 2014?",
+        "year_of_photo_int": 29,
+        "can_determine": true,
+        "caption": "Hoyer with the Browns in 2014",
+        "path": "./datasets/minisubset02_annotated/Brian_Hoyer/images/Brian_Hoyer_(14730989956).jpg"
+    },
+    {
+        "name": "Brian Hoyer",
+        "birthday": "October 13, 1985",
+        "year_of_photo": "Cleveland Browns in 2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "Hoyer with the Cleveland Browns in 2014",
+        "path": "./datasets/minisubset02_annotated/Brian_Hoyer/title_images/Brian_Hoyer_2014_Browns_training_camp_(4).jpg"
+    }
+]

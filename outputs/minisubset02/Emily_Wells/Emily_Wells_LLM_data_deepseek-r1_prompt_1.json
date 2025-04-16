@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Emily Wells",
+        "birthday": "1981-11-20",
+        "year_of_photo": "Hmm, the caption says 'Wells performing at Treefort Music Fest 2015'. So I think the photo was taken in 2015.",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "Wells performing at [[Treefort Music Fest]] 2015",
+        "path": "./datasets/minisubset02_annotated/Emily_Wells/title_images/2015_Emily_Wells-Main_Stage-Treefort-Credit-Rase_Littlefield_(16806947590).jpg"
+    }
+]

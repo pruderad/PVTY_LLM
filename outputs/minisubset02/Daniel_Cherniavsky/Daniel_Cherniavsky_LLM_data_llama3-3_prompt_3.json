@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Daniel Cherniavsky",
+        "birthday": "March 16, 1933",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Daniel_Cherniavsky/title_images/Foto2Daniel2.jpg"
+    }
+]

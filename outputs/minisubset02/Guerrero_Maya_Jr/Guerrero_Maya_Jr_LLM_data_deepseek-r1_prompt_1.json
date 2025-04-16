@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Guerrero Maya Jr.",
+        "birthday": "August 8, 1985",
+        "year_of_photo": "SomeYear",
+        "year_of_photo_int": 2020,
+        "can_determine": true,
+        "caption": "right|Guerrero Maya Jr. posing in the ring at a CMLL show in July 2020",
+        "path": "./datasets/minisubset02_annotated/Guerrero_Maya_Jr/images/MX_MM_TERCERA_LUCHA_39.jpg"
+    },
+    {
+        "name": "Guerrero Maya Jr.",
+        "birthday": "August 8, 1985",
+        "year_of_photo": "SomeYear",
+        "year_of_photo_int": 2020,
+        "can_determine": true,
+        "caption": "Guerrero Maya Jr. in July 2020",
+        "path": "./datasets/minisubset02_annotated/Guerrero_Maya_Jr/title_images/MX_MM_TERCERA_LUCHA_37.jpg"
+    }
+]

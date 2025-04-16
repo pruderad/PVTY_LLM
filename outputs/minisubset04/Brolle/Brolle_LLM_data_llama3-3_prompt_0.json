@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Kjell Junior Wallmark",
+        "birthday": "November 10, 1981",
+        "year_of_photo": "2008",
+        "year_of_photo_int": 2008,
+        "can_determine": true,
+        "caption": "Brolle in 2008",
+        "path": "./datasets/minisubset04_annotated/Brolle/title_images/Brolle.jpg"
+    }
+]

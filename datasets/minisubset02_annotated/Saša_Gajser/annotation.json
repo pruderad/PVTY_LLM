@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Sa\u0161a_Gajser/title_images/Sasa_Gajser.jpg",
+        "person_id": 135,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1974",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Image has no caption\n",
+        "bounding_box_index": 1,
+        "face_pixel_coordinates": [
+            1870,
+            1455
+        ]
+    }
+]

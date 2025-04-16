@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Byron Scott",
+        "birthday": "March 28, 1961",
+        "year_of_photo": "1988",
+        "year_of_photo_int": 1988,
+        "can_determine": true,
+        "caption": "left|100px|Scott speaks with the media after winning the 1988 NBA Finals.",
+        "path": "./datasets/minisubset02_annotated/Byron_Scott/images/Byron_Scott_1988_(cropped).jpg"
+    },
+    {
+        "name": "Byron Antom Scott",
+        "birthday": "March 28, 1961",
+        "year_of_photo": "1998",
+        "year_of_photo_int": 1998,
+        "can_determine": true,
+        "caption": "left|100px|Scott with Panathinaikos in 1998",
+        "path": "./datasets/minisubset02_annotated/Byron_Scott/images/ByronScottPanathinaikos1998.jpg"
+    },
+    {
+        "name": "Byron Scott",
+        "birthday": "March 28, 1961",
+        "year_of_photo": "2009",
+        "year_of_photo_int": 2009,
+        "can_determine": true,
+        "caption": "left|Byron Scott talks to Chris Paul in a 2009 game; Scott was head coach of the New Orleans Hornets from 2004 to 2009.",
+        "path": "./datasets/minisubset02_annotated/Byron_Scott/images/Byron_Scott_talking_to_Chris_Paul.jpg"
+    },
+    {
+        "name": "Byron Scott",
+        "birthday": "March 28, 1961",
+        "year_of_photo": "2013",
+        "year_of_photo_int": 2013,
+        "can_determine": true,
+        "caption": "right|Byron Scott (left) coaching the Cavaliers in 2013",
+        "path": "./datasets/minisubset02_annotated/Byron_Scott/images/Byron_Scott_Kyrie_Irving.jpg"
+    },
+    {
+        "name": "Byron Scott",
+        "birthday": "March 28, 1961",
+        "year_of_photo": "2016",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": "[[Terrell Owens]] with Byron Scott in 2016",
+        "path": "./datasets/minisubset02_annotated/Byron_Scott/title_images/Byron_scott_&_terrell_owens.jpg"
+    }
+]

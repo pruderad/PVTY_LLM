@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Linda R. Greenstein",
+        "birthday": "June 7, 1950",
+        "year_of_photo": "2019",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Linda_R._Greenstein/title_images/Linda_R._Greenstein.jpg"
+    }
+]

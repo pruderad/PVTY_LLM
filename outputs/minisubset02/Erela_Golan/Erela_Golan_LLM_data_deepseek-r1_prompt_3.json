@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Erela Golan",
+        "birthday": "1945",
+        "year_of_photo": "mid 2000s",
+        "year_of_photo_int": 2005,
+        "can_determine": true,
+        "caption": "Golan in the mid 2000s",
+        "path": "./datasets/minisubset02_annotated/Erela_Golan/title_images/Erela_Golan_(arela).jpg"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Justin Matthew Boren",
+        "birthday": "April 28, 1988",
+        "year_of_photo": "2007",
+        "year_of_photo_int": 2007,
+        "can_determine": true,
+        "caption": "2007 Michigan Wolverines football team huddle with Mario Manningham (86), Ryan Mallett (15), Mike Hart (20), Jake Long (77, behind Hart), Adrian Arrington (16), Mike Massey (83), Boren (65), Carson Butler (85), and Stephen Schilling (partially in view on right) (52).|alt=football team in yellow and blue uniforms in the huddle.",
+        "path": "./datasets/minisubset02_annotated/Justin_Boren/images/20070922_Michigan_huddle.jpg"
+    },
+    {
+        "name": "Justin Matthew Boren",
+        "birthday": "April 28, 1988",
+        "year_of_photo": "2007 or 2008",
+        "year_of_photo_int": 2007,
+        "can_determine": false,
+        "caption": "left|Ryan Mallett rolls out against Penn State.  Jake Long and Boren are among the visible linemen against Penn State|alt=a quarterback rolls out while his offensive line blocks",
+        "path": "./datasets/minisubset02_annotated/Justin_Boren/images/20070922_Ryan_Mallett_rolling_out_against_Penn_State.jpg"
+    },
+    {
+        "name": "Justin Matthew Boren",
+        "birthday": "April 28, 1988",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Adam Kraus (57) and Jake Long (77) obscure Ryan Mallett (15) and Mike Hart (20), while Boren (65) looks on.|alt=football team in yellow and blue uniforms in the huddle.",
+        "path": "./datasets/minisubset02_annotated/Justin_Boren/images/20070922_Adam_Kraus_and_Jake_Long_obscure_Ryan_Mallett_and_Mike_Hart.jpg"
+    },
+    {
+        "name": "Justin Matthew Boren",
+        "birthday": "April 28, 1988",
+        "year_of_photo": "2009 or 2010",
+        "year_of_photo_int": 2009,
+        "can_determine": false,
+        "caption": "left|Bryant Browning, Mike Brewster and Boren come to the line of scrimmage after a time out.|alt=Three football players in red and grey uniforms approach the line of scrimmage.",
+        "path": "./datasets/minisubset02_annotated/Justin_Boren/images/20090926_Bryant_Browning,_Mike_Brewster_and_Justin_Boren_come_to_the_line_after_a_timeout.jpg"
+    },
+    {
+        "name": "Justin Matthew Boren",
+        "birthday": "April 28, 1988",
+        "year_of_photo": "2009 or 2010",
+        "year_of_photo_int": 2009,
+        "can_determine": false,
+        "caption": "left|Boren blocking for Dane Sanzenbacher",
+        "path": "./datasets/minisubset02_annotated/Justin_Boren/images/20090905_Justin_Boren_blocking_for_Dane_Sanzenbacher.jpg"
+    },
+    {
+        "name": "Justin Matthew Boren",
+        "birthday": "April 28, 1988",
+        "year_of_photo": "2012",
+        "year_of_photo_int": 2012,
+        "can_determine": true,
+        "caption": "Boren at [[Navy\u2013Marine Corps Memorial Stadium]] in August 2012",
+        "path": "./datasets/minisubset02_annotated/Justin_Boren/title_images/Justin_Boren_Ravens.jpg"
+    }
+]

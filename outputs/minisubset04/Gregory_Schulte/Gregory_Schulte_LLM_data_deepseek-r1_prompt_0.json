@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Gregory L. Schulte",
+        "birthday": "1958",
+        "year_of_photo": "2005",
+        "year_of_photo_int": 2005,
+        "can_determine": true,
+        "caption": "Gregory L. Schulte",
+        "path": "./datasets/minisubset04_annotated/Gregory_Schulte/images/Ambassador_Gregory_L._Schulte_at_the_GCSP_2.jpg"
+    }
+]

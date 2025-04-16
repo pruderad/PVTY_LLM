@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Brandon Ryan",
+        "birthday": "1997-11-07",
+        "year_of_photo": ">{{VFL Box}} in [[2023 VFL season|2023]]",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Ryan playing for {{VFL Box}} in [[2023 VFL season|2023]]",
+        "path": "./datasets/minisubset02_annotated/Brandon_Ryan/title_images/BrandonRyan.png"
+    }
+]

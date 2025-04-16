@@ -1,0 +1,11 @@
+[
+    {
+        "name": "\u0110\u1ed7 Thanh Th\u1ecbnh",
+        "birthday": "August 18, 1998",
+        "year_of_photo": "2019",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Thanh Th\u1ecbnh in 2019",
+        "path": "./datasets/minisubset02_annotated/\u0110\u1ed7_Thanh_Th\u1ecbnh/title_images/Do_Thanh_Thinh.png"
+    }
+]

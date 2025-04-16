@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Paul Dalio",
+        "birthday": "December 8, 1979",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Paul_Dalio/title_images/Paul_Dalio.jpg"
+    }
+]

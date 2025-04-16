@@ -1,0 +1,19 @@
+[
+    {
+        "path": "./minisubset02/Makoto_Sasaki_(baseball)/title_images/NTT\u897f\u65e5\u672c\u30fb\u4f50\u3005\u6728\u8aa0\u76e3\u7763_(14187271467)_(cropped).jpg",
+        "person_id": 198,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1965",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Could not estimate year of photo creation.\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": null
+    }
+]

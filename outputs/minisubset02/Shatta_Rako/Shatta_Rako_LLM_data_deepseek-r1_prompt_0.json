@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Shatta Rako",
+        "birthday": "1979-01-01",
+        "year_of_photo": "2016",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Shatta_Rako/title_images/Shatta_Rako.jpg"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Michigami",
+        "birthday": "1973",
+        "year_of_photo": "2011",
+        "year_of_photo_int": 2011,
+        "can_determine": false,
+        "caption": "left|Michigami driving the Honda HSV-010 GT for Nakajima Racing in 2011.",
+        "path": "./datasets/minisubset02_annotated/Ryo_Michigami/images/Epson_HSV-010_2011_Super_GT_Fuji_250km.jpg"
+    },
+    {
+        "name": "Michigami",
+        "birthday": "1973",
+        "year_of_photo": "2017",
+        "year_of_photo_int": 2017,
+        "can_determine": false,
+        "caption": "Michigami in 2017",
+        "path": "./datasets/minisubset02_annotated/Ryo_Michigami/title_images/Ryo_Michigami_2017_(33887542393)_(cropped).jpg"
+    }
+]

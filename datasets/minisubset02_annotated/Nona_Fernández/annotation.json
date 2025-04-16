@@ -1,0 +1,59 @@
+[
+    {
+        "path": "./minisubset02/Nona_Fern\u00e1ndez/images/Fernandez,_Nona_01.jpg",
+        "person_id": 91,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "23",
+        "birth_month": "6",
+        "birth_year": "1971",
+        "estimated_year_creation_left": "2013",
+        "estimated_year_creation_right": "2013",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            463,
+            189
+        ]
+    },
+    {
+        "path": "./minisubset02/Nona_Fern\u00e1ndez/images/Fernandez,_Nona_-_Liceo_de_ninas_f01.jpg",
+        "person_id": 91,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "23",
+        "birth_month": "6",
+        "birth_year": "1971",
+        "estimated_year_creation_left": "2015",
+        "estimated_year_creation_right": "2015",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1,
+        "face_pixel_coordinates": [
+            1615,
+            1454
+        ]
+    },
+    {
+        "path": "./minisubset02/Nona_Fern\u00e1ndez/title_images/Fernandez,_Nona_-FILSA_20181106_fRF11.jpg",
+        "person_id": 91,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "23",
+        "birth_month": "6",
+        "birth_year": "1971",
+        "estimated_year_creation_left": "2018",
+        "estimated_year_creation_right": "2018",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": null
+    }
+]

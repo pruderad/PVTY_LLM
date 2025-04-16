@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Nilay Patel",
+        "birthday": "1984-05-06",
+        "year_of_photo": "2016",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": "Patel at Collision Conference 2016 in [[New Orleans, Louisiana]]",
+        "path": "./datasets/minisubset04_annotated/Nilay_Patel/title_images/Nilay_Patel_at_Collision_Conference_2016.jpg"
+    }
+]

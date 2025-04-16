@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Vicki Christiansen",
+        "birthday": "1950s",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Vicki_Christiansen/title_images/Vicki_Christiansen,_Chief_of_Forest_Service.jpg"
+    }
+]

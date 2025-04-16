@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Gerry Norquist",
+        "birthday": "May 29, 1962",
+        "year_of_photo": "SomeYear",
+        "year_of_photo_int": 2012,
+        "can_determine": true,
+        "caption": "Norquist at the 2012 [[Van Lanschot Senior Open]]",
+        "path": "./datasets/minisubset02_annotated/Gerry_Norquist/title_images/Gerry_Norquist.JPG"
+    }
+]

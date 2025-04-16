@@ -1,0 +1,42 @@
+[
+    {
+        "path": "./minisubset02/Alberth_Elis/images/Alberth_Elis_-_Rio_2016.jpg",
+        "person_id": 170,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1996",
+        "estimated_year_creation_left": "2016",
+        "estimated_year_creation_right": "2016",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            221,
+            258
+        ]
+    },
+    {
+        "path": "./minisubset02/Alberth_Elis/title_images/Alberth_Elis.jpg",
+        "person_id": 170,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1996",
+        "estimated_year_creation_left": "2018",
+        "estimated_year_creation_right": "2018",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            84,
+            103
+        ]
+    }
+]

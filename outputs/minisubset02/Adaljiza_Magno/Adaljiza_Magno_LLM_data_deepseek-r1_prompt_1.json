@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Adaljiza Albertina Xavier Reis Magno",
+        "birthday": "7 January 1975",
+        "year_of_photo": "Not clear from caption",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Magno with U.S. Deputy Secretary of State Wendy Sherman in 2022",
+        "path": "./datasets/minisubset02_annotated/Adaljiza_Magno/images/Deputy_Secretary_Sherman_Meets_With_Timor-Leste_Foreign_Minister_Adaljiza_Albertina_Xavier_Reis_Magno_(52362658161).jpg"
+    },
+    {
+        "name": "Adaljiza Albertina Xavier Reis Magno",
+        "birthday": "7 January 1975",
+        "year_of_photo": "Now()",
+        "year_of_photo_int": 2022,
+        "can_determine": true,
+        "caption": "Magno in 2022",
+        "path": "./datasets/minisubset02_annotated/Adaljiza_Magno/title_images/2022-04-29_Adalj\u00edza_Magno.jpg"
+    }
+]

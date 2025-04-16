@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Pedro Miguel de Santana Lopes",
+        "birthday": "June 29, 1956",
+        "year_of_photo": "2005",
+        "year_of_photo_int": 2005,
+        "can_determine": true,
+        "caption": "Santana Lopes in 2005",
+        "path": "./datasets/minisubset04_annotated/Pedro_Santana_Lopes/title_images/Pedro_Santana_Lopes_01.jpg"
+    }
+]

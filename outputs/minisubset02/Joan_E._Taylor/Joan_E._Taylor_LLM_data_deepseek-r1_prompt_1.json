@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Joan Taylor",
+        "birthday": "13 September 1958",
+        "year_of_photo": "Now()",
+        "year_of_photo_int": 2024,
+        "can_determine": true,
+        "caption": "Joan Taylor in 2024",
+        "path": "./datasets/minisubset02_annotated/Joan_E._Taylor/images/Joan_Taylor_2024.jpg"
+    }
+]

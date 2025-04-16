@@ -1,0 +1,19 @@
+[
+    {
+        "path": "./minisubset02/Dick_Such/title_images/Dick_Such_1987.jpg",
+        "person_id": 79,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "15",
+        "birth_month": "10",
+        "birth_year": "1944",
+        "estimated_year_creation_left": "1987",
+        "estimated_year_creation_right": "1987",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": null
+    }
+]

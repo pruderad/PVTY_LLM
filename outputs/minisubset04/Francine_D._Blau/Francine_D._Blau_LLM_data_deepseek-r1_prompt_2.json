@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Francine Dee Blau",
+        "birthday": "August 29, 1946",
+        "year_of_photo": "2017",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Francine_D._Blau/title_images/FranBlau2016.jpg"
+    }
+]

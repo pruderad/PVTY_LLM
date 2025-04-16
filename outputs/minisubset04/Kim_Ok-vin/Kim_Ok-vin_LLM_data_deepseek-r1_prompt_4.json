@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Kim Ok-vin",
+        "birthday": "3 January 1987",
+        "year_of_photo": "November 2009",
+        "year_of_photo_int": 2009,
+        "can_determine": false,
+        "caption": "upright|Kim in November 2009",
+        "path": "./datasets/minisubset04_annotated/Kim_Ok-vin/images/Kim_Ok-bin_on_6_November_2009_02.jpg"
+    },
+    {
+        "name": "Kim Ok-vin",
+        "birthday": "3 January 1987",
+        "year_of_photo": "May 2017",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": "upright|Kim in May 2017",
+        "path": "./datasets/minisubset04_annotated/Kim_Ok-vin/images/170530_\uc601\ud654_'\uc545\ub140'_\uc5b8\ub860\uc2dc\uc0ac\ud68c_\uae40\uc625\ube48.jpg"
+    },
+    {
+        "name": "Kim Ok-vin",
+        "birthday": "3 January 1987",
+        "year_of_photo": "February 2023",
+        "year_of_photo_int": 2023,
+        "can_determine": false,
+        "caption": "Kim in February 2023",
+        "path": "./datasets/minisubset04_annotated/Kim_Ok-vin/title_images/230208_Kim_Ok-vin_(\uae40\uc625\ube48).jpg"
+    }
+]

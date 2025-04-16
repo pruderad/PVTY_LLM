@@ -1,0 +1,42 @@
+[
+    {
+        "path": "./minisubset02/David_Hernandez_(baseball)/images/Hernandezwin.jpg",
+        "person_id": 102,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "13",
+        "birth_month": "5",
+        "birth_year": "1985",
+        "estimated_year_creation_left": "2011",
+        "estimated_year_creation_right": "2015",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            1978,
+            1626
+        ]
+    },
+    {
+        "path": "./minisubset02/David_Hernandez_(baseball)/title_images/David_Hernandez_on_July_16,_2016_(1).jpg",
+        "person_id": 102,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "13",
+        "birth_month": "5",
+        "birth_year": "1985",
+        "estimated_year_creation_left": "2016",
+        "estimated_year_creation_right": "2016",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            1978,
+            1626
+        ]
+    }
+]

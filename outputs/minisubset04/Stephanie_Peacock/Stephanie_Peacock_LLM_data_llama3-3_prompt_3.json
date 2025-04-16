@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Stephanie Louise Peacock",
+        "birthday": "None",
+        "year_of_photo": "2024",
+        "year_of_photo_int": 2024,
+        "can_determine": false,
+        "caption": "Official portrait, 2024",
+        "path": "./datasets/minisubset04_annotated/Stephanie_Peacock/title_images/Official_portrait_of_Stephanie_Peacock_MP_crop_2,_2024.jpg"
+    }
+]

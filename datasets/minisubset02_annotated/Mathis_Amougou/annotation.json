@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Mathis_Amougou/title_images/Mathis_Amougou_asse_losc_2425.jpg",
+        "person_id": 109,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "18",
+        "birth_month": "1",
+        "birth_year": "2006",
+        "estimated_year_creation_left": "2024",
+        "estimated_year_creation_right": "2024",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            939,
+            435
+        ]
+    }
+]

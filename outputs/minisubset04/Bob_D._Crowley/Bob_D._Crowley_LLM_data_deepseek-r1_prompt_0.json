@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Bob D. Crowley",
+        "birthday": "1947-07-31",
+        "year_of_photo": "2004",
+        "year_of_photo_int": 2004,
+        "can_determine": true,
+        "caption": "Bob D. Crowley",
+        "path": "./datasets/minisubset04_annotated/Bob_D._Crowley/images/Bob_D._Crowley.jpg"
+    }
+]

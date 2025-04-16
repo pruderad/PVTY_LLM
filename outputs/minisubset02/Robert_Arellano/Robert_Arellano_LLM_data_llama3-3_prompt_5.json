@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Robert Arellano",
+        "birthday": "July 12, 1969",
+        "year_of_photo": "null",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Arellano, live on [[KLDK]]",
+        "path": "./datasets/minisubset02_annotated/Robert_Arellano/title_images/Robert_Arellano_live_on_KLDK.jpg"
+    }
+]

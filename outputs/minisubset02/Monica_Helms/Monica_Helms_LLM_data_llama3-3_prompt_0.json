@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Monica F. Helms",
+        "birthday": "8 March 1951",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "Monica Helms on June 26, 2015",
+        "path": "./datasets/minisubset02_annotated/Monica_Helms/title_images/Monica_Helms_at_San_Francisco_Trans_March_2015.jpg"
+    }
+]

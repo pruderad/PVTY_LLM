@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Jessica_Alexander/title_images/Jessica_alexander_2022_1.png",
+        "person_id": 58,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "19",
+        "birth_month": "6",
+        "birth_year": "1999",
+        "estimated_year_creation_left": "2022",
+        "estimated_year_creation_right": "2022",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            531,
+            761
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Anup Rubens",
+        "birthday": "1983",
+        "year_of_photo": "N/A",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Rubens in December 2017",
+        "path": "./datasets/minisubset02_annotated/Anup_Rubens/title_images/Anup_Rubens.jpg"
+    }
+]

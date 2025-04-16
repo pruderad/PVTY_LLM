@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Pedro Brolo Vila",
+        "birthday": "3 February 1981",
+        "year_of_photo": "Not specified",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Brolo in 2020",
+        "path": "./datasets/minisubset04_annotated/Pedro_Brolo/title_images/Pedro_Brolo_(17-9-2020)_(cropped).jpg"
+    }
+]

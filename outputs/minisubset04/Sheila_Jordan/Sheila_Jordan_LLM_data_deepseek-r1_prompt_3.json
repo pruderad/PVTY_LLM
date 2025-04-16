@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Sheila Jeanette Jordan",
+        "birthday": "November 18, 1928",
+        "year_of_photo": "1985",
+        "year_of_photo_int": 1985,
+        "can_determine": true,
+        "caption": "left|Sheila Jordan in 1985",
+        "path": "./datasets/minisubset04_annotated/Sheila_Jordan/images/Sheila_Jordan_in_1985.jpg"
+    },
+    {
+        "name": "Sheila Jeanette Jordan",
+        "birthday": "November 18, 1928",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Sheila_Jordan/title_images/Sheila_Jordan.jpg"
+    }
+]

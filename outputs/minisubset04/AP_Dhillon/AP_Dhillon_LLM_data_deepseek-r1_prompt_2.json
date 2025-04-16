@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Amritpal Singh Dhillon",
+        "birthday": "1993-01-10",
+        "year_of_photo": "2021",
+        "year_of_photo_int": 2021,
+        "can_determine": true,
+        "caption": "Dhillon in 2021",
+        "path": "./datasets/minisubset04_annotated/AP_Dhillon/title_images/AP_Dhillon_CA.jpg"
+    }
+]

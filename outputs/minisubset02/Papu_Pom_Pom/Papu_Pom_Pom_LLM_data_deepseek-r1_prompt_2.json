@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Papu Pom Pom",
+        "birthday": "1981-05-16",
+        "year_of_photo": "2011",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": "Papu Pam Pam performing standup comedy during Ganesha Puja in Bangalore in 2011",
+        "path": "./datasets/minisubset02_annotated/Papu_Pom_Pom/images/Papu_Pam_pam_Bengaluru_Odia_Ganesa_Puja1.JPG"
+    },
+    {
+        "name": "Papu Pom Pom",
+        "birthday": "1984-05-16",
+        "year_of_photo": "2011",
+        "year_of_photo_int": 2011,
+        "can_determine": false,
+        "caption": "Papu Pom Pom performing stand-up comedy during State Film Awards 2014 at Utkal Mandap, Bhubaneswar, Odisha",
+        "path": "./datasets/minisubset02_annotated/Papu_Pom_Pom/images/Papu_Pom_Pom.JPG"
+    },
+    {
+        "name": "Papu Pom Pom",
+        "birthday": "1974-05-16",
+        "year_of_photo": "2011",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Papu_Pom_Pom/title_images/Papu_pom_pom.jpg"
+    }
+]

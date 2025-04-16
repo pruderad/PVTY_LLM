@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Michael Walter Fitzgerald",
+        "birthday": "July 11, 1959",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Michael_W._Fitzgerald/title_images/Judge_Michael_W._Fitzgerald.jpg"
+    }
+]

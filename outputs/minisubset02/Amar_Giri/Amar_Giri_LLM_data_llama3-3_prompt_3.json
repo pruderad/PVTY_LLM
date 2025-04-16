@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Amar Giri",
+        "birthday": "September 11, 1960",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Amar_Giri/title_images/Amargiri.jpg"
+    }
+]

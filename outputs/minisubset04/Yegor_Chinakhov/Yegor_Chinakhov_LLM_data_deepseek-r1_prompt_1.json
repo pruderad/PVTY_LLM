@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Yegor Chinakhov",
+        "birthday": "2001-02-01",
+        "year_of_photo": "My caption says 2024.",
+        "year_of_photo_int": 2024,
+        "can_determine": true,
+        "caption": "Chinakhov (right) battling with Oliver Bjorkstrand of the Seattle Kraken in 2024.",
+        "path": "./datasets/minisubset04_annotated/Yegor_Chinakhov/images/Columbus_Blue_Jackets_at_Seattle_Kraken_-_2024-01-28_-_Oliver_Bjorkstrand,_Jake_Bean_and_Yegor_Chinakhov_(53503148653).jpg"
+    },
+    {
+        "name": "Yegor Chinakhov",
+        "birthday": "2001-02-01",
+        "year_of_photo": "Now",
+        "year_of_photo_int": 2021,
+        "can_determine": true,
+        "caption": "Chinakhov in 2021",
+        "path": "./datasets/minisubset04_annotated/Yegor_Chinakhov/title_images/Yegor_Chinakhov,_May_2021.jpg"
+    }
+]

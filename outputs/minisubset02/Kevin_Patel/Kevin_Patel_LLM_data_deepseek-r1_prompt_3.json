@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Kevin J. Patel",
+        "birthday": "September 23, 2000",
+        "year_of_photo": "2021",
+        "year_of_photo_int": 2021,
+        "can_determine": true,
+        "caption": "Patel in 2021",
+        "path": "./datasets/minisubset02_annotated/Kevin_Patel/title_images/Kevin_J._Patel,_2021_(cropped).jpg"
+    }
+]

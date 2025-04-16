@@ -1,0 +1,11 @@
+[
+    {
+        "name": "\u00c9ric Winogradsky",
+        "birthday": "22 April 1966",
+        "year_of_photo": "Photo taken in 1990.",
+        "year_of_photo_int": 1990,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/\u00c9ric_Winogradsky/title_images/\u00c9ric_Winogradsky.JPG"
+    }
+]

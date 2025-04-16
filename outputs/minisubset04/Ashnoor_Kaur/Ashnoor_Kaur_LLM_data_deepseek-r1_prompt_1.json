@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ashnoor Kaur",
+        "birthday": "2004-05-03",
+        "year_of_photo": "Not Available",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Kaur during an interview in 2019",
+        "path": "./datasets/minisubset04_annotated/Ashnoor_Kaur/images/Ashnoor_Kaur.jpg"
+    },
+    {
+        "name": "Ashnoor Kaur",
+        "birthday": "3 May 2004",
+        "year_of_photo": "Not specified",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Kaur in 2023",
+        "path": "./datasets/minisubset04_annotated/Ashnoor_Kaur/title_images/Ashnoor_Kaur_at_Boogle_Bollywood_Ballistic_Awards_2023_(cropped_2).jpg"
+    }
+]

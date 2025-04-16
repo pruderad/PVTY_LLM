@@ -1,0 +1,19 @@
+[
+    {
+        "path": "./minisubset02/Henri_Duez/title_images/Henri_Duez_1960.jpg",
+        "person_id": 201,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1937",
+        "estimated_year_creation_left": "1960",
+        "estimated_year_creation_right": "1960",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": null
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ger Duany",
+        "birthday": "None",
+        "year_of_photo": "2022",
+        "year_of_photo_int": 2022,
+        "can_determine": false,
+        "caption": "Duany in 2022",
+        "path": "./datasets/minisubset02_annotated/Ger_Duany/title_images/Ger_Duany_1.jpg"
+    }
+]

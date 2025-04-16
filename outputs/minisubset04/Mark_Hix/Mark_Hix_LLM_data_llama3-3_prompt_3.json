@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Mark Ernest Hix",
+        "birthday": "None",
+        "year_of_photo": "2021 or later",
+        "year_of_photo_int": 2021,
+        "can_determine": false,
+        "caption": "left|Hix Oyster And Chop House in Smithfield",
+        "path": "./datasets/minisubset04_annotated/Mark_Hix/images/Hix_Oyster_and_Chop_House_in_2009.jpg"
+    }
+]

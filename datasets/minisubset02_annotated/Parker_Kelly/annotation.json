@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Parker_Kelly/title_images/Ottawa_Senators_at_Seattle_Kraken_-_2024-01-04_-_Parker_Kelly_and_Jared_McCann_(53450732442).jpg",
+        "person_id": 136,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1999",
+        "estimated_year_creation_left": "2024",
+        "estimated_year_creation_right": "2024",
+        "annotation_shortcommings": "Bounding box cannot be clicked.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            2350,
+            625
+        ]
+    }
+]

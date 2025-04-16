@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Benjamin Herman",
+        "birthday": "9 May 1968",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Benjamin_Herman/title_images/Benjamin_Herman_02.jpg"
+    }
+]

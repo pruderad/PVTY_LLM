@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Nikolas_Ioannou/title_images/Nicholas_Ioannou_2021.jpg",
+        "person_id": 127,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "10",
+        "birth_month": "11",
+        "birth_year": "1995",
+        "estimated_year_creation_left": "2021",
+        "estimated_year_creation_right": "2021",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            271,
+            178
+        ]
+    }
+]

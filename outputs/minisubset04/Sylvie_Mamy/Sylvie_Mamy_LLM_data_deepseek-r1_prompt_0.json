@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sylvie Mamy",
+        "birthday": "1948-05-03",
+        "year_of_photo": "1984",
+        "year_of_photo_int": 1984,
+        "can_determine": true,
+        "caption": "{{center|Sylvie Mamy}}",
+        "path": "./datasets/minisubset04_annotated/Sylvie_Mamy/images/Photo_Sylvie_Mamy.jpg"
+    }
+]

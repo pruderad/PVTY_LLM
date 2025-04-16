@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Saad Abdul-Amir Luaibi Al-Zirjawi",
+        "birthday": "19 January 1992",
+        "year_of_photo": "2016",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": "Saad with Iraq at the 2016 Summer Olympics",
+        "path": "./datasets/minisubset02_annotated/Saad_Abdul-Amir/title_images/Saad_Abdul-Amir_(cropped).jpg"
+    }
+]

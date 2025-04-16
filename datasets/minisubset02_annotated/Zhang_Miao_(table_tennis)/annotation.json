@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Zhang_Miao_(table_tennis)/title_images/Zhang_Miao_Slovenia_Open_2011_3.jpeg",
+        "person_id": 126,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "8",
+        "birth_month": "7",
+        "birth_year": "1991",
+        "estimated_year_creation_left": "2011",
+        "estimated_year_creation_right": "2011",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1,
+        "face_pixel_coordinates": [
+            1117,
+            662
+        ]
+    }
+]

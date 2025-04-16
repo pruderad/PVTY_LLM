@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Svetlana Broz",
+        "birthday": "1955-07-07",
+        "year_of_photo": "Not Available",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Broz in 2012",
+        "path": "./datasets/minisubset04_annotated/Svetlana_Broz/title_images/Svetlana_Broz_(cropped).jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Andreas Xanthos",
+        "birthday": "1968-01-01",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Andreas_Xanthos/title_images/Informal_meeting_of_health_ministers_(iEPSCO)._Arrivals_Andreas_Xanthos_(35872065702)_(cropped).jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jane Visvader",
+        "birthday": "1957-01-15",
+        "year_of_photo": "2005",
+        "year_of_photo_int": 2005,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Jane_Visvader/title_images/Jane_Visvader.jpg"
+    }
+]

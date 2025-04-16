@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Dana Andrew DeMuth",
+        "birthday": "May 30, 1956",
+        "year_of_photo": "SomeYear",
+        "year_of_photo_int": 2008,
+        "can_determine": true,
+        "caption": "DeMuth in 2008",
+        "path": "./datasets/minisubset02_annotated/Dana_DeMuth/title_images/Dana_DeMuth_2008.jpg"
+    }
+]

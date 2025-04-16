@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sir Ian McCartney",
+        "birthday": "1951-04-25",
+        "year_of_photo": "Now()",
+        "year_of_photo_int": 2006,
+        "can_determine": true,
+        "caption": "McCartney in 2006",
+        "path": "./datasets/minisubset02_annotated/Ian_McCartney/title_images/Minister_of_State_for_Trade,_UK,_Mr._Ian_McCartney,_in_New_Delhi_on_November_27,_2006_(cropped).jpg"
+    }
+]

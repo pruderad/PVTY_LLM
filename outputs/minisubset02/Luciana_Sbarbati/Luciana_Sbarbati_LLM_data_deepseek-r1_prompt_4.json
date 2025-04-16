@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Luciana Sbarbati",
+        "birthday": "10 May 1946",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Luciana_Sbarbati/title_images/Luciana_Sbarbati.jpg"
+    }
+]

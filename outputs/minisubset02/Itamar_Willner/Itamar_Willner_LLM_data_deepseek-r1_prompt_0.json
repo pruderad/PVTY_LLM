@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Itamar Willner",
+        "birthday": "1947-05-10",
+        "year_of_photo": "1986",
+        "year_of_photo_int": 1986,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Itamar_Willner/title_images/Itamar_vilner.jpg"
+    }
+]

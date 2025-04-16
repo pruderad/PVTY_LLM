@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Zsolt Bayer",
+        "birthday": "1963-02-26",
+        "year_of_photo": "Not Available",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Bayer at the 2022 Conservative Political Action Conference in Hungary.",
+        "path": "./datasets/minisubset02_annotated/Zsolt_Bayer/images/BAYER_Zsolt_-_CPAC_Hungary_2022_(3).jpg"
+    },
+    {
+        "name": "Zsolt Bayer",
+        "birthday": "1963-02-26",
+        "year_of_photo": "Now()",
+        "year_of_photo_int": 2022,
+        "can_determine": true,
+        "caption": "Zsolt Bayer in 2022",
+        "path": "./datasets/minisubset02_annotated/Zsolt_Bayer/title_images/Bayer_Zsolt.jpg"
+    }
+]

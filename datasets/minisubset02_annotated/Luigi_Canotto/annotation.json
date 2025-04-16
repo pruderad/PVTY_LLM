@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Luigi_Canotto/title_images/Frosinone_Calcio_-_Luigi_Canotto_ANF_1076_cut_AF.jpg",
+        "person_id": 3,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "19",
+        "birth_month": "5",
+        "birth_year": "1994",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Image has no caption\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            762,
+            455
+        ]
+    }
+]

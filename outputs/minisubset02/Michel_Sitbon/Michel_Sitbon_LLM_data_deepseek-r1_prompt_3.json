@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Michel Sitbon",
+        "birthday": "1959-01-01",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Michel Sitbon",
+        "path": "./datasets/minisubset02_annotated/Michel_Sitbon/images/Michel_Sitbon.jpg"
+    }
+]

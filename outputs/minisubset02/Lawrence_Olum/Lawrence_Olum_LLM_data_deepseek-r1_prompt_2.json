@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Lawrence Olum",
+        "birthday": "10 July 1984",
+        "year_of_photo": "2011",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Lawrence_Olum/title_images/Lawrence_Olum_Timbers_(cropped).jpg"
+    }
+]

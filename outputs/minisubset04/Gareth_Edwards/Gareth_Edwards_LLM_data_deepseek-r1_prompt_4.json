@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Sir Gareth Owen Edwards",
+        "birthday": "12 July 1947",
+        "year_of_photo": "2007",
+        "year_of_photo_int": 2007,
+        "can_determine": true,
+        "caption": "upright|left|Image of Edwards on a wall at Cardiff Arms Park, 2007",
+        "path": "./datasets/minisubset04_annotated/Gareth_Edwards/images/Painting_at_Cardiff_Arms_Park_2008.jpg"
+    },
+    {
+        "name": "Sir Gareth Owen Edwards",
+        "birthday": "12 July 1947",
+        "year_of_photo": "unknown",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "upright|The sculpture of Gareth Edwards in St David's Centre",
+        "path": "./datasets/minisubset04_annotated/Gareth_Edwards/images/Sculpture_of_rugby_union_player_Gareth_Edwards.jpg"
+    },
+    {
+        "name": "Sir Gareth Owen Edwards",
+        "birthday": "12 July 1947",
+        "year_of_photo": "2009",
+        "year_of_photo_int": 2009,
+        "can_determine": true,
+        "caption": "Edwards in 2009",
+        "path": "./datasets/minisubset04_annotated/Gareth_Edwards/title_images/Gareth_Edwards.jpg"
+    }
+]

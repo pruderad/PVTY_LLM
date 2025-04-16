@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Luigi Canotto",
+        "birthday": "1994-05-19",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Luigi_Canotto/title_images/Frosinone_Calcio_-_Luigi_Canotto_ANF_1076_cut_AF.jpg"
+    }
+]

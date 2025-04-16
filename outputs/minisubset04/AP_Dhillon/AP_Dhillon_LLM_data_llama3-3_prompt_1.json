@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Amritpal Singh 'AP' Dhillon",
+        "birthday": "Some time in 1993 (exact date not specified)",
+        "year_of_photo": "2021",
+        "year_of_photo_int": 2021,
+        "can_determine": true,
+        "caption": "Dhillon in 2021",
+        "path": "./datasets/minisubset04_annotated/AP_Dhillon/title_images/AP_Dhillon_CA.jpg"
+    }
+]

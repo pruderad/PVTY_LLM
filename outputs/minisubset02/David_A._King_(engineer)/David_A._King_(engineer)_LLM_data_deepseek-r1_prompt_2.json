@@ -1,0 +1,11 @@
+[
+    {
+        "name": "David A. King",
+        "birthday": "March 20, 1958",
+        "year_of_photo": "1995",
+        "year_of_photo_int": 1995,
+        "can_determine": true,
+        "caption": "Official NASA portrait of David A. King",
+        "path": "./datasets/minisubset02_annotated/David_A._King_(engineer)/title_images/DavidAKing.jpg"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Channing Thomas Frye",
+        "birthday": "May 17, 1983",
+        "year_of_photo": "Hmm, looking at the caption 'Frye in 2008', it seems straightforward. The photo was taken in 2008.",
+        "year_of_photo_int": 2008,
+        "can_determine": true,
+        "caption": "upright=0.7|left|Frye in 2008",
+        "path": "./datasets/minisubset02_annotated/Channing_Frye/images/Channing_Frye2.jpg"
+    },
+    {
+        "name": "Channing Frye",
+        "birthday": "May 17, 1983",
+        "year_of_photo": "SomeYear",
+        "year_of_photo_int": 2008,
+        "can_determine": true,
+        "caption": "Frye (far right) with the Portland Trail Blazers in December 2008",
+        "path": "./datasets/minisubset02_annotated/Channing_Frye/images/Portland_Trail_Blazers_crop.jpg"
+    },
+    {
+        "name": "Channing Frye",
+        "birthday": "May 17, 1983",
+        "year_of_photo": "Cleveland Cavaliers in February 2017",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": "right|Frye as a member of the Cleveland Cavaliers in February 2017",
+        "path": "./datasets/minisubset02_annotated/Channing_Frye/images/Channing_Frye_attacking_the_basket_(15_February_2017).jpg"
+    },
+    {
+        "name": "Channing Frye",
+        "birthday": "May 17, 1983",
+        "year_of_photo": "Cleveland Cavaliers in 2019",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Frye with the Cleveland Cavaliers in 2019",
+        "path": "./datasets/minisubset02_annotated/Channing_Frye/title_images/Channing_Frye_(32651781277)_(cropped).jpg"
+    }
+]

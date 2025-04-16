@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Eric B. Schoomaker",
+        "birthday": "September 15, 1948",
+        "year_of_photo": "null",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Lieutenant General Eric B. Schoomaker",
+        "path": "./datasets/minisubset04_annotated/Eric_Schoomaker/title_images/LTG_Eric_Schoomaker.jpg"
+    }
+]

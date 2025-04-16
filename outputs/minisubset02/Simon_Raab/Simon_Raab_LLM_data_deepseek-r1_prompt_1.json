@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Simon Raab",
+        "birthday": "1952-01-01",
+        "year_of_photo": "Some Year",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": "Parleau Sculpture \"Complexification\" (2011) by Simon Raab",
+        "path": "./datasets/minisubset02_annotated/Simon_Raab/images/Parleau_Sculpture_\"Complexification\"_2011_by_Simon_Raab.jpg"
+    },
+    {
+        "name": "Simon Raab",
+        "birthday": "1952-01-01",
+        "year_of_photo": "2012",
+        "year_of_photo_int": 2012,
+        "can_determine": true,
+        "caption": "Parleau Wall Work \"Andy Boom\" (2012) by Simon Raab",
+        "path": "./datasets/minisubset02_annotated/Simon_Raab/images/Parleau_\"Andy_Boom\"_(2012)_by_Artist_Simon_Raab.jpg"
+    },
+    {
+        "name": "Simon Raab",
+        "birthday": "1952-01-01",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Simon_Raab/title_images/Artist_Simon_Raab_Holding_Grenades.jpg"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "path": "./minisubset02/Roberto_Carlos_Cort\u00e9s/title_images/Roberto_Carlos_Cort\u00e9s.jpg",
+        "person_id": 19,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "20",
+        "birth_month": "6",
+        "birth_year": "1977",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Image has no caption\n\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": null
+    }
+]

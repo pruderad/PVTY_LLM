@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Parker Kelly",
+        "birthday": "May 14, 1999",
+        "year_of_photo": "2024",
+        "year_of_photo_int": 2024,
+        "can_determine": true,
+        "caption": "Kelly (right) with the [[Ottawa Senators]], alongside [[Jared McCann]] in 2024",
+        "path": "./datasets/minisubset02_annotated/Parker_Kelly/title_images/Ottawa_Senators_at_Seattle_Kraken_-_2024-01-04_-_Parker_Kelly_and_Jared_McCann_(53450732442).jpg"
+    }
+]

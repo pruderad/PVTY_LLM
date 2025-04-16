@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jessica Caroline Alexander",
+        "birthday": "19 June 1999",
+        "year_of_photo": "N/A",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Alexander in 2022",
+        "path": "./datasets/minisubset02_annotated/Jessica_Alexander/title_images/Jessica_alexander_2022_1.png"
+    }
+]

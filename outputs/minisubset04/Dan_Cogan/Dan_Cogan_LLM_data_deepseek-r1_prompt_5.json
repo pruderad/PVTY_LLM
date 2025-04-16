@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Dan Cogan",
+        "birthday": "1960-01-27",
+        "year_of_photo": "2025",
+        "year_of_photo_int": 2025,
+        "can_determine": true,
+        "caption": "Cogan at the [[2025 Sundance Film Festival]]",
+        "path": "./datasets/minisubset04_annotated/Dan_Cogan/title_images/Dan_Cogan_at_the_2025_Sundance_Film_Festival_(cropped).jpg"
+    }
+]

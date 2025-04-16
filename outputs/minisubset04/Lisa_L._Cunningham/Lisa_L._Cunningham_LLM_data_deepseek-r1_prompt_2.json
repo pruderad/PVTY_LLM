@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Lisa Lynn Cunningham",
+        "birthday": "1965-01-01",
+        "year_of_photo": "2008",
+        "year_of_photo_int": 2008,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Lisa_L._Cunningham/title_images/Lisa_L._Cunningham.jpg"
+    }
+]

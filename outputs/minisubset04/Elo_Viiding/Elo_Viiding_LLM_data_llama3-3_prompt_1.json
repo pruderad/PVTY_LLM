@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Elo Viiding",
+        "birthday": "1974-03-20",
+        "year_of_photo": "2010",
+        "year_of_photo_int": 2010,
+        "can_determine": true,
+        "caption": "Elo Viiding in 2010",
+        "path": "./datasets/minisubset04_annotated/Elo_Viiding/title_images/Viiding_Elo.IMG_3443.JPG"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Luka Krajnc",
+        "birthday": "1994-09-19",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "Krajnc in 2015",
+        "path": "./datasets/minisubset04_annotated/Luka_Krajnc/title_images/Luka_Krajnc_2015.jpg"
+    }
+]

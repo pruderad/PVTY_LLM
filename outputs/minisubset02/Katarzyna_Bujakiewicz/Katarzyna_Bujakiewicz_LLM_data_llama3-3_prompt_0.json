@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Katarzyna Bujakiewicz",
+        "birthday": "28 September 1972",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Katarzyna_Bujakiewicz/title_images/Kasia_Bujakiewicz_2.jpg"
+    }
+]

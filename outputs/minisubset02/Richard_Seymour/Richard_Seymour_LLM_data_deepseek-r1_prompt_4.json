@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Richard Vershaun Seymour",
+        "birthday": "October 6, 1979",
+        "year_of_photo": ">=2010",
+        "year_of_photo_int": 2010,
+        "can_determine": false,
+        "caption": "Seymour with the Oakland Raiders in 2010",
+        "path": "./datasets/minisubset02_annotated/Richard_Seymour/title_images/Richard_Seymour.JPG"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Julia Bishop",
+        "birthday": "None",
+        "year_of_photo": "She was a member of The English Concert for six years, and has toured the world with most of the UK's leading period instrument orchestras.",
+        "year_of_photo_int": 2015,
+        "can_determine": false,
+        "caption": "Red Priest (2015)",
+        "path": "./datasets/minisubset04_annotated/Julia_Bishop/images/Red_Priest_(ZMF_2015)_IMGP1568.jpg"
+    }
+]

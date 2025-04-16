@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Tim Stearns",
+        "birthday": "1961",
+        "year_of_photo": "N/A",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Stearns in 2021",
+        "path": "./datasets/minisubset04_annotated/Tim_Stearns/title_images/Stearns21.jpg"
+    }
+]

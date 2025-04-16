@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Carlos Evaristo",
+        "birthday": "",
+        "year_of_photo": "",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Carlos Evaristo",
+        "path": "./datasets/minisubset02_annotated/Carlos_Evaristo/images/Carlos_Evaristo_1.jpg"
+    },
+    {
+        "name": "Carlos Evaristo",
+        "birthday": "1935-10-25",
+        "year_of_photo": "1990",
+        "year_of_photo_int": 1990,
+        "can_determine": true,
+        "caption": "Musical Performer Carlos Evaristo rehearsing backstage at the piano with Brazilian Singer Nilton Cesar before performing for the opening of the 50th Anniversary Concert of Amalia Rodrigues, Royal Thompson Hall, Toronto,Ontario, Canada 1990.",
+        "path": "./datasets/minisubset02_annotated/Carlos_Evaristo/images/Carlos_Evaristo_with_singer_Nilton_Cesar.jpg"
+    },
+    {
+        "name": "Carlos Evaristo",
+        "birthday": "1965-01-25",
+        "year_of_photo": "2020",
+        "year_of_photo_int": 2020,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Carlos_Evaristo/title_images/Carlos_Evaristo_Escutcheon.png"
+    }
+]

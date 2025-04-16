@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Neill Byrne",
+        "birthday": "2 February 1993",
+        "year_of_photo": "unknown",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Neill Byrne, Stockport County FC",
+        "path": "./datasets/minisubset04_annotated/Neill_Byrne/title_images/Byrne-01.jpg"
+    }
+]

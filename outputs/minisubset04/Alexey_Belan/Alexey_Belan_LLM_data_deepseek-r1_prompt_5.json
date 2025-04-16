@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Alexey Alexeevich Belan",
+        "birthday": "June 27, 1987",
+        "year_of_photo": "2012-2013",
+        "year_of_photo_int": 2012,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Alexey_Belan/title_images/Alexey_Belan.png"
+    }
+]

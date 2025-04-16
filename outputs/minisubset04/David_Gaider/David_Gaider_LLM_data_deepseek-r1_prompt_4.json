@@ -1,0 +1,11 @@
+[
+    {
+        "name": "David Gaider",
+        "birthday": "None",
+        "year_of_photo": "None",
+        "year_of_photo_int": 2023,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/David_Gaider/title_images/David-Gaider-SummerfallStudios_copy.jpg"
+    }
+]

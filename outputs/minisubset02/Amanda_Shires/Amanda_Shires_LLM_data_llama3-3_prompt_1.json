@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Amanda Shires",
+        "birthday": "March 5, 1982",
+        "year_of_photo": "2016",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": "left|200px|Shires performing in 2016",
+        "path": "./datasets/minisubset02_annotated/Amanda_Shires/images/Amanda_Shires_2016.jpg"
+    }
+]

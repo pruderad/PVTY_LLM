@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Andrzej Marek Sado\u015b",
+        "birthday": "17 March 1972",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Andrzej_Sado\u015b/title_images/Andrzej_Sado\u015b.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Louis Billera",
+        "birthday": "1942-01-10",
+        "year_of_photo": "1998",
+        "year_of_photo_int": 1998,
+        "can_determine": true,
+        "caption": "Louis Billera",
+        "path": "./datasets/minisubset02_annotated/Louis_Billera/images/Louis_Billera.jpg"
+    }
+]

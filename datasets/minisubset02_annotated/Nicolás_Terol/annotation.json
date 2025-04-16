@@ -1,0 +1,19 @@
+[
+    {
+        "path": "./minisubset02/Nicol\u00e1s_Terol/title_images/Nicolas_Terol_2011_Brno_1.jpg",
+        "person_id": 93,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "27",
+        "birth_month": "9",
+        "birth_year": "1988",
+        "estimated_year_creation_left": "2011",
+        "estimated_year_creation_right": "2011",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": null
+    }
+]

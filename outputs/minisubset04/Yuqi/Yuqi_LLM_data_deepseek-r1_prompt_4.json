@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Yuqi",
+        "birthday": "September 23, 1999",
+        "year_of_photo": "N/A",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "upright=1|left|Yuqi in 2018",
+        "path": "./datasets/minisubset04_annotated/Yuqi/images/6\uc6d4_2\uc77c_(\uc5ec\uc790)\uc544\uc774\ub4e4_\ud32c\uc0ac\uc778\ud68c_(6)_(cropped).jpg"
+    },
+    {
+        "name": "Song Yuqi",
+        "birthday": "September 23, 1999",
+        "year_of_photo": "One|2021",
+        "year_of_photo_int": 2021,
+        "can_determine": true,
+        "caption": "upright=1|right|Yuqi in 2021",
+        "path": "./datasets/minisubset04_annotated/Yuqi/images/20210113\u2014Song_Yuqi_\uc1a1\uc6b0\uae30_interview,_Marie_Claire_Korea_screenshot.jpg"
+    },
+    {
+        "name": "Song Yuqi",
+        "birthday": "September 23, 1999",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "Yuqi in 2023",
+        "path": "./datasets/minisubset04_annotated/Yuqi/title_images/20230630_Song_Yu-qi.jpg"
+    }
+]

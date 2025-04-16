@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Daniel_Cherniavsky/title_images/Foto2Daniel2.jpg",
+        "person_id": 42,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1933",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Image has no caption.\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            128,
+            276
+        ]
+    }
+]

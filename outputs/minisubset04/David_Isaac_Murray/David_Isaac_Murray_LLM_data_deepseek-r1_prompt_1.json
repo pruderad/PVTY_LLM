@@ -1,0 +1,11 @@
+[
+    {
+        "name": "David Isaac Murray",
+        "birthday": "1983-08-27",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/David_Isaac_Murray/title_images/David_Isaac_Murray.jpg"
+    }
+]

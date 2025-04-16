@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Haricharan Seshadri",
+        "birthday": "20 March 1987",
+        "year_of_photo": "2010",
+        "year_of_photo_int": 2010,
+        "can_determine": true,
+        "caption": "Haricharan performing at an event",
+        "path": "./datasets/minisubset04_annotated/Haricharan/title_images/Haricharan_Stage.JPG"
+    }
+]

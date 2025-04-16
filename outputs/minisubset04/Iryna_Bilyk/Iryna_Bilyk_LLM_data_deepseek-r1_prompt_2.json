@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Iryna Bilyk",
+        "birthday": "6 April 1970",
+        "year_of_photo": "2008",
+        "year_of_photo_int": 2008,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Iryna_Bilyk/title_images/Iryna_Bilyk_at_Laima_Rendez_Vous_Jurmala_2017_(cropped).jpg"
+    }
+]

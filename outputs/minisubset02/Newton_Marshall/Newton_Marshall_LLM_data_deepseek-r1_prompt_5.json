@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Newton Marshall",
+        "birthday": "2 March 1983",
+        "year_of_photo": "2013",
+        "year_of_photo_int": 2013,
+        "can_determine": true,
+        "caption": "right|300px|Newton Marshall in the Yukon Quest race",
+        "path": "./datasets/minisubset02_annotated/Newton_Marshall/images/Dogsledding.Yukon.jpg"
+    }
+]

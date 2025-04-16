@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Robert \"Rob\" Schamberger",
+        "birthday": "1974-01-31",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "right|''Meet Me There'' film poster with artwork from Schamberger",
+        "path": "./datasets/minisubset04_annotated/Rob_Schamberger/images/Meet_Me_There_theaterical_poster.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ziadin Sela",
+        "birthday": "1 November 1972",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Ziadin_Sela/title_images/Ziadin_Sela.jpg"
+    }
+]

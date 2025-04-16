@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jens Scheuer",
+        "birthday": "12 October 1978",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Jens_Scheuer/title_images/Jens_Scheuer_20180224_6995.jpg"
+    }
+]

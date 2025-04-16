@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sir Robert James MacGillivray Neill",
+        "birthday": "24 June 1952",
+        "year_of_photo": "2020",
+        "year_of_photo_int": 2020,
+        "can_determine": true,
+        "caption": "Official portrait, 2020",
+        "path": "./datasets/minisubset02_annotated/Bob_Neill/title_images/Official_portrait_of_Sir_Robert_Neill_MP_crop_2.jpg"
+    }
+]

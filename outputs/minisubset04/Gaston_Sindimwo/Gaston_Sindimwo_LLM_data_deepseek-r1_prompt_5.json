@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Gaston Sindimwo",
+        "birthday": "1965",
+        "year_of_photo": "2020",
+        "year_of_photo_int": 2020,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Gaston_Sindimwo/title_images/Gaston_Sindimwo.jpg"
+    }
+]

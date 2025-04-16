@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Lionel Cappone",
+        "birthday": "February 8, 1979",
+        "year_of_photo": "2003",
+        "year_of_photo_int": 2003,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Lionel_Cappone/title_images/Lionel_Cappone_3.jpg"
+    }
+]

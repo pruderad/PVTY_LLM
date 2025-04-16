@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Steven Peter \"Zed\" Roberton",
+        "birthday": "1968",
+        "year_of_photo": "2006-2010",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "left|upright=1.35|Roberton led the RAAF's transition from the F-111C (left) to the F/A-18F (right) from 2006 to 2010.",
+        "path": "./datasets/minisubset04_annotated/Steve_Roberton/images/F-111_F-A-18F.jpg"
+    },
+    {
+        "name": "Steven Peter Roberton",
+        "birthday": "1968",
+        "year_of_photo": "2017",
+        "year_of_photo_int": 2017,
+        "can_determine": false,
+        "caption": "Roberton in 2017",
+        "path": "./datasets/minisubset04_annotated/Steve_Roberton/title_images/AVM_Steve_Roberton_2017_cropped.jpg"
+    }
+]

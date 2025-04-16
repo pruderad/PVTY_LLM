@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Josh Matlow",
+        "birthday": "November 27, 1975",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "Matlow in 2023",
+        "path": "./datasets/minisubset04_annotated/Josh_Matlow/title_images/Josh_Matlow_Election_night_party_speech_(53547460423).jpg"
+    }
+]

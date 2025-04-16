@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Guillaume Cailleau",
+        "birthday": "15 February 1978",
+        "year_of_photo": "2011",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Guillaume_Cailleau/title_images/MKr354503_Guillaume_Cailleau_(Bester_Film,_Encounters,_Berlinale_2024).jpg"
+    }
+]

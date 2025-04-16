@@ -1,0 +1,62 @@
+[
+    {
+        "path": "./minisubset02/Carlos_Evaristo/images/Carlos_Evaristo_1.jpg",
+        "person_id": 185,
+        "fully_annotated": false,
+        "birthday_annotated": false,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "date of birth and date of image creation unknown\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            244,
+            94
+        ]
+    },
+    {
+        "path": "./minisubset02/Carlos_Evaristo/images/Carlos_Evaristo_with_singer_Nilton_Cesar.jpg",
+        "person_id": 185,
+        "fully_annotated": false,
+        "birthday_annotated": false,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "",
+        "estimated_year_creation_left": "1990",
+        "estimated_year_creation_right": "1990",
+        "annotation_shortcommings": "Date of birth unknown.\n\n",
+        "bounding_box_index": 1,
+        "face_pixel_coordinates": [
+            424,
+            296
+        ]
+    },
+    {
+        "path": "./minisubset02/Carlos_Evaristo/title_images/Carlos_Evaristo_Escutcheon.png",
+        "person_id": 185,
+        "fully_annotated": false,
+        "birthday_annotated": false,
+        "figure_year_annotated": false,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Nothing avalaible (no date of birth, date of image creatioin, bounding box)\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            424,
+            296
+        ]
+    }
+]

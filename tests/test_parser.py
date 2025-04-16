@@ -1,3 +1,7 @@
+import os
+import sys
+sys.path.insert(0, "..")
+
 from parser import PersonParser
 import json
 
@@ -17,13 +21,6 @@ def compare_json_files(file1: str, file2: str) -> bool:
     return data1 == data2
 
 if __name__ == "__main__":
-    parser = PersonParser('./datasets/minisubset04_annotated')
-    parser.parse_all_persons(path='./data_json/data_minisubset04_03.json', write=True)
+    parser = PersonParser('./../datasets/minisubset04_annotated')
+    parser.parse_all_persons(path='./../data_json/data_minisubset04.json', write=False)
 
-
-    file1 = './data_json/data_minisubset04_03.json'
-    file2 = './data_json/data_minisubset04_03.json'
-    if compare_json_files(file1, file2):
-        print("The JSON files are identical.")
-    else:
-        print("The JSON files are different.")

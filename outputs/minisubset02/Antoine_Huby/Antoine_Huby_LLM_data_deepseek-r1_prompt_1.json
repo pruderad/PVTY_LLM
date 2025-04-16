@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Antoine Huby",
+        "birthday": "2001-01-19",
+        "year_of_photo": "Not Available",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Huby at the 2023 [[Tour de l'Avenir]]",
+        "path": "./datasets/minisubset02_annotated/Antoine_Huby/title_images/Antoine_Huby.jpg"
+    }
+]

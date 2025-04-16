@@ -1,0 +1,42 @@
+[
+    {
+        "path": "./minisubset02/Ingmar_De_Vos/images/00_FEI_World_Breeding_Jumping_Championships_for_Young_Horses,_Lanaken.jpg",
+        "person_id": 83,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "5",
+        "birth_month": "8",
+        "birth_year": "1963",
+        "estimated_year_creation_left": "2015",
+        "estimated_year_creation_right": "2015",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 5,
+        "face_pixel_coordinates": [
+            517,
+            131
+        ]
+    },
+    {
+        "path": "./minisubset02/Ingmar_De_Vos/title_images/Ingmar_De_Vos,_FEI_President.jpg",
+        "person_id": 83,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "5",
+        "birth_month": "8",
+        "birth_year": "1963",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Image has no caption.\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            517,
+            131
+        ]
+    }
+]

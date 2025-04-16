@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ibrahim Ssemujju Nganda",
+        "birthday": "23 September 1973",
+        "year_of_photo": "Photo taken in 2021.",
+        "year_of_photo_int": 2021,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Ibrahim_Ssemujju_Nganda/title_images/Ssemujju_Ibrahim.jpg"
+    }
+]

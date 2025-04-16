@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Newton_Marshall/images/Dogsledding.Yukon.jpg",
+        "person_id": 240,
+        "fully_annotated": false,
+        "birthday_annotated": true,
+        "figure_year_annotated": false,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1983",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Person's face is not in the photo.\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            2579,
+            460
+        ]
+    }
+]

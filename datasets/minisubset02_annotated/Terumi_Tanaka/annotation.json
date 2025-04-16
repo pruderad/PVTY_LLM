@@ -1,0 +1,62 @@
+[
+    {
+        "path": "./minisubset02/Terumi_Tanaka/images/Hibakusha.jpg",
+        "person_id": 23,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "29",
+        "birth_month": "4",
+        "birth_year": "1932",
+        "estimated_year_creation_left": "2007",
+        "estimated_year_creation_right": "2007",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 5,
+        "face_pixel_coordinates": [
+            964,
+            380
+        ]
+    },
+    {
+        "path": "./minisubset02/Terumi_Tanaka/images/Terumi_Tanaka_at_2024_Nobel_Peace_Prize_Ceremony_3_(cropped).jpg",
+        "person_id": 23,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "29",
+        "birth_month": "4",
+        "birth_year": "1932",
+        "estimated_year_creation_left": "2024",
+        "estimated_year_creation_right": "2024",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            663,
+            342
+        ]
+    },
+    {
+        "path": "./minisubset02/Terumi_Tanaka/title_images/Terumi_Tanaka_at_the_Nobel_Peace_Prize_Ceremony_Oslo_2024-61445_(cropped).jpg",
+        "person_id": 23,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "29",
+        "birth_month": "4",
+        "birth_year": "1932",
+        "estimated_year_creation_left": "2024",
+        "estimated_year_creation_right": "2024",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            663,
+            342
+        ]
+    }
+]

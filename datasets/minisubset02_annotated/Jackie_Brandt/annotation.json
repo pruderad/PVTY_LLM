@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Jackie_Brandt/title_images/Jackie_Brandt_1963.jpg",
+        "person_id": 177,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1934",
+        "estimated_year_creation_left": "1960",
+        "estimated_year_creation_right": "1965",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            540,
+            92
+        ]
+    }
+]

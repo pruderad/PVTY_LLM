@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Truman Taylor",
+        "birthday": "March 9, 1932",
+        "year_of_photo": "1983",
+        "year_of_photo_int": 1983,
+        "can_determine": true,
+        "caption": "left|Taylor at the White House with Ronald Reagan, following the President's on-air \"Job-A-Thon\" phone call in 1983",
+        "path": "./datasets/minisubset02_annotated/Truman_Taylor/images/Pres_Reagan_and_Truman_Taylor.jpg"
+    },
+    {
+        "name": "Truman Taylor",
+        "birthday": "March 9, 1932",
+        "year_of_photo": "1999",
+        "year_of_photo_int": 1999,
+        "can_determine": true,
+        "caption": "left|Taylor ''(right)'' with Senator Ted Kennedy at the Kennedy compound in 1999",
+        "path": "./datasets/minisubset02_annotated/Truman_Taylor/images/Truman_Taylor_&Ted_Kennedy.jpg"
+    },
+    {
+        "name": "Truman Taylor",
+        "birthday": "March 9, 1932",
+        "year_of_photo": "1999",
+        "year_of_photo_int": 1999,
+        "can_determine": true,
+        "caption": "Truman Taylor in 1999",
+        "path": "./datasets/minisubset02_annotated/Truman_Taylor/title_images/Truman_Taylor_(cropped).jpg"
+    }
+]

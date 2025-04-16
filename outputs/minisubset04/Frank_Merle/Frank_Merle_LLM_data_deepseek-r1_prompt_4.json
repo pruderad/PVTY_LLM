@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Frank Merle",
+        "birthday": "None",
+        "year_of_photo": "None",
+        "year_of_photo_int": 2024,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Frank_Merle/title_images/Filmmaker_Frank_Merle.jpg"
+    }
+]

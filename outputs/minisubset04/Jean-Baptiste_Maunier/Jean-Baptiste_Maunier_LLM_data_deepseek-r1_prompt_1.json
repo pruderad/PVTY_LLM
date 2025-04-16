@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jean-Baptiste Maunier",
+        "birthday": "1990-12-22",
+        "year_of_photo": ",",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Maunier in 2016",
+        "path": "./datasets/minisubset04_annotated/Jean-Baptiste_Maunier/title_images/Jean-Baptiste_Maunier_Cabourg_2016_2.jpg"
+    }
+]

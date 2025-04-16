@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Shin Goo",
+        "birthday": "August 13, 1936",
+        "year_of_photo": "October 2024",
+        "year_of_photo_int": 2024,
+        "can_determine": true,
+        "caption": "Shin in October 2024",
+        "path": "./datasets/minisubset02_annotated/Shin_Goo/title_images/Shin_Goo_in_October_2024.png"
+    }
+]

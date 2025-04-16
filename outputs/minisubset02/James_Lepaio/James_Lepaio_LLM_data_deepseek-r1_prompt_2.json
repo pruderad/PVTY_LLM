@@ -1,0 +1,11 @@
+[
+    {
+        "name": "James Lepaio",
+        "birthday": "6 September 1992",
+        "year_of_photo": "2011",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/James_Lepaio/title_images/James_Lepaio.jpg"
+    }
+]

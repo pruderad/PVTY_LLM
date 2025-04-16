@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Yvonne Hill",
+        "birthday": "24 July 1937",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Yvonne_Hill/title_images/150600_-_Yvonne_Hill_-_3a_-_2000_Sydney_media_guide_scan.jpg"
+    }
+]

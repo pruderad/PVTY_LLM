@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Charles William Holroyd",
+        "birthday": "7 February 1953",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "William Holroyd in 2015",
+        "path": "./datasets/minisubset02_annotated/Bill_Holroyd/images/William_holroyd.jpg"
+    }
+]

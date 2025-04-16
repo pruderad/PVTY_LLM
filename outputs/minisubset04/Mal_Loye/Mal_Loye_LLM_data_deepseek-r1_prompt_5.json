@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Malachy Bernard Loye",
+        "birthday": "27 September 1972",
+        "year_of_photo": "19 January 2007",
+        "year_of_photo_int": 2007,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Mal_Loye/title_images/Loye.JPG"
+    }
+]

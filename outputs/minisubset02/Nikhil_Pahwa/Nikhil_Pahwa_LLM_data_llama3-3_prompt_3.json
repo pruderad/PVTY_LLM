@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Nikhil Pahwa",
+        "birthday": "February 23, 1981",
+        "year_of_photo": "2019",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Nikhil Pahwa at Asia Liberty Forum 2019 in Colombo, Sri Lanka.",
+        "path": "./datasets/minisubset02_annotated/Nikhil_Pahwa/title_images/Nikhil_Pahwa.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Radovan Hrom\u00e1dko",
+        "birthday": "1969-05-16",
+        "year_of_photo": "2013",
+        "year_of_photo_int": 2013,
+        "can_determine": true,
+        "caption": "Radovan Hrom\u00e1dko (2013)",
+        "path": "./datasets/minisubset02_annotated/Radovan_Hrom\u00e1dko/title_images/Radovan_Hrom\u00e1dko_2013.JPG"
+    }
+]

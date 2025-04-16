@@ -1,0 +1,42 @@
+[
+    {
+        "path": "./minisubset02/Zsolt_Bayer/images/BAYER_Zsolt_-_CPAC_Hungary_2022_(3).jpg",
+        "person_id": 70,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "26",
+        "birth_month": "2",
+        "birth_year": "1963",
+        "estimated_year_creation_left": "2022",
+        "estimated_year_creation_right": "2022",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            1441,
+            846
+        ]
+    },
+    {
+        "path": "./minisubset02/Zsolt_Bayer/title_images/Bayer_Zsolt.jpg",
+        "person_id": 70,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "26",
+        "birth_month": "2",
+        "birth_year": "1963",
+        "estimated_year_creation_left": "2022",
+        "estimated_year_creation_right": "2022",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 1,
+        "face_pixel_coordinates": [
+            479,
+            241
+        ]
+    }
+]

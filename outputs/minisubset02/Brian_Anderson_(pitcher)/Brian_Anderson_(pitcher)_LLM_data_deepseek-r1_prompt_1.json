@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Brian James Anderson",
+        "birthday": "April 26, 1972",
+        "year_of_photo": "SomeYear",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "Anderson in 2023",
+        "path": "./datasets/minisubset02_annotated/Brian_Anderson_(pitcher)/title_images/Brian_Anderson_(52649959805)_(cropped).jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Nick Fransman",
+        "birthday": "1992-02-28",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Nick_Fransman/title_images/Nick_Fransman.jpg"
+    }
+]

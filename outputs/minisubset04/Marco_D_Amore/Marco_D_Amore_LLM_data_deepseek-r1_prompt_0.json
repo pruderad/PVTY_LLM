@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Marco D'Amore",
+        "birthday": "12 June 1981",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Marco D'Amore at the Lucca Comics & Games 2018",
+        "path": "./datasets/minisubset04_annotated/Marco_D_Amore/title_images/Marco_D'Amore_-_Lucca_Comics_&_Games_2018_02.jpg"
+    }
+]

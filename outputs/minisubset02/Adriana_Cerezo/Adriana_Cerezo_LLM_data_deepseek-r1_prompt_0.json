@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Adriana Cerezo Iglesias",
+        "birthday": "24 November 2003",
+        "year_of_photo": "2024",
+        "year_of_photo_int": 2024,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Adriana_Cerezo/title_images/Adriana_Cerezo.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Oh Ye-jin",
+        "birthday": "2005-05-10",
+        "year_of_photo": "Now()",
+        "year_of_photo_int": 2024,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Oh_Ye-jin/title_images/\uc624\uc608\uc9c4_\uc120\uc218.jpg"
+    }
+]

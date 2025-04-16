@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Nikolas Ioannou",
+        "birthday": "10 November 1995",
+        "year_of_photo": "2021",
+        "year_of_photo_int": 2021,
+        "can_determine": true,
+        "caption": "Ioannou playing for [[Cyprus national football team|Cyprus]] in 2021",
+        "path": "./datasets/minisubset02_annotated/Nikolas_Ioannou/title_images/Nicholas_Ioannou_2021.jpg"
+    }
+]

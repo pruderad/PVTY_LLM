@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Mona_al-Kuwari/title_images/Mona_al-Kuwari,_Bahrain_TV_-_May_10,_2016.jpg",
+        "person_id": 73,
+        "fully_annotated": false,
+        "birthday_annotated": false,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "",
+        "estimated_year_creation_left": "2016",
+        "estimated_year_creation_right": "2016",
+        "annotation_shortcommings": "Date of birth unknown.\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            466,
+            295
+        ]
+    }
+]

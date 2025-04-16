@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Esteban \"Steve\" Zaragoza",
+        "birthday": "June 9, 1982",
+        "year_of_photo": "Not Available",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Zaragoza in 2016",
+        "path": "./datasets/minisubset02_annotated/Steve_Zaragoza/title_images/Steve_Zaragoza_Vlogbrothers_2016_03_(cropped).png"
+    }
+]

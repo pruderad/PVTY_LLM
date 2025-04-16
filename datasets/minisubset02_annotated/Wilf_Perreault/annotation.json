@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Wilf_Perreault/images/Wilf-_painting_in_his_studio_2007_sm.jpg",
+        "person_id": 175,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "1947",
+        "estimated_year_creation_left": "2007",
+        "estimated_year_creation_right": "2007",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            540,
+            92
+        ]
+    }
+]

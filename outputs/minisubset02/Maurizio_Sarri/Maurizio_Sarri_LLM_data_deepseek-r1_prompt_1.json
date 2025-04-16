@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Maurizio Sarri",
+        "birthday": "10 January 1959",
+        "year_of_photo": "Napoli in 2016",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": "right|200px|Sarri during his spell in charge of Napoli in 2016",
+        "path": "./datasets/minisubset02_annotated/Maurizio_Sarri/images/Sarri_2016.jpg"
+    },
+    {
+        "name": "Maurizio Sarri",
+        "birthday": "10 January 1959",
+        "year_of_photo": "Not Available",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "left|200x200px|Sarri (left) managing Chelsea in 2018, alongside then Southampton boss Mark Hughes",
+        "path": "./datasets/minisubset02_annotated/Maurizio_Sarri/images/Maurizio_Sarri_Mark_Hughes.jpg"
+    },
+    {
+        "name": "Maurizio Sarri",
+        "birthday": "10 January 1959",
+        "year_of_photo": "Not Available",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "right|Sarri with Chelsea in 2019",
+        "path": "./datasets/minisubset02_annotated/Maurizio_Sarri/images/Maurizio_Sarri_at_Baku_before_2019_UEFA_Europe_League_Final.jpg"
+    },
+    {
+        "name": "Maurizio Sarri",
+        "birthday": "10 January 1959",
+        "year_of_photo": "Not Available",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "right|200px|Sarri chewing on a cigarette butt while on the touch-line with Chelsea in 2018",
+        "path": "./datasets/minisubset02_annotated/Maurizio_Sarri/images/SarriChelsea.png"
+    },
+    {
+        "name": "Maurizio Sarri",
+        "birthday": "10 January 1959",
+        "year_of_photo": "<2019>",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Sarri as [[Juventus FC|Juventus]] manager in 2019",
+        "path": "./datasets/minisubset02_annotated/Maurizio_Sarri/title_images/Maurizio_Sarri_2019_(cropped).jpg"
+    }
+]

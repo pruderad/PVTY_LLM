@@ -1,0 +1,62 @@
+[
+    {
+        "path": "./minisubset02/Juanes/images/Juanes_FPML.JPG",
+        "person_id": 114,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "9",
+        "birth_month": "8",
+        "birth_year": "1972",
+        "estimated_year_creation_left": "2010",
+        "estimated_year_creation_right": "2013",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            808,
+            370
+        ]
+    },
+    {
+        "path": "./minisubset02/Juanes/images/Juanes-cuba1.jpg",
+        "person_id": 114,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "9",
+        "birth_month": "8",
+        "birth_year": "1972",
+        "estimated_year_creation_left": "2009",
+        "estimated_year_creation_right": "2009",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            808,
+            370
+        ]
+    },
+    {
+        "path": "./minisubset02/Juanes/title_images/2023-11-16_Gala_de_los_Latin_Grammy,_14_(cropped).jpg",
+        "person_id": 114,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "9",
+        "birth_month": "8",
+        "birth_year": "1972",
+        "estimated_year_creation_left": "2023",
+        "estimated_year_creation_right": "2023",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            808,
+            370
+        ]
+    }
+]

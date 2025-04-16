@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Alberth Josu\u00e9 Elis Mart\u00ednez",
+        "birthday": "1996-02-12",
+        "year_of_photo": "2016",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": "Elis playing for Honduras at the 2016 Summer Olympics",
+        "path": "./datasets/minisubset02_annotated/Alberth_Elis/images/Alberth_Elis_-_Rio_2016.jpg"
+    },
+    {
+        "name": "Alberth Josu\u00e9 Elis Mart\u00ednez",
+        "birthday": "1996-02-12",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Elis with [[Houston Dynamo FC|Houston Dynamo]] in 2018",
+        "path": "./datasets/minisubset02_annotated/Alberth_Elis/title_images/Alberth_Elis.jpg"
+    }
+]

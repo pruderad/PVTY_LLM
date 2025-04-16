@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Bob_Neill/title_images/Official_portrait_of_Sir_Robert_Neill_MP_crop_2.jpg",
+        "person_id": 57,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "24",
+        "birth_month": "6",
+        "birth_year": "1952",
+        "estimated_year_creation_left": "2020",
+        "estimated_year_creation_right": "2020",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            531,
+            761
+        ]
+    }
+]

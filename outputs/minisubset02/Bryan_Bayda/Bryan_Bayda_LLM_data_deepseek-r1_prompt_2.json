@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Bryan Joseph Bayda",
+        "birthday": "August 21, 1961",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Bryan_Bayda/title_images/Bishop_Bryan_Bayda.jpg"
+    }
+]

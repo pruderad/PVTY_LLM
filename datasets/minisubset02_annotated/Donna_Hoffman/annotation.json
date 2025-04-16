@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Donna_Hoffman/title_images/Donna_Hoffman_2013_headshot.png",
+        "person_id": 221,
+        "fully_annotated": false,
+        "birthday_annotated": false,
+        "figure_year_annotated": false,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "No date of birth or date of image creation.\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            690,
+            549
+        ]
+    }
+]

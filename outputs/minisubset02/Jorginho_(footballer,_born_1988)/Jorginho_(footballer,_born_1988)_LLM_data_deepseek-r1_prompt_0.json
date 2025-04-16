@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jorge Vin\u00edcius Oliveira Alves",
+        "birthday": "3 May 1988",
+        "year_of_photo": "2016",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Jorginho_(footballer,_born_1988)/title_images/Jorginho_2018.jpg"
+    }
+]

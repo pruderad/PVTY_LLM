@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Bayani Agbayani",
+        "birthday": "January 3, 1969",
+        "year_of_photo": "Now()",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "Agbayani in 2023",
+        "path": "./datasets/minisubset02_annotated/Bayani_Agbayani/title_images/Bayani_Agbayani_KorinaInterviews.jpg"
+    }
+]

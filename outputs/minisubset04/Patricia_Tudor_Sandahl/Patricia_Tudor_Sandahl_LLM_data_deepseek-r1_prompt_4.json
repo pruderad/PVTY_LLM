@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Patricia Ann Tudor Sandahl",
+        "birthday": "19 July 1940",
+        "year_of_photo": "Some time in the future",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Sandahl in 2012",
+        "path": "./datasets/minisubset04_annotated/Patricia_Tudor_Sandahl/title_images/Patricia_Tudor_Sandahl_in_2012-5.jpg"
+    }
+]

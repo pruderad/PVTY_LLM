@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/Richard_Seymour/title_images/Richard_Seymour.JPG",
+        "person_id": 49,
+        "fully_annotated": true,
+        "birthday_annotated": true,
+        "figure_year_annotated": true,
+        "face_found": true,
+        "wiki_page_sufficient": true,
+        "birth_day": "6",
+        "birth_month": "10",
+        "birth_year": "1979",
+        "estimated_year_creation_left": "2010",
+        "estimated_year_creation_right": "2010",
+        "annotation_shortcommings": "\n",
+        "bounding_box_index": 0,
+        "face_pixel_coordinates": [
+            1665,
+            2723
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Marzio Conti",
+        "birthday": "1960-05-22",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Marzio_Conti/title_images/Marzio_Conti.jpg"
+    }
+]

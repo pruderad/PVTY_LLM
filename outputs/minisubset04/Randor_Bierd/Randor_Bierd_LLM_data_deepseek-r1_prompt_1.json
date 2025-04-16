@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Randor Bierd",
+        "birthday": "March 14, 1984",
+        "year_of_photo": ">{{by|2008}}",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Bierd pitching for the [[Baltimore Orioles]] on August 10, {{by|2008}}.",
+        "path": "./datasets/minisubset04_annotated/Randor_Bierd/title_images/Randor_Bierd_2008.jpg"
+    }
+]

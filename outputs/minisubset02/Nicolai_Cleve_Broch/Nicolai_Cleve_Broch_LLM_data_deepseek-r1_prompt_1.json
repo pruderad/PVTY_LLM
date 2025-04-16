@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Nicolai Cleve Broch",
+        "birthday": "14 November 1975",
+        "year_of_photo": "Now",
+        "year_of_photo_int": 2024,
+        "can_determine": false,
+        "caption": "Broch acting as [[Olaf II of Norway|king Olaf II of Norway]] in ''[[The Saint Olav Drama]]'' at [[Stiklestad]] 2004",
+        "path": "./datasets/minisubset02_annotated/Nicolai_Cleve_Broch/title_images/Nicolai_Cleve_Broch_som_konge_i_spelet_2004.jpg"
+    }
+]

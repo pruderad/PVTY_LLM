@@ -1,0 +1,22 @@
+[
+    {
+        "path": "./minisubset02/David_Henzel/title_images/David_Henzel_Picture.jpg",
+        "person_id": 157,
+        "fully_annotated": false,
+        "birthday_annotated": false,
+        "figure_year_annotated": false,
+        "face_found": false,
+        "wiki_page_sufficient": true,
+        "birth_day": "",
+        "birth_month": "",
+        "birth_year": "",
+        "estimated_year_creation_left": "",
+        "estimated_year_creation_right": "",
+        "annotation_shortcommings": "Nothing avalaible (birth, bounding box nor year of image creation).\n",
+        "bounding_box_index": null,
+        "face_pixel_coordinates": [
+            236,
+            185
+        ]
+    }
+]

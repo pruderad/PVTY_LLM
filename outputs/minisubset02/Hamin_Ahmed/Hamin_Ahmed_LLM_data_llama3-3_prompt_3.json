@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Hamin Ahmed",
+        "birthday": "March 8, 1959",
+        "year_of_photo": "2019",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Ahmed in 2019",
+        "path": "./datasets/minisubset02_annotated/Hamin_Ahmed/title_images/Hamin_Ahmed_(cropped).jpg"
+    }
+]

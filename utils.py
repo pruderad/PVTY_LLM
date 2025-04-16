@@ -2,7 +2,6 @@ from dateutil import parser
 import subprocess
 
 
-
 def extract_year(date_str: str):
     try:
         dt = parser.parse(date_str, fuzzy=True)

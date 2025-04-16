@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Mohamed Ben Salem",
+        "birthday": "19 February 1953",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Mohamed_Ben_Salem/title_images/MohamedBenSalemANC2011.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Richard Daniel Brehaut",
+        "birthday": "June 10, 1991",
+        "year_of_photo": "SomeYear",
+        "year_of_photo_int": 2010,
+        "can_determine": true,
+        "caption": "Brehaut with UCLA in 2010",
+        "path": "./datasets/minisubset04_annotated/Richard_Brehaut/title_images/Richard_Brehaut_(cropped).jpg"
+    }
+]
