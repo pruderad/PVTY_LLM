@@ -11,7 +11,7 @@ The simplest way to get started is by using the provided preconfigured Conda env
 3. 
 
 ### On RCI server
-1. - 3. Same steps as On Linux (locally)
+1-3 Same steps as On Linux (locally)
 
 
 ## 📂 Project Structure
