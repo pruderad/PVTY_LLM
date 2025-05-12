@@ -8,7 +8,9 @@ The simplest way to get started is by using the provided preconfigured Conda env
 ### On Linux (locally)
 1. Clone this repository.
 2. Download and install Anaconda.
-3. 
+3. Run this command:
+
+       conda env create -f annotation_tool_ubuntu.yml
 
 ### On RCI server
 1-3 Same steps as On Linux (locally)
