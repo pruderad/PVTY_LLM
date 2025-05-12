@@ -1,12 +1,14 @@
-# PVTY_LLM
+# LLM Annotation
 
-# PVTY_LLM
+This project uses Large Language Models (LLMs) to automatically annotate images of people from Wikipedia by estimating their age.
 
-from pathlib import Path
+## How to setup the LLM annotation?
+The simplest way to get started is by using the provided preconfigured Conda environment.
 
-readme_content = """# LLM Annotation Project
+### On Linux
+#### 1. 
 
-This project uses Large Language Models (LLMs) like LLaMA or DeepSeek to annotate image captions and biographies of individuals by extracting structured information such as name, birth date, and photo year.
+
 
 ## 📂 Project Structure
 
