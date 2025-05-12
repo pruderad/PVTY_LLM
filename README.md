@@ -6,7 +6,7 @@ This project uses Large Language Models (LLMs) to automatically annotate images 
 The simplest way to get started is by using the provided preconfigured Conda environment.
 
 ### On Linux
-#### 1. 
+      1.  asad
 
 
 
