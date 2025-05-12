@@ -1,7 +1,6 @@
 import os
 import sys
 import json
-import wikipedia
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
@@ -34,20 +33,11 @@ class PersonParser:
                 return "\n\n".join(paragraphs)
         return ""
 
-    def get_url_to_page(self, name: str, lang: str = "en") -> str | None:
-        wikipedia.set_lang(lang)
-        try:
-            return wikipedia.page(name, auto_suggest=False, preload=False).url
-        except:
-            return None
-
-    def create_new_person_json(self, path_to_person, subdirectory, saved_filename, image_description, bbox_info, url_to_wiki_page, text):
+    def create_new_person_json(self, path_to_person, subdirectory, saved_filename, image_description, text):
         return {
             "path": f"{path_to_person}/{subdirectory}/{saved_filename}",
             "caption": image_description["caption"],
             "text": text,
-            "bbox_info": bbox_info,
-            "url": url_to_wiki_page
         }
 
     def load_bbox_desc_file(self, parse_bboxes, path, subdirectory, filename="faces_with_bboxes.csv"):
@@ -100,7 +90,6 @@ class PersonParser:
 
             person_json = self.load_caption_json(path_to_person, caption_file)
             bbox_csv_file = self.load_bbox_desc_file(parse_bboxes, path_to_person, subdirectory)
-            #page_url = self.get_url_to_page(person_name)
             text = self.load_text(path_to_person)
 
             for image_description in person_json:
@@ -108,8 +97,7 @@ class PersonParser:
                 if not self.check_raster_image(saved_filename):
                     continue
                 bbox_info = self.select_relevant_bboxes(parse_bboxes, bbox_csv_file, saved_filename)
-                cur_json = self.create_new_person_json(
-                    path_to_person, subdirectory, saved_filename, image_description, bbox_info, page_url, text)
+                cur_json = self.create_new_person_json(path_to_person, subdirectory, saved_filename, image_description, text)
                 updated_json.append(cur_json)
         return updated_json
 
@@ -122,13 +110,11 @@ class PersonParser:
         directory.sort()
         all_jsons = []
         for person in directory:
-            print(person)
             cur_json = self.mine_data_for_person(person)
             if show_persons:
                 for item in cur_json:
                     self.show_person(item["path"], item["caption"], item["bbox_info"])
             all_jsons.extend(cur_json)
-            print(person, len(cur_json))
 
         if write:
             with open(path, 'w', encoding="utf8") as f:

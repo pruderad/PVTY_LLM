@@ -1,0 +1,11 @@
+models:
+  ollama_model_names: ["llama3.2:1b", "deepseek-r1"]
+  output_names: ["llama3-2:1B", "deepseek-r1:7B"]
+dataset_path: "./datasets/example_set" 
+output_path: "./outputs/example_set"
+save_stats: TRUE
+
+
+    
+
+

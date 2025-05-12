@@ -1,13 +1,11 @@
 from pydantic import BaseModel
 from ollama import chat
-from dateutil import parser as time_parser
 import torch
 import subprocess
 import time
 import os
 import json
 from tqdm import tqdm
-import sys
 
 from parser import PersonParser
 from data_loader import DataLoader
@@ -27,7 +25,7 @@ class PersonDescription(BaseModel):
     year_of_photo_int: int | None
     can_determine : bool
 
-def annotate(model: str, prompt: str, caption: str, path: str, verbose: bool = True, num_gpus: int = 1):
+def annotate(model: str, prompt: str, caption: str, path: str, person: Person, verbose: bool = True, num_gpus: int = 1):
     response = chat(
         model=model,
         format=PersonDescription.model_json_schema(),

@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "2025-05-12T21:03:56.968584",
+        "model": "llama3.2:1b",
+        "model_load_time": 0.26691657199990004,
+        "mean_annotation_time_sec_per_image": {
+            "prompt_0": 0.3854,
+            "prompt_1": 0.3582,
+            "prompt_2": 0.3706,
+            "prompt_3": 0.3533,
+            "prompt_4": 0.3515,
+            "prompt_5": 0.3588
+        },
+        "number_of_images": 36,
+        "total_annotation_time": 13.358142593000593
+    },
+    {
+        "timestamp": "2025-05-12T21:04:48.195657",
+        "model": "deepseek-r1",
+        "model_load_time": 3.0808024519992614,
+        "mean_annotation_time_sec_per_image": {
+            "prompt_0": 1.4123,
+            "prompt_1": 1.3486,
+            "prompt_2": 1.2984,
+            "prompt_3": 1.3933,
+            "prompt_4": 1.3381,
+            "prompt_5": 1.2285
+        },
+        "number_of_images": 36,
+        "total_annotation_time": 51.226855716999125
+    }
+]

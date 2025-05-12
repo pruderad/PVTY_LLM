@@ -1,0 +1,110 @@
+prompt_templates:
+  - |
+      Find the year when the photo was taken from this caption:
+      {caption}
+
+      Find the date of birth of the person from this description:
+      {person_text}
+
+      Return the result as a JSON object with the following fields:
+      - name: Full name of the person
+      - birthday: The date of birth (as a string), or None if unknown
+      - year_of_photo: Year when the photo was taken (as a string), or None if unknown
+      - year_of_photo_int: Integer year (e.g. 1984), or None if unknown
+      - can_determine: True if both birthday and year_of_photo_int can be determined, otherwise False
+
+      If a year is mentioned in the caption, use that as the photo year.
+      If there's a time range (e.g., 'between 1950 and 1960'), choose the closest year.
+
+  - |
+      Analyze the following:
+
+      Photo Caption:
+      {caption}
+
+      Person Description:
+      {person_text}
+
+      Step 1: Estimate the year the photo was taken from the caption.
+      Step 2: Extract the person's date of birth from the description.
+      Step 3: Return the results as a JSON object in the following format:
+
+      name, birthday, year_of_photo, year_of_photo_int, can_determine
+
+      If either birthday or year of photo is not clear, set the value to None and can_determine to FALSE.
+      If a date range is found, choose the closest specific year.
+
+  - |
+      Your task is to extract structured information from the following:
+
+      - Caption of the photo: {caption}
+      - Description of the person (e.g., from a Wikipedia article):
+      {person_text}
+
+      Return the following fields in JSON format:
+      - name: Name of the person
+      - birthday: Full date of birth (as text)
+      - year_of_photo: Year the photo was taken (as text)
+      - year_of_photo_int: Year as an integer (e.g. 1998)
+      - can_determine: TRUE if both birthday and photo year can be reasonably determined, otherwise FALSE.
+
+      If the birthday or year is missing or unclear, use null and set can_determine to FALSE.
+      If a range is mentioned (e.g. 'between 1950 and 1960'), pick the most likely year.
+
+  - |
+      From the following caption and biography, determine when the photo was likely taken and when the person was born.
+
+      Caption:
+      {caption}
+
+      Biography:
+      {person_text}
+
+      Please return your answer in this JSON format:
+      {{
+        "name": "Full name",
+        "birthday": "Full date or None",
+        "year_of_photo": "Year string or None",
+        "year_of_photo_int": Integer year or None,
+        "can_determine": true or false
+      }}
+
+      Set can_determine to FALSE if either date is missing.
+      Use your best judgment if an approximate date is available.
+
+  - |
+      Given the caption:
+      "{caption}"
+      and this Wikipedia text:
+      "{person_text}"
+
+      Extract:
+      1. The person's name
+      2. Their birthday
+      3. The year the photo was taken
+
+      Return your answer in JSON format as:
+      {{ 'name': ..., 'birthday': ..., 'year_of_photo': ..., 'year_of_photo_int': ..., 'can_determine': ... }}
+
+      Use None if any field is missing or unknown.
+      If both key dates are available, set can_determine to true.
+
+  - |
+      You are an expert assistant. Please analyze the following input.
+
+      Caption of photo: {caption}
+      Person biography: {person_text}
+
+      Identify:
+      - Name
+      - Birthday (if available)
+      - Year photo was taken (based on caption)
+
+      Return the data in this JSON format:
+      {{
+        "name": str,
+        "birthday": str or null,
+        "year_of_photo": str or null,
+        "year_of_photo_int": int or null,
+        "can_determine": true or false
+      }}
