@@ -5,9 +5,13 @@ This project uses Large Language Models (LLMs) to automatically annotate images 
 ## How to setup the LLM annotation?
 The simplest way to get started is by using the provided preconfigured Conda environment.
 
-### On Linux
+### On Linux (locally)
 1. Clone this repository.
+2. Download and install Anaconda.
+3. 
 
+### On RCI server
+1. - 3. Same steps as On Linux (locally)
 
 
 ## 📂 Project Structure
