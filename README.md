@@ -35,7 +35,7 @@ dataset_path: ./datasets/minisubset04_annotated
 output_path: ./output
 models: ["llama", "deepseek"]
 model_output_names: ["LLaMA", "DeepSeek"]
-
+```
 2. config/prompts.yaml
 
 Contains prompt templates used for each annotation step.
