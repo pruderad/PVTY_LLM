@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Bimala Tamang",
+        "birthday": "9 June 1995",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "Bimala Tamang after winning bronze in 2014 Asian Games",
+        "path": "./datasets/minisubset02_annotated/Bimala_Tamang/title_images/Bimala_Tamang.jpg"
+    }
+]

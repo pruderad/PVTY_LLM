@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Dean Rankine",
+        "birthday": "Unknown",
+        "year_of_photo": "Unknown",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Dean Rankine, 2022",
+        "path": "./datasets/minisubset04_annotated/Dean_Rankine/title_images/Capricon30.jpg"
+    }
+]

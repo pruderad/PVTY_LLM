@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Nasser Larguet",
+        "birthday": "6 November 1958",
+        "year_of_photo": "2021",
+        "year_of_photo_int": 2021,
+        "can_determine": true,
+        "caption": "Larguet with [[Olympique de Marseille|Marseille]] in 2021",
+        "path": "./datasets/minisubset04_annotated/Nasser_Larguet/title_images/Lens_-_Marseille_(03-02-2021)_61.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Iv\u00e1n Alexis Pillud",
+        "birthday": "1986-04-24",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "Pillud with [[Racing Club de Avellaneda|Racing Club]] in 2014",
+        "path": "./datasets/minisubset04_annotated/Iv\u00e1n_Pillud/title_images/IvanPillud,_Jugador_de_racing.jpg"
+    }
+]

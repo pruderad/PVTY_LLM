@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Logan Gregory Wade",
+        "birthday": "13 November 1991",
+        "year_of_photo": "2013",
+        "year_of_photo_int": 2013,
+        "can_determine": true,
+        "caption": "Wade with the [[Brisbane Bandits|Bandits]] in 2013",
+        "path": "./datasets/minisubset02_annotated/Logan_Wade/title_images/Adeladie_Bite_Vs_Brisbane_Bandits_(Game_3)_(cropped).jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Bob Boilen",
+        "birthday": "April 10, 1953",
+        "year_of_photo": "",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Bob Boilen (2014)",
+        "path": "./datasets/minisubset04_annotated/Bob_Boilen/title_images/Bob_Boilen_2014.jpg"
+    }
+]

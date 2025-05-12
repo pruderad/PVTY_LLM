@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Osmo Tapio R\u00e4ih\u00e4l\u00e4",
+        "birthday": "15 January 1964",
+        "year_of_photo": "2013",
+        "year_of_photo_int": 2013,
+        "can_determine": true,
+        "caption": "Osmo Tapio R\u00e4ih\u00e4l\u00e4 (2013)",
+        "path": "./datasets/minisubset04_annotated/Osmo_Tapio_R\u00e4ih\u00e4l\u00e4/images/Osmo_Tapio_Raihala.jpg"
+    }
+]

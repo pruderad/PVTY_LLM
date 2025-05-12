@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Nevena \u0110uri\u0107",
+        "birthday": "10 October 1993",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "\u0110uri\u0107 in 2023",
+        "path": "./datasets/minisubset04_annotated/Nevena_\u0110uri\u0107/title_images/Nevena_\u0110uri\u0107_2023.jpg"
+    }
+]

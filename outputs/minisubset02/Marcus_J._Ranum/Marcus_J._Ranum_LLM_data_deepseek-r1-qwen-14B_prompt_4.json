@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Marcus J. Ranum",
+        "birthday": "November 5, 1962",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Marcus_J._Ranum/title_images/Mjr-portrait-picture-mid.jpg"
+    }
+]

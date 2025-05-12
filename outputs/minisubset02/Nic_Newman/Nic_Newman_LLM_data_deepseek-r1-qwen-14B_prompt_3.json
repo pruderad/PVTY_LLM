@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Nic Newman",
+        "birthday": "15 January 1993",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Nic_Newman/title_images/Nic_Newman.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Nathan Williamson",
+        "birthday": "None",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": false,
+        "caption": "Williamson umpiring a match in 2018 between the [[West Coast Eagles]] and the [[Essendon Bombers]]",
+        "path": "./datasets/minisubset04_annotated/Nathan_Williamson/title_images/Nathan_Williamson_Ball-up_2018_West_Coast_v_Essendon.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Benjamin Ross Hayden",
+        "birthday": "29 April 1989",
+        "year_of_photo": "2016",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Benjamin_Ross_Hayden/title_images/Benjamin_Ross_Hayden_-_Film_Director.jpg"
+    }
+]

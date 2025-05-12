@@ -1,0 +1,11 @@
+[
+    {
+        "name": "David Lehre",
+        "birthday": "August 8, 1988",
+        "year_of_photo": "",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Chad Future in August 2021",
+        "path": "./datasets/minisubset04_annotated/Chad_Future/title_images/Chad_Future_David_Lehre.jpg"
+    }
+]

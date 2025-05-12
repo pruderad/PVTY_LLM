@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Pablo Lastras Garc\u00eda",
+        "birthday": "1976-01-20",
+        "year_of_photo": "2009",
+        "year_of_photo_int": 2009,
+        "can_determine": true,
+        "caption": "Lastras at the [[2009 Tour Down Under]].",
+        "path": "./datasets/minisubset02_annotated/Pablo_Lastras/title_images/Pablo_Lastras.JPG"
+    }
+]

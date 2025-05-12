@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ivonne Mangelsdorff Galeb",
+        "birthday": "23 May 1975",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Ivonne_Mangelsdorff/title_images/Ivonne_Mangelsdorff.jpg"
+    }
+]

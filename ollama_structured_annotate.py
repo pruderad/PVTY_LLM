@@ -7,6 +7,7 @@ import time
 import os
 import json
 from tqdm import tqdm
+import sys
 
 from parser import PersonParser
 from data_loader import DataLoader
@@ -14,9 +15,9 @@ from data_loader import Person
 from utils import *
 
 
-DATASET_PATH = "./datasets/minisubset02_annotated"
-DATA_JSON_PATH = "./data_json/data_minisubset02.json"
-OUTPUT_SAVE_PATH = "./outputs/minisubset02"
+DATASET_PATH = "./datasets/minisubset04_annotated"
+DATA_JSON_PATH = "./data_json/data_minisubset04.json"
+OUTPUT_SAVE_PATH = "./outputs/minisubset04"
 PROMPTS = 6
                  
 class PersonDescription(BaseModel):
@@ -67,8 +68,10 @@ if __name__ == "__main__":
         print(f"INFO: Number of GPUs: {num_gpus}")
 
     if not is_ollama_running():
+        #ollama_process = subprocess.Popen(["ollama", "serve"], stdout=sys.stdout, stderr=sys.stderr)
         ollama_process = subprocess.Popen(["ollama", "serve"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         time.sleep(5)
+        print(f"INFO: Ollama running")
 
     # Parser #
     parser = PersonParser(DATASET_PATH)
@@ -78,7 +81,16 @@ if __name__ == "__main__":
     dataloader = DataLoader(DATA_JSON_PATH)
     persons_list = dataloader.load_persons_from_json()
 
-    models = ["llama3.3", "deepseek-r1:70b"]
+    #models = ["llama3.3", "deepseek-r1:70b"]
+    #models = ["deepseek-r1:671b"]
+    models = ["deepseek-r1:32b", "deepseek-r1:14b", "deepseek-r1:8b", "deepseek-r1:7b"]
+    model_names = {"llama3.3": "llama3-3", 
+                   "deepseek-r:70b": "deepseek-r1-llama-70B",
+                   "deepseek-r1:32b": "deepseek-r1-qwen-32B",
+                   "deepseek-r1:14b": "deepseek-r1-qwen-14B",
+                   "deepseek-r1:8b": "deepseek-r1-llama-8B",
+                   "deepseek-r1:7b": "deepseek-r1-qwen-7B",
+                   }
     save = True
 
     for model in models:
@@ -181,12 +193,7 @@ if __name__ == "__main__":
                     prompt_results.append(result)
 
                 if save:
-                    if model == 'llama3.3':
-                        model_name = 'llama3-3'
-                    elif model == 'deepseek-r1:70b':
-                        model_name = 'deepseek-r1'
-                    else:
-                        model_name = model
+                    model_name = model_names[model]
 
                     directory = os.path.join(OUTPUT_SAVE_PATH, person.name)
                     os.makedirs(directory, exist_ok=True)

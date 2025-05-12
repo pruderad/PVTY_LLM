@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Reb Brown",
+        "birthday": "April 29",
+        "year_of_photo": "When the photo was taken, it's not explicitly stated in the provided text.",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Brown in 2018",
+        "path": "./datasets/minisubset02_annotated/Reb_Brown/title_images/Reb_Brown.jpg"
+    }
+]

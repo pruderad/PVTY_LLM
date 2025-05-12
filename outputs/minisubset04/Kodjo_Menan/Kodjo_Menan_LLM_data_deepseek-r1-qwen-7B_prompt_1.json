@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Kodjo Menan",
+        "birthday": "1959-12-31",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "Kodjo Menan (left) with H\u00e9ctor Timerman",
+        "path": "./datasets/minisubset04_annotated/Kodjo_Menan/images/Kodjo_Menan_with_Timermann.jpg"
+    }
+]

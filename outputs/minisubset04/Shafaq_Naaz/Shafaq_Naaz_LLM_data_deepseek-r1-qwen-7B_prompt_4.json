@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Shafaq Naaz",
+        "birthday": "7 February",
+        "year_of_photo": ">2019",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Naaz in 2019",
+        "path": "./datasets/minisubset04_annotated/Shafaq_Naaz/title_images/Shafaq_Naaz_in_2019.jpg"
+    }
+]

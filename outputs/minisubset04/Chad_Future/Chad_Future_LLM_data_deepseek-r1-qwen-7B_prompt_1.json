@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Chad Future",
+        "birthday": "1988-08-08",
+        "year_of_photo": ">=2021",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Chad Future in August 2021",
+        "path": "./datasets/minisubset04_annotated/Chad_Future/title_images/Chad_Future_David_Lehre.jpg"
+    }
+]

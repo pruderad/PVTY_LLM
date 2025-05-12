@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Mathis Amougou",
+        "birthday": "18 January 2006",
+        "year_of_photo": "2024",
+        "year_of_photo_int": 2024,
+        "can_determine": true,
+        "caption": "Amougou with [[AS Saint-\u00c9tienne|Saint-\u00c9tienne]] in 2024",
+        "path": "./datasets/minisubset02_annotated/Mathis_Amougou/title_images/Mathis_Amougou_asse_losc_2425.jpg"
+    }
+]

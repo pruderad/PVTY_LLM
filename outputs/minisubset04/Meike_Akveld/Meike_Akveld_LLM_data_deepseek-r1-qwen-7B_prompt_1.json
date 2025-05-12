@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Meike Maria Elisabeth Akveld",
+        "birthday": "1970-05-23",
+        "year_of_photo": "f",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Akveld in Berkeley, 2016",
+        "path": "./datasets/minisubset04_annotated/Meike_Akveld/images/Maike_Akveld.jpg"
+    }
+]

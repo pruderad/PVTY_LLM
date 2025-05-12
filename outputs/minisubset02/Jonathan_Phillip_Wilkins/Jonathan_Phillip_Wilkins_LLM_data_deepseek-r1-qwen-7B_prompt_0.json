@@ -1,0 +1,11 @@
+[
+    {
+        "name": "J. Phillip Wilkins",
+        "birthday": "None",
+        "year_of_photo": "2003",
+        "year_of_photo_int": 2003,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Jonathan_Phillip_Wilkins/title_images/JonathanPhillipWilkins.jpg"
+    }
+]

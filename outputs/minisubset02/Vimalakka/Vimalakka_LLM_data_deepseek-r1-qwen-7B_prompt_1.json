@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Arunodaya Vimala",
+        "birthday": "1964-05-23",
+        "year_of_photo": "f",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Vimalakka/title_images/Vimalakka_image.jpg"
+    }
+]

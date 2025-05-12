@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Rais bin Yatim",
+        "birthday": "1942-04-16",
+        "year_of_photo": "He was a member of the United Malays National Organisation (UMNO), the leading party in previous ruling Barisan Nasional (BN) coalition, except for a period in the 1990s when he became a member of the opposition Parti Melayu Semangat 46 (S46). Presently he is a member of Malaysian United Indigenous Party (BERSATU) and its Chairman of the state of Negeri Sembilan, a component party of the ruling Perikatan Nasional (PN) since he left UMNO to join BERSATU on 4 June 2018.",
+        "year_of_photo_int": 2013,
+        "can_determine": true,
+        "caption": "Rais in 2013",
+        "path": "./datasets/minisubset04_annotated/Rais_Yatim/title_images/Rais_Yatim_cropped_(cropped)_1.jpg"
+    }
+]

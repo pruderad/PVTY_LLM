@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Roberto Carlos Cort\u00e9s Restrepo",
+        "birthday": "20 June 1977",
+        "year_of_photo": "2002",
+        "year_of_photo_int": 2002,
+        "can_determine": true,
+        "caption": "Roberto Carlos Cort\u00e9s",
+        "path": "./datasets/minisubset02_annotated/Roberto_Carlos_Cort\u00e9s/title_images/Roberto_Carlos_Cort\u00e9s.jpg"
+    }
+]

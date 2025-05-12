@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Allan C. Carlson",
+        "birthday": "1949-01-01",
+        "year_of_photo": "2017",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": "Allan C. Carlson addressing the Budapest Demographic Forum in 2017",
+        "path": "./datasets/minisubset02_annotated/Allan_C._Carlson/images/Allan_C._Carlson.jpg"
+    }
+]

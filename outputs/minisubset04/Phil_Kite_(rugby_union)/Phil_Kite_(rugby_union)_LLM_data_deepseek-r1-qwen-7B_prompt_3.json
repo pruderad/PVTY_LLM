@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Philip Kite",
+        "birthday": "24 April 1993",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Phil_Kite_(rugby_union)/title_images/Phil_Kite_2014_Brisbane.jpg"
+    }
+]

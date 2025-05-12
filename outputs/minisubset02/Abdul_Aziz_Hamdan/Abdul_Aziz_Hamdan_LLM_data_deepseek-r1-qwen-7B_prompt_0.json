@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Abdul Aziz bin Haji Hamdan",
+        "birthday": "",
+        "year_of_photo": "2024",
+        "year_of_photo_int": 2024,
+        "can_determine": true,
+        "caption": "Abdul Aziz in 2024",
+        "path": "./datasets/minisubset02_annotated/Abdul_Aziz_Hamdan/title_images/YB_Abdul_Aziz_Hamdan.jpg"
+    }
+]

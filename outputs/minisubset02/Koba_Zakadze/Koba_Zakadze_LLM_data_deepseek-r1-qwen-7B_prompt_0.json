@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Koba Tsakadze",
+        "birthday": "19 May 1934",
+        "year_of_photo": "1963",
+        "year_of_photo_int": 1963,
+        "can_determine": true,
+        "caption": "Koba Tsakadze c. 1963",
+        "path": "./datasets/minisubset02_annotated/Koba_Zakadze/images/Koba1.jpg"
+    }
+]

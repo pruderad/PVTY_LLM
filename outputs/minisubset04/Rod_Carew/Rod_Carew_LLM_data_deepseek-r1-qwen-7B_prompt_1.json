@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Rodney Cline Carew",
+        "birthday": "October 1, 1945",
+        "year_of_photo": "><strong>Step-by-Step Explanation:</strong><br/>First, I need to extract the information from the given text. The photo caption mentions that Rodney Cline Carew was warming up before a game in Cleveland in 1975. This directly tells me the year the photo was taken.<br/><br/>Next, looking at the person description, it provides Rodney's date of birth as October 1, 1945.<br/><br/>Now, I compare these two pieces of information: the photo is from 1975 and his birthday is in 1945. Since both are specific years, there's no ambiguity here.<br/><br/>Therefore, I can confidently determine that the year of the photo is 1975 and his birthday is October 1, 1945.<br/><strong>Answer:</strong> The photo was taken in 1975, and Rodney Cline Carew was born on October 1, 1945. Both dates are specific and clear, so the can_determine value is TRUE.",
+        "year_of_photo_int": 1975,
+        "can_determine": true,
+        "caption": "left|Carew with the Minnesota Twins warming up before a game in Cleveland in 1975",
+        "path": "./datasets/minisubset04_annotated/Rod_Carew/images/Rod-carew_cleveland_08-31-1975.jpg"
+    },
+    {
+        "name": "Rodney Cline Carew",
+        "birthday": "1945-10-01",
+        "year_of_photo": "?",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "upright|Carew with the Angels.",
+        "path": "./datasets/minisubset04_annotated/Rod_Carew/images/Rod_Carew_Angelscard.png"
+    },
+    {
+        "name": "Rodney Cline Carew",
+        "birthday": "October 1, 1945",
+        "year_of_photo": "1979",
+        "year_of_photo_int": 1979,
+        "can_determine": true,
+        "caption": "right|255px|Carew bats at Yankee Stadium in 1979.",
+        "path": "./datasets/minisubset04_annotated/Rod_Carew/images/Rod_Carew_at_Yankee_Stadium.jpg"
+    },
+    {
+        "name": "Rodney Cline Carew",
+        "birthday": "October 1, 1945",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "Carew (''left'') talks to a fan in May 2014.",
+        "path": "./datasets/minisubset04_annotated/Rod_Carew/images/Rod_Carew_talks_to_fan_in_May_2014.jpg"
+    },
+    {
+        "name": "Rodney Cline Carew",
+        "birthday": "October 1, 1945",
+        "year_of_photo": "?",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Carew with the Minnesota Twins in 1978",
+        "path": "./datasets/minisubset04_annotated/Rod_Carew/title_images/1978_Minnesota_Twins_Postcards_Rod_Carew.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "N",
+        "birthday": "June 30, 1990",
+        "year_of_photo": "December 2017",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": "N in December 2017",
+        "path": "./datasets/minisubset02_annotated/N_(singer)/title_images/171231-180101_\ube45\uc2a4_\ucc28\ud559\uc5f0_03.jpg"
+    }
+]

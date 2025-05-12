@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Truman Taylor",
+        "birthday": "1932-03-09",
+        "year_of_photo": "><result> Truman Taylor was born on March 9, 1932. The photo caption mentions it was taken following a phone call in 1983 by President Reagan. However, the exact year isn't specified beyond that context. Therefore, we can determine the birth year but not the photo's specific year.</result><think>Alright, let me try to figure this out step by step. So, I have this problem where I need to analyze a photo caption and some person description to extract certain details. The goal is to create a JSON object with the name, birthday, year of the photo, an integer version of that year, and whether we can determine it or not. If either the birthday or the year of the photo isn't clear, I have to set those values to None and mark can_determine as FALSE. If there's a date range, I should pick the closest specific year. Okay, let's break this down using the given information about Truman Taylor and the provided photo caption and description. First, looking at the photo caption: it says ",
+        "year_of_photo_int": 1983,
+        "can_determine": true,
+        "caption": "left|Taylor at the White House with Ronald Reagan, following the President's on-air \"Job-A-Thon\" phone call in 1983",
+        "path": "./datasets/minisubset02_annotated/Truman_Taylor/images/Pres_Reagan_and_Truman_Taylor.jpg"
+    },
+    {
+        "name": "Truman Taylor",
+        "birthday": "1932-03-09",
+        "year_of_photo": "?",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "left|Taylor ''(right)'' with Senator Ted Kennedy at the Kennedy compound in 1999",
+        "path": "./datasets/minisubset02_annotated/Truman_Taylor/images/Truman_Taylor_&Ted_Kennedy.jpg"
+    },
+    {
+        "name": "Truman Taylor",
+        "birthday": "1932-03-09",
+        "year_of_photo": "?",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Truman Taylor in 1999",
+        "path": "./datasets/minisubset02_annotated/Truman_Taylor/title_images/Truman_Taylor_(cropped).jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Brolle",
+        "birthday": "1981-11-10",
+        "year_of_photo": "fifteen years after his birth",
+        "year_of_photo_int": 2006,
+        "can_determine": true,
+        "caption": "Brolle in 2008",
+        "path": "./datasets/minisubset04_annotated/Brolle/title_images/Brolle.jpg"
+    }
+]

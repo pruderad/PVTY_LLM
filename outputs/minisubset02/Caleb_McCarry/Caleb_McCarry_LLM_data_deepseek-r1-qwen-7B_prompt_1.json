@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Caleb Charles McCarry",
+        "birthday": "1961-10-24",
+        "year_of_photo": "?",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "McCarry in 2019",
+        "path": "./datasets/minisubset02_annotated/Caleb_McCarry/title_images/Caleb_C._McCarry_(2).jpg"
+    }
+]

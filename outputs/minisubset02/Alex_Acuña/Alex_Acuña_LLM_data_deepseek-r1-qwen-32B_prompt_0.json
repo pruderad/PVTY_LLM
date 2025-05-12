@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Alex Acu\u00f1a",
+        "birthday": "December 12, 1944",
+        "year_of_photo": "2010",
+        "year_of_photo_int": 2010,
+        "can_determine": true,
+        "caption": "Acu\u00f1a in 2010",
+        "path": "./datasets/minisubset02_annotated/Alex_Acu\u00f1a/title_images/Alex_Acu\u00f1a_(5022184811).jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Robert Peter Gale",
+        "birthday": "October 11, 1945",
+        "year_of_photo": "1986",
+        "year_of_photo_int": 1986,
+        "can_determine": true,
+        "caption": "Gale in 1986",
+        "path": "./datasets/minisubset02_annotated/Robert_Peter_Gale/title_images/Robert_Peter_Gale,_1986.jpg"
+    }
+]

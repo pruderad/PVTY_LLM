@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Donna Hoffman",
+        "birthday": "1950-01-01",
+        "year_of_photo": "He was born in 1950.",
+        "year_of_photo_int": 1950,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Donna_Hoffman/title_images/Donna_Hoffman_2013_headshot.png"
+    }
+]

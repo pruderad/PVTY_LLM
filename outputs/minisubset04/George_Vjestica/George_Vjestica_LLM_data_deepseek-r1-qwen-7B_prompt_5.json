@@ -1,0 +1,11 @@
+[
+    {
+        "name": "George Vjestica",
+        "birthday": "null",
+        "year_of_photo": "2019",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "George Vjestica rehearsing",
+        "path": "./datasets/minisubset04_annotated/George_Vjestica/title_images/George_Vjestica.jpg"
+    }
+]

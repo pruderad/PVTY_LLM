@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Joshua James LeRibeus",
+        "birthday": "1989-07-02",
+        "year_of_photo": ">=2012",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "LeRibeus with the Washington Redskins in 2012",
+        "path": "./datasets/minisubset04_annotated/Josh_LeRibeus/title_images/Josh_leribeus.jpg"
+    }
+]

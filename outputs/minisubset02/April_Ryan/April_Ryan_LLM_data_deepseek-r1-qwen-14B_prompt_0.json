@@ -1,0 +1,11 @@
+[
+    {
+        "name": "April Danielle Ryan",
+        "birthday": "September 5, 1967",
+        "year_of_photo": "2019",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Ryan in 2019",
+        "path": "./datasets/minisubset02_annotated/April_Ryan/title_images/April_Ryan_2019_(cropped).jpg"
+    }
+]

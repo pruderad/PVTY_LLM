@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Snowdan Lawan",
+        "birthday": "5 September 1971",
+        "year_of_photo": "2019",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Snowdan in 2019",
+        "path": "./datasets/minisubset02_annotated/Snowdan_Lawan/title_images/Snowdan_Lawan.jpg"
+    }
+]

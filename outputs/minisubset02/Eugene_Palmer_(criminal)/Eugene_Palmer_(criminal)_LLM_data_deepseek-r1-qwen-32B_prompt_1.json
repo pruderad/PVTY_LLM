@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Eugene K. Palmer",
+        "birthday": "1939-04-04",
+        "year_of_photo": "",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Photograph taken in 2012 (Age 73)",
+        "path": "./datasets/minisubset02_annotated/Eugene_Palmer_(criminal)/title_images/Eugene_Palmer.jpg"
+    }
+]

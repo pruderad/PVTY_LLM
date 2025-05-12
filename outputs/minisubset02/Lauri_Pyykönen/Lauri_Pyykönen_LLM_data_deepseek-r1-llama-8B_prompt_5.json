@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Lauri Pyyk\u00f6nen",
+        "birthday": "20 April 1978",
+        "year_of_photo": "2006",
+        "year_of_photo_int": 2006,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Lauri_Pyyk\u00f6nen/title_images/Lauri_Pyykoenen_Stockholm_2007.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Max Buskohl",
+        "birthday": "18 November 1988",
+        "year_of_photo": "2008",
+        "year_of_photo_int": 2008,
+        "can_determine": true,
+        "caption": "Empty Trash (Max Buskohl) (2008)",
+        "path": "./datasets/minisubset02_annotated/Max_Buskohl/title_images/Empty_Trash.jpg"
+    }
+]

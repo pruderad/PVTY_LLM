@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Davi Ramos",
+        "birthday": "November 5, 1986",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Davi_Ramos/title_images/Davi_Ramos_before_ACA_JJ_14.png"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Scott Robertson",
+        "birthday": "1987-06-24",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Scott Robertson",
+        "path": "./datasets/minisubset04_annotated/Scott_Robertson_(diver)/title_images/2010_Delhi_Commonwealth_Games.jpg"
+    }
+]

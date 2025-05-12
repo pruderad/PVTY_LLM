@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Lazar Miller Hayward",
+        "birthday": "November 26, 1986",
+        "year_of_photo": "2005",
+        "year_of_photo_int": 2005,
+        "can_determine": true,
+        "caption": "Hayward with the Timberwolves",
+        "path": "./datasets/minisubset04_annotated/Lazar_Hayward/title_images/Lazar_hayward.jpg"
+    }
+]

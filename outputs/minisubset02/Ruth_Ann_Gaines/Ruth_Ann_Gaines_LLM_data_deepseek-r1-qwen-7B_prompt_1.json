@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ruth Ann Gaines",
+        "birthday": "1947-05-23",
+        "year_of_photo": "somewhere between 2018 and 2020",
+        "year_of_photo_int": 2019,
+        "can_determine": false,
+        "caption": "88th General Assembly portrait (2019)",
+        "path": "./datasets/minisubset02_annotated/Ruth_Ann_Gaines/title_images/Iowa_State_Representative_Ruth_Ann_Gaines_official_portrait.jpg"
+    }
+]

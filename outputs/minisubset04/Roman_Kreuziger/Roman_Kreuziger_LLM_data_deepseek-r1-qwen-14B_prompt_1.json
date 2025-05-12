@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Roman Kreuziger",
+        "birthday": "May 6, 1986",
+        "year_of_photo": "2011",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": "left|upright|Kreuziger at the 2011 Tour de France",
+        "path": "./datasets/minisubset04_annotated/Roman_Kreuziger/images/Roman_Kreuziger_2011_Tour_de_France.jpg"
+    },
+    {
+        "name": "Roman Kreuziger",
+        "birthday": "May 6, 1986",
+        "year_of_photo": "2013",
+        "year_of_photo_int": 2013,
+        "can_determine": true,
+        "caption": "right|Kreuziger at the 2013 Tour de France",
+        "path": "./datasets/minisubset04_annotated/Roman_Kreuziger/images/Tour_de_France_2013,_kreuziger_(14683110170).jpg"
+    },
+    {
+        "name": "Roman Kreuziger",
+        "birthday": "May 6, 1986",
+        "year_of_photo": "2009",
+        "year_of_photo_int": 2009,
+        "can_determine": true,
+        "caption": "Kreuziger at the [[2009 Tour de France]].",
+        "path": "./datasets/minisubset04_annotated/Roman_Kreuziger/title_images/Roman_Kreuziger_(Tour_de_France_2009_-_Stage_17).jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "David Gaider",
+        "birthday": "1971-05-15",
+        "year_of_photo": "2016",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/David_Gaider/title_images/David-Gaider-SummerfallStudios_copy.jpg"
+    }
+]

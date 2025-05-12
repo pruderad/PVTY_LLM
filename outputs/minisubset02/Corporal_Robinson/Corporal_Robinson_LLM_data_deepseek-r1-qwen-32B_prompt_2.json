@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Stephen Robinson",
+        "birthday": "November 27, 1975",
+        "year_of_photo": "2004",
+        "year_of_photo_int": 2004,
+        "can_determine": true,
+        "caption": "upright|Corporal Robinson performing the ''Boot Camp'' from the second rope on Mad Man Pondo",
+        "path": "./datasets/minisubset02_annotated/Corporal_Robinson/images/Super_Boot_Camp.jpg"
+    },
+    {
+        "name": "Stephen Robinson",
+        "birthday": "November 27, 1975",
+        "year_of_photo": "2008",
+        "year_of_photo_int": 2008,
+        "can_determine": true,
+        "caption": "Corporal Robinson at an [[Independent Wrestling Association Mid-South]] [[house show|live event]] in May 2008",
+        "path": "./datasets/minisubset02_annotated/Corporal_Robinson/title_images/Corporal_Robinson_(cropped).jpg"
+    }
+]

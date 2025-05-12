@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Kate d'Oriola",
+        "birthday": "8 June 1925",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "Kate d\u2019Oriola in 2015",
+        "path": "./datasets/minisubset02_annotated/Catherine_Delbarre/title_images/Kate_d'Oriola_St_Maur_2015_ind_t181834.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "David William Hughes",
+        "birthday": "26 November 1970",
+        "year_of_photo": "2011",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": "Hughes in 2011",
+        "path": "./datasets/minisubset02_annotated/Dave_Hughes/title_images/Tv_week_logies_2011_(cropped).jpg"
+    }
+]

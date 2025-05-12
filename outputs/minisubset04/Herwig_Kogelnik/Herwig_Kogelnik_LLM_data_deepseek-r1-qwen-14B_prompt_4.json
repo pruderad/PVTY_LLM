@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Herwig Kogelnik",
+        "birthday": "June 2, 1932",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Herwig_Kogelnik/title_images/Herwig_Kogelnik_2009.jpg"
+    }
+]

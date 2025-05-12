@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sharolyn Scott Norman",
+        "birthday": "1983-10-27",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Sharolyn_Scott/title_images/Sharolyn_Scott.jpg"
+    }
+]

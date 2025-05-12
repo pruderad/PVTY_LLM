@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Irina Zabludina",
+        "birthday": "1987-02-24",
+        "year_of_photo": "2012",
+        "year_of_photo_int": 2012,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Irina_Zabludina/title_images/Irina_Zabludina.jpg"
+    }
+]

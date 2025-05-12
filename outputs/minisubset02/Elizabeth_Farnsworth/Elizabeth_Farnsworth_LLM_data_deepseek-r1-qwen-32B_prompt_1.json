@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Elizabeth Farnsworth",
+        "birthday": "1943-12-23",
+        "year_of_photo": "fifteen years after her birth",
+        "year_of_photo_int": 1958,
+        "can_determine": true,
+        "caption": "Elizabeth Farnsworth (2008)",
+        "path": "./datasets/minisubset02_annotated/Elizabeth_Farnsworth/title_images/Elizabeth_Farnsworth_photo.jpg"
+    }
+]

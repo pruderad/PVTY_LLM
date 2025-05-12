@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Brett Barry Clark",
+        "birthday": "December 23, 1976",
+        "year_of_photo": "2012",
+        "year_of_photo_int": 2012,
+        "can_determine": true,
+        "caption": "Clark  with the [[Tampa Bay Lightning|Lightning]] in [[2011-12 NHL season|2012]].",
+        "path": "./datasets/minisubset04_annotated/Brett_Clark_(ice_hockey)/title_images/Brett_Clark_Lightning2_2012-02-12.JPG"
+    }
+]

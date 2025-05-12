@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Katrin Juliane Meissner",
+        "birthday": "1970-05-24",
+        "year_of_photo": "somewhere between 1980 and 1990",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Katrin_Meissner_(scientist)/title_images/KJMeissner_portrait_(cropped).jpg"
+    }
+]

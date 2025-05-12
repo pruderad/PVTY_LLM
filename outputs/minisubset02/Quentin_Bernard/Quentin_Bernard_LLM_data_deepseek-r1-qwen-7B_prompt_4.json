@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Quentin Bernard",
+        "birthday": "7 July 1989",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Bernard with [[Stade Brestois 29|Brest]] in 2018",
+        "path": "./datasets/minisubset02_annotated/Quentin_Bernard/title_images/RC_Lens_-_Stade_brestois_(04-12-2018)_52.jpg"
+    }
+]

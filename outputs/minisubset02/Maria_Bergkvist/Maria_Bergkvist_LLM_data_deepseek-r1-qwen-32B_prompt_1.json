@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Maria Bergkvist",
+        "birthday": "1977-08-12",
+        "year_of_photo": "",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Maria Bergkvist in April 2015",
+        "path": "./datasets/minisubset02_annotated/Maria_Bergkvist/title_images/Maria_Bergkvist.jpg"
+    }
+]

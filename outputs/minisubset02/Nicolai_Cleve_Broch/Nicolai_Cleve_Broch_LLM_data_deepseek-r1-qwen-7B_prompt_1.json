@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Nicolai Cleve Broch",
+        "birthday": "1975-11-14",
+        "year_of_photo": "}<think>\nAlright, let's tackle this problem step by step. First, I need to understand what each part of the query is asking for. The user has provided a photo caption and some details about a person named Nicolai Cleve Broch. They want me to extract specific information from these sources and format it in a JSON object with certain fields: name, birthday, year_of_photo, year_of_photo_int, and can_determine. If either the birthday or the year of the photo isn't clear, I should set those values to None and mark can_determine as FALSE. If there's a date range, I need to pick the closest specific year. Okay, got it. Now, let's break down each part of the query to extract the necessary information accurately.\n\nStarting with Step 1: Estimate the year the photo was taken from the caption. The caption mentions that Broch acted as King Olaf II in ",
+        "year_of_photo_int": null,
+        "can_determine": true,
+        "caption": "Broch acting as [[Olaf II of Norway|king Olaf II of Norway]] in ''[[The Saint Olav Drama]]'' at [[Stiklestad]] 2004",
+        "path": "./datasets/minisubset02_annotated/Nicolai_Cleve_Broch/title_images/Nicolai_Cleve_Broch_som_konge_i_spelet_2004.jpg"
+    }
+]

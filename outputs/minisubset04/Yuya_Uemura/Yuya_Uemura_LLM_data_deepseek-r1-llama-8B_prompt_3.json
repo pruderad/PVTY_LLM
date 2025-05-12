@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Uemura",
+        "birthday": "1994-01-01",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "Uemura in November 2023",
+        "path": "./datasets/minisubset04_annotated/Yuya_Uemura/title_images/2023.11.04-uemurayuya.jpg"
+    }
+]

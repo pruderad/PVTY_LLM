@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Name of the person",
+        "birthday": "Full date of birth (as text)",
+        "year_of_photo": "Year the photo was taken (as text)",
+        "year_of_photo_int": null,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Kosuke_Hagino/title_images/Kosuke_Hagino_200216e.jpg"
+    }
+]

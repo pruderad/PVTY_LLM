@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Tatyana Devyatova",
+        "birthday": "19 September 1948",
+        "year_of_photo": "N/A",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Tatyana Devyatova in 1966",
+        "path": "./datasets/minisubset04_annotated/Tatyana_Devyatova/title_images/Tatyana_Devyatova_1966.jpg"
+    }
+]

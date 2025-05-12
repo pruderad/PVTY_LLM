@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Reinier Saxton",
+        "birthday": "10 February",
+        "year_of_photo": ">2023",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Reinier_Saxton/title_images/Reinier_Saxton.JPG"
+    }
+]

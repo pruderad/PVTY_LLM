@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Michael Ferrante",
+        "birthday": "1981-04-28",
+        "year_of_photo": "#N/A#",
+        "year_of_photo_int": 0,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Michael_Ferrante/title_images/Michael_Ferrante.jpg"
+    }
+]

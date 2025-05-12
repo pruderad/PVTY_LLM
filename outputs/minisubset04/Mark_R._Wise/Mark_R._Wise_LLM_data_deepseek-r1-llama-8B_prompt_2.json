@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Mark R. Wise",
+        "birthday": "1973-05-20",
+        "year_of_photo": "2021",
+        "year_of_photo_int": 2021,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Mark_R._Wise/title_images/Lt._Gen._Mark_R._Wise.jpg"
+    }
+]

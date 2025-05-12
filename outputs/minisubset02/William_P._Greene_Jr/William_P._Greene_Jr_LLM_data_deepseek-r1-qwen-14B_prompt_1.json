@@ -1,0 +1,11 @@
+[
+    {
+        "name": "William Parnell Greene Jr.",
+        "birthday": "1943-07-27",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/William_P._Greene_Jr/title_images/William_P._Greene_Jr.jpg"
+    }
+]

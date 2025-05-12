@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Danica Jur\u010dov\u00e1",
+        "birthday": "1976-08-05",
+        "year_of_photo": "somewhere between 2014 and 2016",
+        "year_of_photo_int": 2015,
+        "can_determine": false,
+        "caption": "Jur\u010dov\u00e1 in 2016",
+        "path": "./datasets/minisubset04_annotated/Danica_Jur\u010dov\u00e1/title_images/BSK_2017-01_Kristalove_kridlo_Danica_Jurcova_crop.jpg"
+    }
+]

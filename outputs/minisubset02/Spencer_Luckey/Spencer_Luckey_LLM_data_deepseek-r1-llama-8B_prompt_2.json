@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Spencer Walker Luckey",
+        "birthday": "1983-05-15",
+        "year_of_photo": "2017",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Spencer_Luckey/title_images/NB_Climb.JPG"
+    }
+]

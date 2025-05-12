@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Stanislav Valereyevich Baretsky",
+        "birthday": "8 March 1972",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Stanislav_Baretsky/title_images/Stas_Baretsky_(cropped).jpg"
+    }
+]

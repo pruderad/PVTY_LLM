@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ken Appleby",
+        "birthday": "April 10, 1995",
+        "year_of_photo": "2019",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Appleby with the [[Manitoba Moose]] in 2019",
+        "path": "./datasets/minisubset02_annotated/Ken_Appleby/title_images/Kenappleby.jpg"
+    }
+]

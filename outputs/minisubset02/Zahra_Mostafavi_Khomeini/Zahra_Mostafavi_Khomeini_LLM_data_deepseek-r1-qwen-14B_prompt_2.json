@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Sayyida Zahra Mostafavi Khomeini",
+        "birthday": "13 November 1940",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "right|In the conference of \"Commemoration of Lady of Islamic Republic\", April 2015.",
+        "path": "./datasets/minisubset02_annotated/Zahra_Mostafavi_Khomeini/images/Zahra_Mostafavi_01.jpg"
+    },
+    {
+        "name": "Sayyida Zahra Mostafavi Khomeini",
+        "birthday": "13 November 1940",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Mostafavi in 2018",
+        "path": "./datasets/minisubset02_annotated/Zahra_Mostafavi_Khomeini/title_images/Zahra_Mostafavi_Khomeini_2018_2.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Robert Hartmann",
+        "birthday": "8 September 1979",
+        "year_of_photo": "2022",
+        "year_of_photo_int": 2022,
+        "can_determine": true,
+        "caption": "Hartmann in 2022",
+        "path": "./datasets/minisubset02_annotated/Robert_Hartmann_(referee)/title_images/2022-04-20_Fu\u00dfball,_M\u00e4nner,_DFB-Pokal,_RB_Leipzig_-_1._FC_Union_Berlin_1DX_8168_by_Stepro.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Odd-Bj\u00f8rn Hjelmeset",
+        "birthday": "6 December 1971",
+        "year_of_photo": "2007",
+        "year_of_photo_int": 2007,
+        "can_determine": true,
+        "caption": "Odd-Bj\u00f8rn Hjelmeset during the Royal Palace Sprint in Stockholm, Sweden in March 2007",
+        "path": "./datasets/minisubset04_annotated/Odd-Bj\u00f8rn_Hjelmeset/title_images/Odd-Bj\u00f8rn_Hjelmeset.jpg"
+    }
+]

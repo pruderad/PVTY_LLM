@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Van Dyke Parks",
+        "birthday": "January 3, 1943",
+        "year_of_photo": "late 1967",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Parks in late 1967",
+        "path": "./datasets/minisubset02_annotated/Van_Dyke_Parks/images/Van_Dyke_Parks_1967.png"
+    },
+    {
+        "name": "Van Dyke Parks",
+        "birthday": "January 3, 1943",
+        "year_of_photo": "2004",
+        "year_of_photo_int": 2004,
+        "can_determine": true,
+        "caption": "right|Van Dyke Parks and Brian Wilson onstage at the \"Brian Wilson Presents SMiLE\" premiere in London in 2004.",
+        "path": "./datasets/minisubset02_annotated/Van_Dyke_Parks/images/WilsonParksSmilePremiere.jpg"
+    },
+    {
+        "name": "Van Dyke Parks",
+        "birthday": "January 3, 1943",
+        "year_of_photo": "2010",
+        "year_of_photo_int": 2010,
+        "can_determine": true,
+        "caption": "Parks performing at [[Primavera Sound]] 2010",
+        "path": "./datasets/minisubset02_annotated/Van_Dyke_Parks/title_images/Clare_And_The_Reasons_+_Van_Dyke_Parks_(4660964869)_(cropped).jpg"
+    }
+]

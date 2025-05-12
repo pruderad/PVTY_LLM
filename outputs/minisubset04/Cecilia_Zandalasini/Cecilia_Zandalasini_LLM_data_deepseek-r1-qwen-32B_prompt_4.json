@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Cecilia Zandalasini",
+        "birthday": "16 March 1996",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Zandalasini with the Minnesota Lynx in 2018",
+        "path": "./datasets/minisubset04_annotated/Cecilia_Zandalasini/images/Cecilia_Zandalasini_(30)_on_the_bench_during_a_timeout_in_the_Lynx_vs_Aces_game_(head_shot).jpg"
+    },
+    {
+        "name": "Cecilia Zandalasini",
+        "birthday": "16 March 1996",
+        "year_of_photo": "2019",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Zandalasini with Fenerbah\u00e7e in 2019",
+        "path": "./datasets/minisubset04_annotated/Cecilia_Zandalasini/images/Cecilia_Zandalasini_24_Fenerbah\u00e7e_Women's_Basketball_20191031_(1).jpg"
+    },
+    {
+        "name": "Cecilia Zandalasini",
+        "birthday": "16 March 1996",
+        "year_of_photo": "2024",
+        "year_of_photo_int": 2024,
+        "can_determine": true,
+        "caption": "Zandalasini with the [[Minnesota Lynx]] in 2024",
+        "path": "./datasets/minisubset04_annotated/Cecilia_Zandalasini/title_images/Cecilia_Zandalasini_2024b_(cropped).jpg"
+    }
+]

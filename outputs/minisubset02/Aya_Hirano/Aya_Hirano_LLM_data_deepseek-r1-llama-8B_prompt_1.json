@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Hirano",
+        "birthday": "1987-12-04",
+        "year_of_photo": "When taken in 2019.",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Hirano in 2019",
+        "path": "./datasets/minisubset02_annotated/Aya_Hirano/images/FanimeCon_2019_127_(47956073941)(cropped).png"
+    },
+    {
+        "name": "Hirano",
+        "birthday": "1987-12-04",
+        "year_of_photo": "When taken in 2019 (FanimeCon)",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "Hirano at FanimeCon 2019",
+        "path": "./datasets/minisubset02_annotated/Aya_Hirano/title_images/Aya_Hirano.jpg"
+    }
+]

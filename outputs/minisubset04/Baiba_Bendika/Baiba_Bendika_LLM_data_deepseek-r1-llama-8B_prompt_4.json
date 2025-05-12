@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Baiba Bendika",
+        "birthday": "1991-06-27",
+        "year_of_photo": "2017",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": "Bendika in 2017",
+        "path": "./datasets/minisubset04_annotated/Baiba_Bendika/title_images/Baiba_Bendika_(LAT)_2017.JPG"
+    }
+]

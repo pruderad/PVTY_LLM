@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Vimalakka",
+        "birthday": "1964-05-15",
+        "year_of_photo": "1987",
+        "year_of_photo_int": 1987,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Vimalakka/title_images/Vimalakka_image.jpg"
+    }
+]

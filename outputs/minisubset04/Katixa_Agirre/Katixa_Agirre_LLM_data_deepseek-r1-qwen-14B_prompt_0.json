@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Katixa Agirre",
+        "birthday": "October 27, 1980",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Katixa Agirre",
+        "path": "./datasets/minisubset04_annotated/Katixa_Agirre/title_images/Katixa_Agirre.jpg"
+    }
+]

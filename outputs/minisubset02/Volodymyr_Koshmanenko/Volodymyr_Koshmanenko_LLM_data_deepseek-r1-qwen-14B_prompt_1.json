@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Volodymyr Koshmanenko",
+        "birthday": "1943-07-28",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Volodymyr_Koshmanenko/title_images/Koshmanenko.png"
+    }
+]

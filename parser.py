@@ -100,7 +100,7 @@ class PersonParser:
 
             person_json = self.load_caption_json(path_to_person, caption_file)
             bbox_csv_file = self.load_bbox_desc_file(parse_bboxes, path_to_person, subdirectory)
-            page_url = self.get_url_to_page(person_name)
+            #page_url = self.get_url_to_page(person_name)
             text = self.load_text(path_to_person)
 
             for image_description in person_json:

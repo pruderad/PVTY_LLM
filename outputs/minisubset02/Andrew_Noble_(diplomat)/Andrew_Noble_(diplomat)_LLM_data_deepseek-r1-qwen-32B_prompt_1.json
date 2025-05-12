@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Andrew James Noble",
+        "birthday": "1954-07-23",
+        "year_of_photo": "He joined the FCO in 1982.",
+        "year_of_photo_int": 1982,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Andrew_Noble_(diplomat)/title_images/Andrew_Noble.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Choi In-Jeong",
+        "birthday": "21 May 1990",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Choi_In-jeong/title_images/Choi_In-Jeong.jpg"
+    }
+]

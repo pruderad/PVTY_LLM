@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Tukupa-Ke Taa\u2019i Hau Tapuha",
+        "birthday": "10 December 2001",
+        "year_of_photo": "2021",
+        "year_of_photo_int": 2021,
+        "can_determine": true,
+        "caption": "Hau Tapuha playing for the North Sydney Bears in 2021",
+        "path": "./datasets/minisubset04_annotated/Tuku_Hau_Tapuha/images/Tuku_Hau_Tapuha.jpg"
+    },
+    {
+        "name": "Tukupa-Ke Taa\u2019i Hau Tapuha",
+        "birthday": "10 December 2001",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "Hau Tapuha playing for [[Newtown Jets]]",
+        "path": "./datasets/minisubset04_annotated/Tuku_Hau_Tapuha/title_images/Tuku_Hau_Tapuha_-_52831604360.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Victoria Sukhareva",
+        "birthday": "14 August 1990",
+        "year_of_photo": "2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Victoria_Sukhareva/title_images/2014_Acrobatic_Gymnastics_World_Championships_-_Women's_group_-_Qualifications_-_Russia_2_09.jpg"
+    }
+]

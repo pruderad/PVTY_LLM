@@ -1,0 +1,29 @@
+[
+    {
+        "name": "G\u00f6khan T\u00f6re",
+        "birthday": "20 January 1992",
+        "year_of_photo": "February 2014",
+        "year_of_photo_int": 2014,
+        "can_determine": true,
+        "caption": "upright|180px|T\u00f6re in action for Be\u015fikta\u015f in February 2014",
+        "path": "./datasets/minisubset02_annotated/G\u00f6khan_T\u00f6re/images/G\u00f6khan_T\u00f6re'14.JPG"
+    },
+    {
+        "name": "G\u00f6khan T\u00f6re",
+        "birthday": "20 January 1992",
+        "year_of_photo": "2011",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": "upright|150px|T\u00f6re playing for Turkey in 2011",
+        "path": "./datasets/minisubset02_annotated/G\u00f6khan_T\u00f6re/images/G\u00f6khanT\u00f6re.jpg"
+    },
+    {
+        "name": "G\u00f6khan T\u00f6re",
+        "birthday": "20 January 1992",
+        "year_of_photo": "2013",
+        "year_of_photo_int": 2013,
+        "can_determine": true,
+        "caption": "T\u00f6re in 2013",
+        "path": "./datasets/minisubset02_annotated/G\u00f6khan_T\u00f6re/title_images/G\u00f6khan_T\u00f6re_2013_1.jpg"
+    }
+]

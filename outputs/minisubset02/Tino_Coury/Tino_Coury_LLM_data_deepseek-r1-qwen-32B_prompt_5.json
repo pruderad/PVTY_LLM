@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Robertino Coury",
+        "birthday": "1988-02-23",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "Coury at Ne-yo's EMI Party",
+        "path": "./datasets/minisubset02_annotated/Tino_Coury/title_images/Tino_Wiki.jpg"
+    }
+]

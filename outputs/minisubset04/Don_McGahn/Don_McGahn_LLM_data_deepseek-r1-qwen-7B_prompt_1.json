@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Donald Francis McGahn II",
+        "birthday": "1968-06-16",
+        "year_of_photo": ">2023",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Don_McGahn/title_images/Don_McGahn_official_photo.png"
+    }
+]

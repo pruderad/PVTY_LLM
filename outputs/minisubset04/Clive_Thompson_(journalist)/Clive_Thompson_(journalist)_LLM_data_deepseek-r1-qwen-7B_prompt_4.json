@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Clive Thompson",
+        "birthday": "30 October 1968",
+        "year_of_photo": "2007",
+        "year_of_photo_int": 2007,
+        "can_determine": true,
+        "caption": "Thompson at [[Games for Change]] conference, 2007",
+        "path": "./datasets/minisubset04_annotated/Clive_Thompson_(journalist)/title_images/Clive_Thompson_at_Games_for_Change_conference.jpg"
+    }
+]

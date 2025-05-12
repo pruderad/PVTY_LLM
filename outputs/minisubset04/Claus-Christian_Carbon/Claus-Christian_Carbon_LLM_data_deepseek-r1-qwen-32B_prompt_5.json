@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Claus-Christian Carbon",
+        "birthday": "23 March 1971",
+        "year_of_photo": "2021",
+        "year_of_photo_int": 2021,
+        "can_determine": true,
+        "caption": "[[File:Google-Cardboard.jpg|50px|link=Stereoscopy#Stereoscope_and_stereographic_cards]] Claus-Christian Carbon in Bamberg in front of [[Mona Lisa (Prado's version)|Mona Lisa]]",
+        "path": "./datasets/minisubset04_annotated/Claus-Christian_Carbon/title_images/Claus-Christian_Carbon.jpg"
+    }
+]

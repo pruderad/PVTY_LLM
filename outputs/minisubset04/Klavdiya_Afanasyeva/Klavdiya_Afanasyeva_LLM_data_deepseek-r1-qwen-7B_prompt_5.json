@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Klavdiya Yuryevna Afanasyeva",
+        "birthday": "15 January 1996",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Klavdiya_Afanasyeva/title_images/Klavdiya_Afanasyeva.png"
+    }
+]

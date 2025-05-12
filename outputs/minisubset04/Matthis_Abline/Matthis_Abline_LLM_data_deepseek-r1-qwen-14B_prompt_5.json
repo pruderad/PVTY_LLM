@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Matthis Abline",
+        "birthday": "2003-03-28",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "Abline with [[FC Nantes|Nantes]] in 2023",
+        "path": "./datasets/minisubset04_annotated/Matthis_Abline/title_images/RC_Lens_-_FC_Nantes_(28-10-2023)_19_(cropped).jpg"
+    }
+]

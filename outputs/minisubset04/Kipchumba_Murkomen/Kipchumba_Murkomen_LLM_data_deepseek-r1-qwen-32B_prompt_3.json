@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Onesimus Kipchumba Murkomen",
+        "birthday": "12 March 1979",
+        "year_of_photo": "2024",
+        "year_of_photo_int": 2024,
+        "can_determine": true,
+        "caption": "Kipchumba in 2024",
+        "path": "./datasets/minisubset04_annotated/Kipchumba_Murkomen/title_images/Kipchumba_in_2024.jpg"
+    }
+]

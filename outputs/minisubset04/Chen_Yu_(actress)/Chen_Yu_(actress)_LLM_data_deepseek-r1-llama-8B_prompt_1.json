@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Chen Yu",
+        "birthday": "1994-05-07",
+        "year_of_photo": "2019",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "alt=This person",
+        "path": "./datasets/minisubset04_annotated/Chen_Yu_(actress)/images/Chen_Yu--2023.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Hajime Hagino",
+        "birthday": "1981-08-01",
+        "year_of_photo": "2016",
+        "year_of_photo_int": 2016,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Kosuke_Hagino/title_images/Kosuke_Hagino_200216e.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Aleksey Igorevich Verbov",
+        "birthday": "31 January 1982",
+        "year_of_photo": "2013",
+        "year_of_photo_int": 2013,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Aleksey_Verbov/title_images/Aleksej_Verbov.jpg"
+    }
+]

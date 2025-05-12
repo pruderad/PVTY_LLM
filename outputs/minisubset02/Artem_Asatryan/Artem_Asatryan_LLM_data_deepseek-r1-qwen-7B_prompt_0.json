@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Artem Janik Asatryan",
+        "birthday": "May 23, 1972",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Artem_Asatryan/title_images/Artem-Asatryan-Armenia-Minister.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Natascha Wodin",
+        "birthday": "1945-12-08",
+        "year_of_photo": "",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Natascha Wodin in 2016",
+        "path": "./datasets/minisubset04_annotated/Natascha_Wodin/title_images/Natascha_Wodin.jpg"
+    }
+]

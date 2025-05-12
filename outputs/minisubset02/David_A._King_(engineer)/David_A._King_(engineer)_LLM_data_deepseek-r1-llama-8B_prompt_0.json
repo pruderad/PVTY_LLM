@@ -1,0 +1,11 @@
+[
+    {
+        "name": "David Arnold King",
+        "birthday": "1943-05-06",
+        "year_of_photo": "1984",
+        "year_of_photo_int": 1984,
+        "can_determine": true,
+        "caption": "Official NASA portrait of David A. King",
+        "path": "./datasets/minisubset02_annotated/David_A._King_(engineer)/title_images/DavidAKing.jpg"
+    }
+]

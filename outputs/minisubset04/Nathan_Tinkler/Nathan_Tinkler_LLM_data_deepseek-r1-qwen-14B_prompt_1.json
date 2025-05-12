@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Nathan Tinkler",
+        "birthday": "1976-02-01",
+        "year_of_photo": "",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "at ICAC, 2014",
+        "path": "./datasets/minisubset04_annotated/Nathan_Tinkler/title_images/Nathan_Tinkler_at_ICAC.jpg"
+    }
+]

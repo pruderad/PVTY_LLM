@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Yuqi",
+        "birthday": "1999-09-23",
+        "year_of_photo": "When the photo was taken, it's mentioned that Yuqi made her solo debut in May 2021 with single album A Page. However, there is no explicit mention of a specific photo being taken in 2018.",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "upright=1|left|Yuqi in 2018",
+        "path": "./datasets/minisubset04_annotated/Yuqi/images/6\uc6d4_2\uc77c_(\uc5ec\uc790)\uc544\uc774\ub4e4_\ud32c\uc0ac\uc778\ud68c_(6)_(cropped).jpg"
+    },
+    {
+        "name": "Yuqi",
+        "birthday": "1999-09-23",
+        "year_of_photo": "My photo was taken in 2021.",
+        "year_of_photo_int": 2021,
+        "can_determine": true,
+        "caption": "upright=1|right|Yuqi in 2021",
+        "path": "./datasets/minisubset04_annotated/Yuqi/images/20210113\u2014Song_Yuqi_\uc1a1\uc6b0\uae30_interview,_Marie_Claire_Korea_screenshot.jpg"
+    },
+    {
+        "name": "Yuqi",
+        "birthday": "1999-09-23",
+        "year_of_photo": "There's no information about the year the photo was taken.",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Yuqi in 2023",
+        "path": "./datasets/minisubset04_annotated/Yuqi/title_images/20230630_Song_Yu-qi.jpg"
+    }
+]

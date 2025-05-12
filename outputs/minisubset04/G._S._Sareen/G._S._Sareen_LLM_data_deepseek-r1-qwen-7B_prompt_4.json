@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Gajendra Singh Sareen",
+        "birthday": "7 November 1966",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/G._S._Sareen/title_images/GSSareen_JTN_2672-Edit.jpg"
+    }
+]

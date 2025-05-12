@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sylvie Mamy",
+        "birthday": "",
+        "year_of_photo": "2019",
+        "year_of_photo_int": 2019,
+        "can_determine": true,
+        "caption": "{{center|Sylvie Mamy}}",
+        "path": "./datasets/minisubset04_annotated/Sylvie_Mamy/images/Photo_Sylvie_Mamy.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "LaVall Jurrant Jordan",
+        "birthday": "April 16, 1979",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "LaVall Jordan in 2015",
+        "path": "./datasets/minisubset02_annotated/LaVall_Jordan/title_images/LaVall_Jordan_(cropped).JPG"
+    }
+]

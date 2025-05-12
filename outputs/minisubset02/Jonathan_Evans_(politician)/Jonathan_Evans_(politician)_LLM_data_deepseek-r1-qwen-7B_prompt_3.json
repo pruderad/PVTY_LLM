@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jonathan Peter Evans",
+        "birthday": "2 June 1950",
+        "year_of_photo": "2007",
+        "year_of_photo_int": 2007,
+        "can_determine": true,
+        "caption": "Evans in 2007",
+        "path": "./datasets/minisubset02_annotated/Jonathan_Evans_(politician)/title_images/Evans,_Jonathan_(crop).jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Bob Raku\u0161an",
+        "birthday": "1948-02-06",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Bob_Raku\u0161an/title_images/Bob_Raku\u0161an_-_portrait.png"
+    }
+]

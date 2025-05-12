@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Salma Hage",
+        "birthday": "8 January 1942",
+        "year_of_photo": "null",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Salma Hage",
+        "path": "./datasets/minisubset02_annotated/Salma_Hage/images/Salma_Hage_Portrait.jpg"
+    }
+]

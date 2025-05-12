@@ -1,0 +1,5 @@
+INFO: Using device: cuda
+
+INFO: Number of GPUs: 1
+INFO: Ollama running
+INFO-PARSER: Json file already exists.

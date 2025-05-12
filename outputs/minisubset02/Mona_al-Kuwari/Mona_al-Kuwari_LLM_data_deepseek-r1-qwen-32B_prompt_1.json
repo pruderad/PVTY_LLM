@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Mona al-Kuwari",
+        "birthday": "1970-05-10",
+        "year_of_photo": "fifteen years after her birth",
+        "year_of_photo_int": 1985,
+        "can_determine": true,
+        "caption": "Mona al-Kuwari, 10 May 2016",
+        "path": "./datasets/minisubset02_annotated/Mona_al-Kuwari/title_images/Mona_al-Kuwari,_Bahrain_TV_-_May_10,_2016.jpg"
+    }
+]

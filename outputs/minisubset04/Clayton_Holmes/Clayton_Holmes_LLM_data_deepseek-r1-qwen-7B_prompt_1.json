@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Clayton Holmes",
+        "birthday": "1969-08-23",
+        "year_of_photo": "?",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Holmes in 2014",
+        "path": "./datasets/minisubset04_annotated/Clayton_Holmes/title_images/Clayton_Holmes.jpg"
+    }
+]

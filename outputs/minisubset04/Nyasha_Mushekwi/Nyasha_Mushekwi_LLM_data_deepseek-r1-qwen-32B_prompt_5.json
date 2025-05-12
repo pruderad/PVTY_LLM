@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Nyasha Liberty Mushekwi",
+        "birthday": "21 August 1987",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "Mushekwi playing for [[Djurg\u00e5rdens IF Fotboll|Djurg\u00e5rdens IF]] in 2015.",
+        "path": "./datasets/minisubset04_annotated/Nyasha_Mushekwi/title_images/Nyasha_Mushekwi.jpg"
+    }
+]

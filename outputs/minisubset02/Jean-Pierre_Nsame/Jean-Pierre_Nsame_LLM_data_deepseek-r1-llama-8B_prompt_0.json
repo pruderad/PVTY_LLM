@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Jean-Pierre Nsame",
+        "birthday": "1993-05-01",
+        "year_of_photo": "2017",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": "Jean-Pierre Nsame playing for [[BSC Young Boys]] in 2017",
+        "path": "./datasets/minisubset02_annotated/Jean-Pierre_Nsame/title_images/Jean-Pierre_Nsame_2017_(cropped).jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Emily Wells",
+        "birthday": "November 20, 1981",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "Wells performing at [[Treefort Music Fest]] 2015",
+        "path": "./datasets/minisubset02_annotated/Emily_Wells/title_images/2015_Emily_Wells-Main_Stage-Treefort-Credit-Rase_Littlefield_(16806947590).jpg"
+    }
+]

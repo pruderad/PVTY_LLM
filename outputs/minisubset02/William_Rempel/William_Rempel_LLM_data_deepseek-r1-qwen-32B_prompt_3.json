@@ -1,0 +1,11 @@
+[
+    {
+        "name": "William Charles Rempel",
+        "birthday": "1947",
+        "year_of_photo": "2017",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": "William C. Rempel in 2017",
+        "path": "./datasets/minisubset02_annotated/William_Rempel/title_images/Bill_Rempel.jpg"
+    }
+]

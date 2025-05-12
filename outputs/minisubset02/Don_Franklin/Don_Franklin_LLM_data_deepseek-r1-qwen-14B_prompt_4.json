@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Don Franklin",
+        "birthday": "December 14, 1960",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Don_Franklin/title_images/Don_Franklin_Publicity_Image.jpg"
+    }
+]

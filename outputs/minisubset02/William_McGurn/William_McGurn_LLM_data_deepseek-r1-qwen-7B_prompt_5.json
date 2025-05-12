@@ -1,0 +1,11 @@
+[
+    {
+        "name": "William McGurn",
+        "birthday": "December 4, 1958",
+        "year_of_photo": "2006",
+        "year_of_photo_int": 2006,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/William_McGurn/title_images/William_McGurn_1.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Robert Bower 'Buzz' Peterson Jr.",
+        "birthday": "May 17, 1963",
+        "year_of_photo": "2012",
+        "year_of_photo_int": 2012,
+        "can_determine": true,
+        "caption": "Peterson in 2012",
+        "path": "./datasets/minisubset02_annotated/Buzz_Peterson/title_images/Buzz_Peterson_2012.jpg"
+    }
+]

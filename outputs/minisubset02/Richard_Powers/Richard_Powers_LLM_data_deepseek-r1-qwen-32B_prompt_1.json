@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Richard Powers",
+        "birthday": "June 18, 1957",
+        "year_of_photo": "April 2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Powers reading in April 2018",
+        "path": "./datasets/minisubset02_annotated/Richard_Powers/title_images/Richard_Powers_(author).jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Valery Yakovlevich Komissarov",
+        "birthday": "12 April 1965",
+        "year_of_photo": "1988",
+        "year_of_photo_int": 1988,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Valery_Komissarov/title_images/Valery_Komissarov.jpg"
+    }
+]

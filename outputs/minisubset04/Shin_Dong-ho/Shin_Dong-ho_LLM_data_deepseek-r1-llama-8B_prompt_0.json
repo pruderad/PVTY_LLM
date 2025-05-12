@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Shin Dong-ho",
+        "birthday": "1994-06-29",
+        "year_of_photo": "2015",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Shin_Dong-ho/title_images/Shin_Dongho_(U-KISS)_from_acrofan.jpg"
+    }
+]

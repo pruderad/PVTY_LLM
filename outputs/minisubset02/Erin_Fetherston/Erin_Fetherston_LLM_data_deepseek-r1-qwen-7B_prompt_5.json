@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Erin Fetherston",
+        "birthday": "August 22, 1981",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Fetherston in 2018 (photo: Juan Algarin)",
+        "path": "./datasets/minisubset02_annotated/Erin_Fetherston/title_images/Erin_Fetherston_in_2018.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Rich Paul",
+        "birthday": "December 16, 1980",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "Paul in 2023",
+        "path": "./datasets/minisubset04_annotated/Rich_Paul/title_images/Rich_Paul_NFL_Draft_Interview.png"
+    }
+]

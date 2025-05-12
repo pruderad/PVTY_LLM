@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Irena Pantelic",
+        "birthday": "1981-05-23",
+        "year_of_photo": "}<think>Alright, let's tackle this problem step by step. I have a caption that says ",
+        "year_of_photo_int": 2007,
+        "can_determine": true,
+        "caption": "Irena Pantelic at her wedding in 2007",
+        "path": "./datasets/minisubset04_annotated/Irena_Pantelic/title_images/Irena_Pantelic_wedding.JPG"
+    }
+]

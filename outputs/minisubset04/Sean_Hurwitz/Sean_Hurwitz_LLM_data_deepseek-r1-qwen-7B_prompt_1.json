@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sean Hurwitz",
+        "birthday": "1980-05-23",
+        "year_of_photo": "Late 2010s",
+        "year_of_photo_int": 2015,
+        "can_determine": true,
+        "caption": "Sean Hurwitz performing live with Smash Mouth in Woodinville, Washington",
+        "path": "./datasets/minisubset04_annotated/Sean_Hurwitz/title_images/Sean_Hurwitz.jpg"
+    }
+]

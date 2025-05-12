@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Bennie Cordell Logan",
+        "birthday": "December 28, 1989",
+        "year_of_photo": "2013",
+        "year_of_photo_int": 2013,
+        "can_determine": true,
+        "caption": "left|Logan pursues Redskins quarterback Robert Griffin III in 2013.",
+        "path": "./datasets/minisubset02_annotated/Bennie_Logan/images/Bennie_Logan13.jpg"
+    },
+    {
+        "name": "Bennie Cordell Logan",
+        "birthday": "December 28, 1989",
+        "year_of_photo": "2013",
+        "year_of_photo_int": 2013,
+        "can_determine": true,
+        "caption": "Logan with the Philadelphia Eagles in 2013",
+        "path": "./datasets/minisubset02_annotated/Bennie_Logan/title_images/Bennie_Logan.JPG"
+    }
+]

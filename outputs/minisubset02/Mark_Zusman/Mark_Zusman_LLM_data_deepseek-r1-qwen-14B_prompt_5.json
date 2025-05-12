@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Mark Zusman",
+        "birthday": "1954",
+        "year_of_photo": "2007",
+        "year_of_photo_int": 2007,
+        "can_determine": true,
+        "caption": "right|Mark Zusman in 2007",
+        "path": "./datasets/minisubset02_annotated/Mark_Zusman/images/Mark_Zusman_in_2007.jpg"
+    }
+]

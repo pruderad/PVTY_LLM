@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Dallas Gant",
+        "birthday": "May 16, 2000",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "Gant with the Rockets in 2023",
+        "path": "./datasets/minisubset02_annotated/Dallas_Gant/title_images/Dallas_Gant_Toledo_Rockets_Football,_December_2023.jpg"
+    }
+]

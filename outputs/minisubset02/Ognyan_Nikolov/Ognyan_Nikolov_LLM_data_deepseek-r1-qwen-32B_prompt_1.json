@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ognyan Velikov Nikolov",
+        "birthday": "1949-06-13",
+        "year_of_photo": "But how do I determine the year of the photo? The caption says it's from the 1972 Olympics, so maybe that's when the photo was taken. So year_of_photo would be 1972.",
+        "year_of_photo_int": 1972,
+        "can_determine": true,
+        "caption": "Nikolov (left) at the 1972 Olympics",
+        "path": "./datasets/minisubset02_annotated/Ognyan_Nikolov/title_images/Ognyan_Nikolov,_Roman_Dmitriyev,_Ibrahim_Javadi_1972.jpg"
+    }
+]

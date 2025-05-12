@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ekkaluck Thongkit",
+        "birthday": "August 27, 1983",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Ekkaluck (right)",
+        "path": "./datasets/minisubset02_annotated/Ekkaluck_Thongkit/title_images/Ekkaluck_Thonghkit_20191102.jpg"
+    }
+]

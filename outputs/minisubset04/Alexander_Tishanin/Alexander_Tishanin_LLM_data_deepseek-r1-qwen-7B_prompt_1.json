@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Alexander Georgiyevich Tishanin",
+        "birthday": "1966-04-20",
+        "year_of_photo": ">=2016",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Tishanin in 2016",
+        "path": "./datasets/minisubset04_annotated/Alexander_Tishanin/title_images/Alexander_Tishanin.jpg"
+    }
+]

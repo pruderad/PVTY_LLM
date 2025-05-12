@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Daniel MacAskill",
+        "birthday": "23 December 1985",
+        "year_of_photo": "2009",
+        "year_of_photo_int": 2009,
+        "can_determine": true,
+        "caption": "MacAskill in 2009",
+        "path": "./datasets/minisubset02_annotated/Danny_MacAskill/title_images/Danny_MacAskill.jpg"
+    }
+]

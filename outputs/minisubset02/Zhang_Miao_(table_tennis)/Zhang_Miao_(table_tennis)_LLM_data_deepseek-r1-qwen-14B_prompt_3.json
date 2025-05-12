@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Zhang Miao",
+        "birthday": "July 8, 1991",
+        "year_of_photo": "2011",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": "Zhang in 2011",
+        "path": "./datasets/minisubset02_annotated/Zhang_Miao_(table_tennis)/title_images/Zhang_Miao_Slovenia_Open_2011_3.jpeg"
+    }
+]

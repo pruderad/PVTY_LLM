@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sylvie Mamy",
+        "birthday": "1972-05-12",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": "{{center|Sylvie Mamy}}",
+        "path": "./datasets/minisubset04_annotated/Sylvie_Mamy/images/Photo_Sylvie_Mamy.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Donna Hoffman",
+        "birthday": "1984-05-15",
+        "year_of_photo": "2017",
+        "year_of_photo_int": 2017,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Donna_Hoffman/title_images/Donna_Hoffman_2013_headshot.png"
+    }
+]

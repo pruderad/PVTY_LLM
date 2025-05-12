@@ -1,0 +1,11 @@
+[
+    {
+        "name": "David Henzel",
+        "birthday": "1980-05-23",
+        "year_of_photo": "further investigation needed",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/David_Henzel/title_images/David_Henzel_Picture.jpg"
+    }
+]

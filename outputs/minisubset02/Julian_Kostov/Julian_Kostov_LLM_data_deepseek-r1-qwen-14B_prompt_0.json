@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Julian Kostov",
+        "birthday": "25 August 1989",
+        "year_of_photo": "unknown",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Julian Kostov by Diana King",
+        "path": "./datasets/minisubset02_annotated/Julian_Kostov/title_images/Julian_kostov_2021_1.jpg"
+    }
+]

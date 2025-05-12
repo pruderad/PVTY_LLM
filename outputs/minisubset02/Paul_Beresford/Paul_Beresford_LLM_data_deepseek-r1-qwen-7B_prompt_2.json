@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sir Alexander Paul Beresford",
+        "birthday": "06 April 1946",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Paul_Beresford/title_images/PaulBeresford.png"
+    }
+]

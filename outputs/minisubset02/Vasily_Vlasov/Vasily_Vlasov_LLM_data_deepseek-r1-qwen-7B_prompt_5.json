@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Vasily Maksimovich Vlasov",
+        "birthday": "27 June 1995",
+        "year_of_photo": "2018",
+        "year_of_photo_int": 2018,
+        "can_determine": true,
+        "caption": "Vlasov in 2018",
+        "path": "./datasets/minisubset02_annotated/Vasily_Vlasov/title_images/Vasily_Vlasov_2018_(cropped).jpg"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sean Peter Becker",
+        "birthday": "7 July 1975",
+        "year_of_photo": "1998",
+        "year_of_photo_int": 1998,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Sean_Becker/title_images/Seanbecker.jpg"
+    }
+]

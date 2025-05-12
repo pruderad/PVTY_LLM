@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Terrance Lin",
+        "birthday": "6 July",
+        "year_of_photo": "N/A",
+        "year_of_photo_int": 0,
+        "can_determine": false,
+        "caption": "Lin in 2008",
+        "path": "./datasets/minisubset04_annotated/Terry_Lin/title_images/Terry_Lin_20081206.jpg"
+    }
+]

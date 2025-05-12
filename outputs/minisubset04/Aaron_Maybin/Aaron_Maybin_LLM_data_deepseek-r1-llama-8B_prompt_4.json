@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Aaron Michael Maybin",
+        "birthday": "April 6, 1988",
+        "year_of_photo": "2011",
+        "year_of_photo_int": 2011,
+        "can_determine": true,
+        "caption": "Maybin with the New York Jets in 2011",
+        "path": "./datasets/minisubset04_annotated/Aaron_Maybin/title_images/Aaron_Maybin.JPG"
+    }
+]

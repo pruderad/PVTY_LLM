@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Samuel Frick",
+        "birthday": "14 April 1992",
+        "year_of_photo": "2023",
+        "year_of_photo_int": 2023,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Per_Frick/title_images/Per_Frick_(Elfsborg_vs_AIK,_23_October_2023).jpg"
+    }
+]

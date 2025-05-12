@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Lisa Lynn Cunningham",
+        "birthday": "1960-05-23",
+        "year_of_photo": "He was born in 1960.",
+        "year_of_photo_int": 1960,
+        "can_determine": true,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Lisa_L._Cunningham/title_images/Lisa_L._Cunningham.jpg"
+    }
+]

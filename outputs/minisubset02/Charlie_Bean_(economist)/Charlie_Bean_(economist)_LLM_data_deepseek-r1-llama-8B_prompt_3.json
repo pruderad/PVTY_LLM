@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sir Charles Richard Bean",
+        "birthday": "16 September 1953",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset02_annotated/Charlie_Bean_(economist)/title_images/Charlie_Bean.jpg"
+    }
+]

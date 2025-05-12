@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Sadiq Adebiyi",
+        "birthday": "1997-01-08",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": null,
+        "path": "./datasets/minisubset04_annotated/Sadiq_Adebiyi/title_images/Sid_Adebiyi_2018.jpg"
+    }
+]

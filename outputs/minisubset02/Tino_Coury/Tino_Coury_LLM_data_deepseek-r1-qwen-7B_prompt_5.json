@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Tino Coury",
+        "birthday": "null",
+        "year_of_photo": "1984",
+        "year_of_photo_int": 1984,
+        "can_determine": true,
+        "caption": "Coury at Ne-yo's EMI Party",
+        "path": "./datasets/minisubset02_annotated/Tino_Coury/title_images/Tino_Wiki.jpg"
+    }
+]

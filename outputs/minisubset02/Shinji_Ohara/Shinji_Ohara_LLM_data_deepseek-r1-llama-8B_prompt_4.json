@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ohara",
+        "birthday": "None",
+        "year_of_photo": "None",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "Ohara with the Yokohama DeNA BayStars",
+        "path": "./datasets/minisubset02_annotated/Shinji_Ohara/title_images/20130421_Shinji_Ohara,_pitcher_of_the_Yokohama_DeNA_BayStars,_at_Yokohama_Stadium.JPG"
+    }
+]

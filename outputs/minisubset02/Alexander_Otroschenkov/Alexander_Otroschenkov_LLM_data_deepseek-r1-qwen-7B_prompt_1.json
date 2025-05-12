@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Alexander Otroschenkov",
+        "birthday": "1980-05-24",
+        "year_of_photo": "further investigation needed",
+        "year_of_photo_int": null,
+        "can_determine": false,
+        "caption": "right|160px",
+        "path": "./datasets/minisubset02_annotated/Alexander_Otroschenkov/images/Alexander_Otroschenkov.png"
+    }
+]
