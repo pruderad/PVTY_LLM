@@ -1,0 +1,17 @@
+name: ollama_env
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - pydantic
+      - torch
+      - tqdm
+      - pandas
+      - matplotlib
+      - pyyaml
+      - requests
+      - ollama
+      - beautifulsoup4  # used in some html/text parsing
+      - python-dateutil  # used for date parsing

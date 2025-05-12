@@ -1,0 +1,98 @@
+[
+    {
+        "timestamp": "2025-05-12,22:24:54",
+        "model": "llama3-3-70B",
+        "model_load_time": 321.88947120995726,
+        "mean_annotation_time_sec_per_image": {
+            "prompt_0": 3.6069,
+            "prompt_1": 3.4647,
+            "prompt_2": 3.5173,
+            "prompt_3": 3.4777,
+            "prompt_4": 3.412,
+            "prompt_5": 3.4199
+        },
+        "number_of_annotations": 36,
+        "total_annotation_time": 125.64545693597756,
+        "total_time": 447.53492658399045
+    },
+    {
+        "timestamp": "2025-05-12,22:34:42",
+        "model": "deepseek-r1-llama-70B",
+        "model_load_time": 460.0053811619291,
+        "mean_annotation_time_sec_per_image": {
+            "prompt_0": 3.6697,
+            "prompt_1": 3.6412,
+            "prompt_2": 3.608,
+            "prompt_3": 3.4592,
+            "prompt_4": 3.4731,
+            "prompt_5": 3.4837
+        },
+        "number_of_annotations": 36,
+        "total_annotation_time": 128.16163107100874,
+        "total_time": 588.1670117119793
+    },
+    {
+        "timestamp": "2025-05-12,22:39:11",
+        "model": "deepseek-r1-qwen-32B",
+        "model_load_time": 170.23335114005022,
+        "mean_annotation_time_sec_per_image": {
+            "prompt_0": 2.7871,
+            "prompt_1": 2.7336,
+            "prompt_2": 2.6811,
+            "prompt_3": 2.7255,
+            "prompt_4": 2.7302,
+            "prompt_5": 2.6784
+        },
+        "number_of_annotations": 36,
+        "total_annotation_time": 98.15633543895092,
+        "total_time": 268.38968628796283
+    },
+    {
+        "timestamp": "2025-05-12,22:41:05",
+        "model": "deepseek-r1-qwen-14B",
+        "model_load_time": 65.92442504805513,
+        "mean_annotation_time_sec_per_image": {
+            "prompt_0": 1.4841,
+            "prompt_1": 1.3292,
+            "prompt_2": 1.3492,
+            "prompt_3": 1.3088,
+            "prompt_4": 1.3012,
+            "prompt_5": 1.3225
+        },
+        "number_of_annotations": 36,
+        "total_annotation_time": 48.717381138005294,
+        "total_time": 114.64180573506746
+    },
+    {
+        "timestamp": "2025-05-12,22:42:10",
+        "model": "deepseek-r1-llama-8B",
+        "model_load_time": 38.72059318609536,
+        "mean_annotation_time_sec_per_image": {
+            "prompt_0": 0.8287,
+            "prompt_1": 0.6884,
+            "prompt_2": 0.7073,
+            "prompt_3": 0.6916,
+            "prompt_4": 0.6564,
+            "prompt_5": 0.7095
+        },
+        "number_of_annotations": 36,
+        "total_annotation_time": 25.856682801968418,
+        "total_time": 64.57727549702395
+    },
+    {
+        "timestamp": "2025-05-12,22:43:20",
+        "model": "deepseek-r1-qwen-7B",
+        "model_load_time": 35.953011326957494,
+        "mean_annotation_time_sec_per_image": {
+            "prompt_0": 1.0736,
+            "prompt_1": 0.9434,
+            "prompt_2": 0.8944,
+            "prompt_3": 0.9065,
+            "prompt_4": 0.9531,
+            "prompt_5": 0.8583
+        },
+        "number_of_annotations": 36,
+        "total_annotation_time": 33.92068920505699,
+        "total_time": 69.87369923002552
+    }
+]

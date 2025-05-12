@@ -7,7 +7,6 @@ from pathlib import Path
 from datetime import datetime
 
 
-
 def extract_year(date_str: str):
     try:
         dt = parser.parse(date_str, fuzzy=True)
@@ -26,7 +25,7 @@ def load_yaml_config(path):
 
 def is_ollama_running():
     try:
-        output = subprocess.check_output(["pgrep", "-f", "/home/pruderad/bin/ollama"])
+        output = subprocess.check_output(["pgrep", "-f", "~/home/bin/ollama"])
         return True
     except subprocess.CalledProcessError:
         return False
@@ -38,7 +37,7 @@ def ollama_load_model(model):
         options={'temperature': 0},  # Use deterministic output
     )
 
-def save_stats_entry(stats_path: Path, model_name: str, mean_annotation_time: dict, model_load_time: float, n_images: int, total_time: float):
+def save_stats_entry(stats_path: Path, model_name: str, mean_annotation_time: dict, total_annotation_time: float, model_load_time: float, n_annotations: int, total_time: float):
     stats_path.parent.mkdir(parents=True, exist_ok=True)
 
     # Load existing stats if they exist
@@ -53,12 +52,13 @@ def save_stats_entry(stats_path: Path, model_name: str, mean_annotation_time: di
 
     # New stats entry
     entry = {
-        "timestamp": datetime.now().isoformat(),
+        "timestamp": datetime.now().replace(microsecond=0).isoformat(sep=","),
         "model": model_name,
         "model_load_time": model_load_time,
         "mean_annotation_time_sec_per_image": mean_annotation_time,
-        "number_of_images": n_images,
-        "total_annotation_time": total_time
+        "number_of_annotations": n_annotations,
+        "total_annotation_time": total_annotation_time,
+        "total_time": total_time
     }
 
     stats_data.append(entry)

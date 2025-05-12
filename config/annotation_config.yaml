@@ -1,11 +1,8 @@
 models:
-  ollama_model_names: ["llama3.2:1b", "deepseek-r1"]
-  output_names: ["llama3-2:1B", "deepseek-r1:7B"]
-dataset_path: "./datasets/example_set" 
-output_path: "./outputs/example_set"
-save_stats: TRUE
+    ollama_model_names: llama3.2:1b       # List (or single string) of model identifiers as recognized by Ollama (see: https://ollama.com/library)
+    output_names: llama3-2-1B             # List (or single string) of custom names of models used in output filenames (<person_name>_LLM_data_<output_name>_prompt_<prompt_id>.json)
 
+dataset_path: ...                 # Path to the dataset directory
+output_path: ...                  # Path to the output directory
 
-    
-
-
+save_stats: ...                   # True/False to enable saving time statistics (e.g., model load time, annotation time)

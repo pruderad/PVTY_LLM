@@ -6,6 +6,7 @@ import time
 from tqdm import tqdm
 from pathlib import Path
 from collections import defaultdict
+import sys
 
 from parser import PersonParser
 from data_loader import DataLoader
@@ -98,7 +99,7 @@ if __name__ == "__main__":
     # ------------------------------
     dataset_path = Path(annotation_config["dataset_path"])
     output_path = Path(annotation_config["output_path"])
-    prompt_templates = prompts_config.get("prompt_templates", [])
+    prompt_templates = ensure_list(prompts_config.get("prompt_templates", []))
 
     data_json_path = Path("data_json") / f"{dataset_path.name}.json"
     data_json_path.parent.mkdir(parents=True, exist_ok=True)  # ensure directory exists
@@ -114,9 +115,10 @@ if __name__ == "__main__":
     # ------------------------------
     # Parse and Load Data
     # ------------------------------
-    print(f'INFO: Parsing data: {device}\n')
+    print(f'INFO: Parsing data')
     parser = PersonParser(dataset_path)
     parser.parse_all_persons(path=data_json_path, write=True)
+    print(f'INFO: Data parsed')
 
     dataloader = DataLoader(data_json_path)
     persons_list = dataloader.load_persons_from_json()
@@ -125,7 +127,6 @@ if __name__ == "__main__":
     # Start Ollama
     # ------------------------------
     if not is_ollama_running():
-        #ollama_process = subprocess.Popen(["ollama", "serve"], stdout=sys.stdout, stderr=sys.stderr)
         ollama_process = subprocess.Popen(["ollama", "serve"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         time.sleep(5)
         print(f"INFO: Ollama running")
@@ -148,25 +149,26 @@ if __name__ == "__main__":
         # ------------------------------
         start_model_load = time.perf_counter()
         start_total_time = time.perf_counter()
+        print(f"INFO: Loading model: {model_name}")
         ollama_load_model(model)
-        print(f"INFO: Model loaded")
+        print(f"INFO: Model loaded: {model_name}")
         end_model_load = time.perf_counter()
         stats["model_load_time_sec"] = end_model_load - start_model_load
 
         prompt_times = defaultdict(list)
-        n_images = 0
+        n_annotations = 0
 
-        for person in tqdm(persons_list, total=len(persons_list), desc="Processing Persons"):
-            for prompt_id, template_prompt in tqdm(enumerate(prompt_templates), total=len(prompt_templates), desc="Processing Prompts", leave=False, colour="MAGENTA"):
+        for person in tqdm(persons_list, total=len(persons_list), desc="Processing Persons", file=sys.stdout, dynamic_ncols=True):
+            for prompt_id, template_prompt in tqdm(enumerate(prompt_templates), total=len(prompt_templates), desc="Processing Prompts", leave=False, colour="MAGENTA", disable=None):
                 prompt_results = []
 
                 for caption, path in zip(person.captions, person.paths):
                     prompt = template_prompt.format(caption=caption, person_text=person.text)
-                    n_images += 1
+                    n_annotations += 1
 
                     start_annot = time.perf_counter()
 
-                    result = annotate(model=model, prompt=prompt, caption=caption, path=path, person=person, verbose=True)
+                    result = annotate(model=model, prompt=prompt, caption=caption, path=path, person=person, verbose=False)
 
                     end_annot = time.perf_counter()
                     prompt_times[prompt_id].append(end_annot - start_annot)
@@ -189,10 +191,11 @@ if __name__ == "__main__":
         if save_stats:
             save_stats_entry(
                 stats_path=stats_file,
-                model_name=model,
+                model_name=model_name,
                 mean_annotation_time=stats["mean_annotation_time_sec_per_image"],
+                total_annotation_time=end_total_time-end_model_load,
                 model_load_time=stats["model_load_time_sec"],
-                n_images=n_images,
+                n_annotations=n_annotations,
                 total_time=end_total_time-start_total_time
             )
 

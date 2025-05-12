@@ -20,8 +20,8 @@ cd ~/PVTY_LLM/
 
 source ~/anaconda3/etc/profile.d/conda.sh
 
-conda activate ollama
+conda activate ollama_env
 
 export SSL_CERT_FILE=$(python -c "import certifi; print(certifi.where())")
 
-python3 ollama_structured_annotate.py
+python3 ollama_annotate.py
