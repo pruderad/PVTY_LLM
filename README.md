@@ -1,8 +1,8 @@
 # LLM Annotation
 
-This project uses Large Language Models (LLMs) to automatically annotate images of people from Wikipedia by estimating their age.
+This project uses Large Language Models (LLMs) to automatically annotate images of people from Wikipedia by estimating their age from text and image captions.
 
-## How to setup the LLM annotation?
+## 🔧 How to setup the LLM annotation?
 The simplest way to get started is by using the provided preconfigured Conda environment.
 
 ### On Linux (locally)
@@ -50,6 +50,26 @@ The simplest way to get started is by using the provided preconfigured Conda env
    If you're running on the `interactive` partition and encounter SSL certificate errors, run:
 
            export SSL_CERT_FILE=$(python -c "import certifi; print(certifi.where())")
+
+9. To run annotation:
+
+           python3 ollama_annotate.py
+
+
+## ⚙️ Custom configuration of annotation
+
+```yaml
+models:
+    ollama_model_names: model or [model1, model2, ...]                  # List (or single string) of model identifiers as recognized by Ollama (see: https://ollama.com/library)
+    output_names: model_name or [model_name1, model_name2, ...]         # List (or single string) of custom names of models used in output filenames (<person_name>_LLM_data_<output_name>_prompt_<prompt_id>.json)
+
+dataset_path: ...                 # Path to the dataset directory
+output_path: ...                  # Path to the output directory
+
+save_stats: ...                   # True/False to enable saving time statistics (e.g., model load time, annotation time)
+```
+
+
 
 📂 ⚙️ 🚀 📊 📦 🧠 📌 📧 
  
