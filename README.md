@@ -90,6 +90,9 @@ prompt_templates:     # List of prompt templates. Use {caption} and {person_text
       prompt 2
 ```
 
+## 📊 Model library
+Ollama supports a list of models available on [ollama.com/library](https://ollama.com/library)
+
 
 
 📂 ⚙️ 🚀 📊 📦 🧠 📌 📧 
