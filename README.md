@@ -57,9 +57,13 @@ The simplest way to get started is by using the provided preconfigured Conda env
 
 9. Create your configuration in `config/annotation_config.yaml` and `config/prompts.yaml`. You can use example configuration from `config/example/...`
 
-10. To run annotation:
+10. To run annotation on `interactive` partition:
 
         python3 ollama_annotate.py
+
+11. To run annotation on noninteractive batch job you can use provided `job.batch` file:
+
+        sbatch job.batch
 
 
 ## ⚙️ Custom configuration of annotation
