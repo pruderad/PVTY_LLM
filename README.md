@@ -44,11 +44,11 @@ The simplest way to get started is by using the provided preconfigured Conda env
            export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:/home/<your_name>/lib/ollama/cuda_v12/"
            export PATH="$PATH:/home/<your_name>/bin"
 
-7. Apply Changes:
+7. Apply changes:
 
            source ~/.bashrc
 
-8. Fix SSL Certificate Issues (Optional):
+8. Fix SSL Certificate issues (Optional):
 
 
    If you're running on the `interactive` partition and encounter SSL certificate errors, run:
