@@ -136,7 +136,8 @@ if __name__ == "__main__":
     # ------------------------------
     stats = {
         "model_load_time_sec": 0.0,
-        "mean_annotation_time_sec_per_image": {}
+        "mean_annotation_time_sec_per_image": {},
+        "GPU_memory": {}
     }
 
     # ------------------------------
@@ -155,10 +156,15 @@ if __name__ == "__main__":
         end_model_load = time.perf_counter()
         stats["model_load_time_sec"] = end_model_load - start_model_load
 
+        gpu_mem_usage = get_gpu_memory_usage()
+        if gpu_mem_usage:
+            for idx, mem in enumerate(gpu_mem_usage):
+                stats["GPU_memory"][f"GPU_{idx}"] = mem / 1024
+
         prompt_times = defaultdict(list)
         n_annotations = 0
 
-        for person in tqdm(persons_list, total=len(persons_list), desc="Processing Persons", file=sys.stdout, dynamic_ncols=True):
+        for person in tqdm(persons_list, total=len(persons_list), desc="Processing People", file=sys.stdout, dynamic_ncols=True):
             for prompt_id, template_prompt in tqdm(enumerate(prompt_templates), total=len(prompt_templates), desc="Processing Prompts", leave=False, colour="MAGENTA", disable=None):
                 prompt_results = []
 
@@ -196,7 +202,8 @@ if __name__ == "__main__":
                 total_annotation_time=end_total_time-end_model_load,
                 model_load_time=stats["model_load_time_sec"],
                 n_annotations=n_annotations,
-                total_time=end_total_time-start_total_time
+                total_time=end_total_time-start_total_time,
+                GPU_mem=stats["GPU_memory"] 
             )
 
 

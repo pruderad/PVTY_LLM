@@ -1,7 +1,7 @@
 prompt_templates:     # List of prompt templates. Use {caption} and {person_text} as placeholders.
                       # IMPORTANT: To include literal curly braces in the text, use double braces: {{your text}}.
   - |
-      prompt 1 
+      prompt 1
     
   - |
       prompt 2

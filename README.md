@@ -100,6 +100,4 @@ Ollama supports a list of models available on [ollama.com/library](https://ollam
 Some example models that can be downloaded are also listed on [github.com/ollama](https://github.com/ollama/ollama).
  
 
-
-📂 ⚙️ 🚀 📊 📦 🧠 📌 📧 
  

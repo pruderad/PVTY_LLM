@@ -1,98 +1,122 @@
 [
     {
-        "timestamp": "2025-05-12,22:24:54",
+        "timestamp": "2025-05-13,15:53:32",
         "model": "llama3-3-70B",
-        "model_load_time": 321.88947120995726,
+        "model_load_time": 310.17663943592925,
+        "model_GPU_usage_GB": {
+            "GPU_0": 0.0009765625,
+            "GPU_1": 43.1259765625
+        },
         "mean_annotation_time_sec_per_image": {
-            "prompt_0": 3.6069,
-            "prompt_1": 3.4647,
-            "prompt_2": 3.5173,
-            "prompt_3": 3.4777,
-            "prompt_4": 3.412,
-            "prompt_5": 3.4199
+            "prompt_0": 3.5399,
+            "prompt_1": 3.4546,
+            "prompt_2": 3.5104,
+            "prompt_3": 3.4702,
+            "prompt_4": 3.4168,
+            "prompt_5": 3.4078
         },
         "number_of_annotations": 36,
-        "total_annotation_time": 125.64545693597756,
-        "total_time": 447.53492658399045
+        "total_annotation_time": 125.22099512303248,
+        "total_time": 435.3976334769977
     },
     {
-        "timestamp": "2025-05-12,22:34:42",
+        "timestamp": "2025-05-13,16:03:30",
         "model": "deepseek-r1-llama-70B",
-        "model_load_time": 460.0053811619291,
+        "model_load_time": 470.2293366040103,
+        "model_GPU_usage_GB": {
+            "GPU_0": 0.0009765625,
+            "GPU_1": 43.0791015625
+        },
         "mean_annotation_time_sec_per_image": {
-            "prompt_0": 3.6697,
-            "prompt_1": 3.6412,
-            "prompt_2": 3.608,
-            "prompt_3": 3.4592,
-            "prompt_4": 3.4731,
-            "prompt_5": 3.4837
+            "prompt_0": 3.6829,
+            "prompt_1": 3.6429,
+            "prompt_2": 3.6146,
+            "prompt_3": 3.4644,
+            "prompt_4": 3.4803,
+            "prompt_5": 3.4888
         },
         "number_of_annotations": 36,
-        "total_annotation_time": 128.16163107100874,
-        "total_time": 588.1670117119793
+        "total_annotation_time": 128.32348037406337,
+        "total_time": 598.5528165180003
     },
     {
-        "timestamp": "2025-05-12,22:39:11",
+        "timestamp": "2025-05-13,16:08:05",
         "model": "deepseek-r1-qwen-32B",
-        "model_load_time": 170.23335114005022,
+        "model_load_time": 175.83553991094232,
+        "model_GPU_usage_GB": {
+            "GPU_0": 0.0009765625,
+            "GPU_1": 64.3779296875
+        },
         "mean_annotation_time_sec_per_image": {
-            "prompt_0": 2.7871,
-            "prompt_1": 2.7336,
-            "prompt_2": 2.6811,
-            "prompt_3": 2.7255,
-            "prompt_4": 2.7302,
-            "prompt_5": 2.6784
+            "prompt_0": 2.825,
+            "prompt_1": 2.7442,
+            "prompt_2": 2.6916,
+            "prompt_3": 2.7803,
+            "prompt_4": 2.7449,
+            "prompt_5": 2.6693
         },
         "number_of_annotations": 36,
-        "total_annotation_time": 98.15633543895092,
-        "total_time": 268.38968628796283
+        "total_annotation_time": 98.83359894203022,
+        "total_time": 274.6691385919694
     },
     {
-        "timestamp": "2025-05-12,22:41:05",
+        "timestamp": "2025-05-13,16:09:58",
         "model": "deepseek-r1-qwen-14B",
-        "model_load_time": 65.92442504805513,
+        "model_load_time": 64.25753269495908,
+        "model_GPU_usage_GB": {
+            "GPU_0": 0.0009765625,
+            "GPU_1": 31.8701171875
+        },
         "mean_annotation_time_sec_per_image": {
-            "prompt_0": 1.4841,
-            "prompt_1": 1.3292,
-            "prompt_2": 1.3492,
-            "prompt_3": 1.3088,
-            "prompt_4": 1.3012,
-            "prompt_5": 1.3225
+            "prompt_0": 1.5516,
+            "prompt_1": 1.3239,
+            "prompt_2": 1.352,
+            "prompt_3": 1.3025,
+            "prompt_4": 1.3005,
+            "prompt_5": 1.3155
         },
         "number_of_annotations": 36,
-        "total_annotation_time": 48.717381138005294,
-        "total_time": 114.64180573506746
+        "total_annotation_time": 48.958404646022245,
+        "total_time": 113.2159370899899
     },
     {
-        "timestamp": "2025-05-12,22:42:10",
+        "timestamp": "2025-05-13,16:10:58",
         "model": "deepseek-r1-llama-8B",
-        "model_load_time": 38.72059318609536,
+        "model_load_time": 35.40018545696512,
+        "model_GPU_usage_GB": {
+            "GPU_0": 0.0009765625,
+            "GPU_1": 38.2333984375
+        },
         "mean_annotation_time_sec_per_image": {
-            "prompt_0": 0.8287,
-            "prompt_1": 0.6884,
-            "prompt_2": 0.7073,
-            "prompt_3": 0.6916,
-            "prompt_4": 0.6564,
-            "prompt_5": 0.7095
+            "prompt_0": 0.781,
+            "prompt_1": 0.6863,
+            "prompt_2": 0.6885,
+            "prompt_3": 0.6456,
+            "prompt_4": 0.6363,
+            "prompt_5": 0.6877
         },
         "number_of_annotations": 36,
-        "total_annotation_time": 25.856682801968418,
-        "total_time": 64.57727549702395
+        "total_annotation_time": 24.82862104801461,
+        "total_time": 60.22880612395238
     },
     {
-        "timestamp": "2025-05-12,22:43:20",
+        "timestamp": "2025-05-13,16:12:07",
         "model": "deepseek-r1-qwen-7B",
-        "model_load_time": 35.953011326957494,
+        "model_load_time": 34.99104652705137,
+        "model_GPU_usage_GB": {
+            "GPU_0": 0.0009765625,
+            "GPU_1": 22.4521484375
+        },
         "mean_annotation_time_sec_per_image": {
-            "prompt_0": 1.0736,
-            "prompt_1": 0.9434,
-            "prompt_2": 0.8944,
-            "prompt_3": 0.9065,
-            "prompt_4": 0.9531,
-            "prompt_5": 0.8583
+            "prompt_0": 1.0545,
+            "prompt_1": 0.9351,
+            "prompt_2": 0.9027,
+            "prompt_3": 0.9114,
+            "prompt_4": 0.9549,
+            "prompt_5": 0.8352
         },
         "number_of_annotations": 36,
-        "total_annotation_time": 33.92068920505699,
-        "total_time": 69.87369923002552
+        "total_annotation_time": 33.63344165496528,
+        "total_time": 68.62448778096586
     }
 ]
