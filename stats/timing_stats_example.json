@@ -40,83 +40,83 @@
         "total_time": 598.5528165180003
     },
     {
-        "timestamp": "2025-05-13,16:08:05",
+        "timestamp": "2025-05-13,16:31:29",
         "model": "deepseek-r1-qwen-32B",
-        "model_load_time": 175.83553991094232,
+        "model_load_time": 162.04575560602825,
         "model_GPU_usage_GB": {
-            "GPU_0": 0.0009765625,
-            "GPU_1": 64.3779296875
+            "GPU_0": 21.2119140625,
+            "GPU_1": 0.0009765625
         },
         "mean_annotation_time_sec_per_image": {
-            "prompt_0": 2.825,
-            "prompt_1": 2.7442,
-            "prompt_2": 2.6916,
-            "prompt_3": 2.7803,
-            "prompt_4": 2.7449,
-            "prompt_5": 2.6693
+            "prompt_0": 2.7634,
+            "prompt_1": 2.7223,
+            "prompt_2": 2.6854,
+            "prompt_3": 2.7005,
+            "prompt_4": 2.7279,
+            "prompt_5": 2.6467
         },
         "number_of_annotations": 36,
-        "total_annotation_time": 98.83359894203022,
-        "total_time": 274.6691385919694
+        "total_annotation_time": 97.76326046593022,
+        "total_time": 259.80901498999447
     },
     {
-        "timestamp": "2025-05-13,16:09:58",
+        "timestamp": "2025-05-13,16:37:58",
         "model": "deepseek-r1-qwen-14B",
-        "model_load_time": 64.25753269495908,
+        "model_load_time": 56.84696357999928,
         "model_GPU_usage_GB": {
-            "GPU_0": 0.0009765625,
-            "GPU_1": 31.8701171875
+            "GPU_0": 10.5888671875,
+            "GPU_1": 0.0009765625
         },
         "mean_annotation_time_sec_per_image": {
-            "prompt_0": 1.5516,
-            "prompt_1": 1.3239,
-            "prompt_2": 1.352,
-            "prompt_3": 1.3025,
+            "prompt_0": 1.5017,
+            "prompt_1": 1.3149,
+            "prompt_2": 1.3437,
+            "prompt_3": 1.3008,
             "prompt_4": 1.3005,
-            "prompt_5": 1.3155
+            "prompt_5": 1.3139
         },
         "number_of_annotations": 36,
-        "total_annotation_time": 48.958404646022245,
-        "total_time": 113.2159370899899
+        "total_annotation_time": 48.723653855966404,
+        "total_time": 105.57061633397825
     },
     {
-        "timestamp": "2025-05-13,16:10:58",
+        "timestamp": "2025-05-13,16:41:17",
         "model": "deepseek-r1-llama-8B",
-        "model_load_time": 35.40018545696512,
+        "model_load_time": 35.290866881026886,
         "model_GPU_usage_GB": {
-            "GPU_0": 0.0009765625,
-            "GPU_1": 38.2333984375
+            "GPU_0": 6.2939453125,
+            "GPU_1": 0.0009765625
         },
         "mean_annotation_time_sec_per_image": {
-            "prompt_0": 0.781,
-            "prompt_1": 0.6863,
-            "prompt_2": 0.6885,
-            "prompt_3": 0.6456,
-            "prompt_4": 0.6363,
-            "prompt_5": 0.6877
+            "prompt_0": 0.767,
+            "prompt_1": 0.6793,
+            "prompt_2": 0.6874,
+            "prompt_3": 0.6433,
+            "prompt_4": 0.632,
+            "prompt_5": 0.6837
         },
         "number_of_annotations": 36,
-        "total_annotation_time": 24.82862104801461,
-        "total_time": 60.22880612395238
+        "total_annotation_time": 24.816348074004054,
+        "total_time": 60.107213582028635
     },
     {
-        "timestamp": "2025-05-13,16:12:07",
+        "timestamp": "2025-05-13,16:44:33",
         "model": "deepseek-r1-qwen-7B",
-        "model_load_time": 34.99104652705137,
+        "model_load_time": 33.3158821699908,
         "model_GPU_usage_GB": {
-            "GPU_0": 0.0009765625,
-            "GPU_1": 22.4521484375
+            "GPU_0": 5.4365234375,
+            "GPU_1": 0.0009765625
         },
         "mean_annotation_time_sec_per_image": {
-            "prompt_0": 1.0545,
-            "prompt_1": 0.9351,
-            "prompt_2": 0.9027,
-            "prompt_3": 0.9114,
-            "prompt_4": 0.9549,
-            "prompt_5": 0.8352
+            "prompt_0": 1.0405,
+            "prompt_1": 0.929,
+            "prompt_2": 0.8834,
+            "prompt_3": 0.899,
+            "prompt_4": 0.9306,
+            "prompt_5": 0.8286
         },
         "number_of_annotations": 36,
-        "total_annotation_time": 33.63344165496528,
-        "total_time": 68.62448778096586
+        "total_annotation_time": 33.34177422791254,
+        "total_time": 66.65765502490103
     }
 ]
