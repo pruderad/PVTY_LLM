@@ -98,6 +98,30 @@ prompt_templates:     # List of prompt templates. Use {caption} and {person_text
 Ollama supports a list of models available on [ollama.com/library](https://ollama.com/library).
 
 Some example models that can be downloaded are also listed on [github.com/ollama](https://github.com/ollama/ollama).
- 
+
+## 📄 Output format
+
+```json
+[
+    {
+        "name": str,
+        "birthday": str,
+        "year_of_photo": str,
+        "year_of_photo_int": int,
+        "can_determine": bool,
+        "caption": str,
+        "path": str
+    }
+]
+```
+
+To extract birtday year, you can use this function from `utils.py`:
+
+    def extract_year(date_str: str):
+    try:
+        dt = parser.parse(date_str, fuzzy=True)
+        return dt.year
+    except ValueError:
+        return None  # Return None if parsing fails
 
  
