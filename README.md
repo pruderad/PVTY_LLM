@@ -79,6 +79,7 @@ save_stats: ...                   # True/False to enable saving time statistics 
 ```
 
 ### `config/prompts.yaml`:
+⚠️ **Important Note: To include literal curly braces in the text, use double braces: {{your text}}.**
 ```yaml
 prompt_templates:     # List of prompt templates. Use {caption} and {person_text} as placeholders.
                       # IMPORTANT: To include literal curly braces in the text, use double braces: {{your text}}.
