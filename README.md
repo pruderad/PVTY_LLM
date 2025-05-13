@@ -91,8 +91,10 @@ prompt_templates:     # List of prompt templates. Use {caption} and {person_text
 ```
 
 ## 📊 Model library
-Ollama supports a list of models available on [ollama.com/library](https://ollama.com/library)
+Ollama supports a list of models available on [ollama.com/library](https://ollama.com/library).
 
+Some example models that can be downloaded are also listed on [github.com/ollama](https://github.com/ollama/ollama).
+ 
 
 
 📂 ⚙️ 🚀 📊 📦 🧠 📌 📧 
