@@ -11,18 +11,22 @@ The simplest way to get started is by using the provided preconfigured Conda env
 3. Run this command:
 
            conda env create -f environment.yml
-4. Activate conda enviroment:
+   
+5. Activate conda enviroment:
 
           conda activate ollama_env
-5. Download and install Ollama:
+   
+7. Download and install Ollama:
 
           curl -fsSL https://ollama.com/install.sh | sh
-6. You can download small model to test if everything works. For example:
+   
+9. You can download small model to test if everything works. For example:
 
           ollama run llama3.2:1b
-7. Create your configuration in `config/annotation_config.yaml` and `config/prompts.yaml`. You can use example configuration from `config/example/...`
+   
+11. Create your configuration in `config/annotation_config.yaml` and `config/prompts.yaml`. You can use example configuration from `config/example/...`
 
-8. To run annotation:
+12. To run annotation:
 
            python3 ollama_annotate.py
 
@@ -51,13 +55,18 @@ The simplest way to get started is by using the provided preconfigured Conda env
 
            export SSL_CERT_FILE=$(python -c "import certifi; print(certifi.where())")
 
-9. To run annotation:
+9. Create your configuration in `config/annotation_config.yaml` and `config/prompts.yaml`. You can use example configuration from `config/example/...`
+
+10. To run annotation:
 
            python3 ollama_annotate.py
 
 
 ## ⚙️ Custom configuration of annotation
+To configurate annotation edit file `config/annotation_config.yaml`. To create custom prompts edit file `config/prompts.yaml`. You can use example configuration from `config/example/...`.
 
+
+### `config/annotation_config.yaml`:
 ```yaml
 models:
     ollama_model_names: model or [model1, model2, ...]                  # List (or single string) of model identifiers as recognized by Ollama (see: https://ollama.com/library)
@@ -67,6 +76,17 @@ dataset_path: ...                 # Path to the dataset directory
 output_path: ...                  # Path to the output directory
 
 save_stats: ...                   # True/False to enable saving time statistics (e.g., model load time, annotation time)
+```
+
+### `config/prompts.yaml`:
+```yaml
+prompt_templates:     # List of prompt templates. Use {caption} and {person_text} as placeholders.
+                      # IMPORTANT: To include literal curly braces in the text, use double braces: {{your text}}.
+  - |
+      prompt 1
+    
+  - |
+      prompt 2
 ```
 
 
