@@ -10,7 +10,7 @@ The simplest way to get started is by using the provided preconfigured Conda env
 2. Download and install Anaconda.
 3. Run this command:
 
-        conda env create -f environment.yml
+           conda env create -f environment.yml
 4. Activate conda enviroment:
 
           conda activate ollama_env
@@ -28,6 +28,7 @@ The simplest way to get started is by using the provided preconfigured Conda env
 
 ### On RCI server
 1-4. Same as in the "On Linux (Locally)" section.
+
 5. To download and install Ollama you need to do manual installation:
 
         curl -L https://ollama.com/download/ollama-linux-amd64.tgz -o ollama-linux-amd64.tgz
@@ -44,7 +45,8 @@ The simplest way to get started is by using the provided preconfigured Conda env
            source ~/.bashrc
 
 8. Fix SSL Certificate Issues (Optional):
-   If you're running on the `interactive` partition and encounter SSL certificate errors, run:
+
+If you're running on the `interactive` partition and encounter SSL certificate errors, run:
 
            export SSL_CERT_FILE=$(python -c "import certifi; print(certifi.where())")
 
