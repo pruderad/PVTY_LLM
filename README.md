@@ -38,7 +38,7 @@ The simplest way to get started is by using the provided preconfigured Conda env
        curl -L https://ollama.com/download/ollama-linux-amd64.tgz -o ollama-linux-amd64.tgz
        tar -xzf ollama-linux-amd64.tgz -C ~/
 
-6. Add Ollama to PATH. Open your `.bashrc` file and add the following lines:
+6. Add Ollama to PATH. Open your `.bashrc` file and add the following lines (replace <your_name> with your actual username):
 
        export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:/home/<your_name>/lib/ollama/"
        export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:/home/<your_name>/lib/ollama/cuda_v12/"
