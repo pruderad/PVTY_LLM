@@ -12,21 +12,21 @@ The simplest way to get started is by using the provided preconfigured Conda env
 
        conda env create -f environment.yml
    
-5. Activate conda enviroment:
+4. Activate conda enviroment:
 
        conda activate ollama_env
    
-7. Download and install Ollama:
+5. Download and install Ollama:
 
        curl -fsSL https://ollama.com/install.sh | sh
    
-9. You can download small model to test if everything works. For example:
+6. You can download small model to test if everything works. For example:
 
        ollama run llama3.2:1b
    
-11. Create your configuration in `config/annotation_config.yaml` and `config/prompts.yaml`. You can use example configuration from `config/example/...`
+7. Create your configuration in `config/annotation_config.yaml` and `config/prompts.yaml`. You can use example configuration from `config/example/...`
 
-12. To run annotation:
+8. To run annotation:
 
         python3 ollama_annotate.py
 
@@ -55,13 +55,18 @@ The simplest way to get started is by using the provided preconfigured Conda env
 
        export SSL_CERT_FILE=$(python -c "import certifi; print(certifi.where())")
 
-9. Create your configuration in `config/annotation_config.yaml` and `config/prompts.yaml`. You can use example configuration from `config/example/...`
+9. You can download small model to test if everything works. For example:
 
-10. To run annotation on `interactive` partition:
+       ollama serve # In new terminal
+       ollama run llama3.2:1b
+
+11. Create your configuration in `config/annotation_config.yaml` and `config/prompts.yaml`. You can use example configuration from `config/example/...`
+
+12. To run annotation on `interactive` partition:
 
         python3 ollama_annotate.py
 
-11. To run annotation on noninteractive batch job you can use provided `job.batch` file:
+13. To run annotation on noninteractive batch job you can use provided `job.batch` file:
 
         sbatch job.batch
 
