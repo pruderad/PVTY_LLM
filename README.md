@@ -45,8 +45,7 @@ The simplest way to get started is by using the provided preconfigured Conda env
            source ~/.bashrc
 
 8. Fix SSL Certificate Issues (Optional):
-
-If you're running on the `interactive` partition and encounter SSL certificate errors, run:
+ If you're running on the `interactive` partition and encounter SSL certificate errors, run:
 
            export SSL_CERT_FILE=$(python -c "import certifi; print(certifi.where())")
 
